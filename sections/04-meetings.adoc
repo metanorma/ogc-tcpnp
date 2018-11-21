@@ -1,0 +1,64 @@
+
+[[meetings-of-the-technical-committee]]
+== Meetings of the Technical Committee
+
+This section describes the Policies and Procedures for meetings of the OGC Technical Committee.
+
+[[meetings-of-the-tc]]
+=== Meetings of the TC
+
+Technical Committee meetings shall be conducted under the general guidance of Robert's Rules of Orderfootnote:[http://www.robertsrules.com/ Robert’s Rules of Order, Eleventh Edition, 2011.] (RONR). Meetings shall be facilitated by the TCC or other appointed representative(s) of the OGC. The planning goal is to have four meetings per year. The number of meetings per year can be changed by a vote of the TC and the PC or by direction of the Board of Directors.
+
+TC meeting dates and locations will be announced as far in advance as possible but no less than four months in advance of the meeting. Announcements will be through formal OGC Communication. All recommendations, summary notes, presentations, and so forth shall be posted to the OGC Member Portal.
+
+[[attendance-at-tc-meetings]]
+=== Attendance at TC Meetings
+
+Only members of the OGC, Invited Speakers, and Invited Guests are welcome at TC meetings. Any TC member may send another representative of his or her organization as a substitute to a TC meeting (please note <<proxy-for-voting>>). Subgroups may only meet by being formally scheduled by the TCC or designee during the course of regularly scheduled TC meetings (subgroups cannot have alternative meetings that overlap temporally with the TC Meeting without approval of the TCC or PC).
+
+[[policy-for-invited-guests]]
+=== Policy for Invited Guests
+
+From time to time, OGC staff or an OGC member may wish to invite one or more individuals from organizations who are not OGC Members to attend an OGC TC meeting. Reasons for invitations may be to provide technical input, speak (see Policy for Invited Speakers below), or meet with OGC members and/or staff on items and issues germane to the work of the OGC.
+
+Invited Guests (representatives of organizations that are not members of the TC) may actively participate in an OGC meeting at the sole discretion of the TCC. That is, in the interests of ensuring the efficient operation of any meeting, the TCC may limit or eliminate the opportunity of any invited guest to participate in discussion at any meeting.
+
+All Invited Guest invitations and registration must be coordinated with the TCC and the OGC staff responsible for meeting logistics. The steps are very similar to those for Invited Speakers.
+
+* OGC staff or the DWG/SWG Chair provides a formal invitation to the individual with a cc to the TCC and the TC meeting support staff.
+* The TCC approves the invitation.
+* OGC provides the invited guest with a registration code.
+* The invited guest must register with the provided guest registration code.
+* Invited guests may or may not have to sign a non-disclosure agreement (NDA). For special meetings held in parallel with the OGC TC meetings, such as an OGC Interoperability Day, summits and workshops, or a Standards Coordination meeting, NDAs are not required.
+
+The Invited Guest may or may not have to pay a meeting registration fee. OGC staff will work with the members to determine the fee structure for Invited Guests for any given TC meeting.
+
+[[policy-for-invited-speakers]]
+=== Policy for Invited Speakers
+
+From time to time, OGC staff or Members wish to invite an individual from a non-Member organization to speak at an OGC Working Group meeting or Plenary session. Any invited speaker may attend the TC meetings for the day on which they are speaking without having to pay the TC meeting fee. The process is as follows.
+
+* The DWG/SWG Chair provides a formal invitation to the individual with a cc to the TCC and the TC meeting support staff. The formal invitation may be via email.
+* The TCC approves the invitation.
+* The OGC provides the invited speaker with a speaker registration code.
+* The invited speaker must register with the provided speaker registration code.
+
+If the invited speaker wishes to spend more time at the TC meetings beyond the day on which they are speaking, they will need to pay the required TC meeting fee, unless waived. For the day the invited speaker is attending, they are free to partake of any refreshments but will need to pay for their own lunch or any related OGC social event they wish to attend on that day. Finally, the speaker may need to sign the standard OGC Non-Disclosure Agreement (NDA).
+
+[[agenda-and-schedule-of-a-tc-meeting]]
+=== Agenda and Schedule of a TC Meeting
+
+At least eight weeks before a TC meeting, a draft master schedule for that TC meeting will be posted to the public OGC web site. The agenda is managed solely by the TCC or designee and will be modified prior to the meeting as appropriate. The TCC will maintain a master agenda that is available to members and which is generated from the agendas of each WG as they are populated.
+
+The WG Chairs shall provide the TCC or designee meeting date and time requests at least 4 weeks before the actual TC meeting. The earlier the better!
+
+Each WG Chair shall email an agenda to OGC members at least three weeks before the meeting. Due to schedule conflicts, WG Chairs that fail to provide a proposed agenda by three weeks before the meeting may forfeit the right to meet during the course of regularly scheduled TC meeting times. However, the Chairs of a WG that do not provide an agenda can elect to have an ad-hoc meeting during the off-hours (such as a breakfast or after dinner session).
+
+[[policies-related-to-the-recording-of-an-ogc-meeting]]
+=== Policies related to the recording of an OGC Meeting
+
+If there is a GoToMeeting (or similar technology) session assigned for a specific OGC Working Group, TC Plenary, or PC meeting, there is the option to record the session for later use by OGC staff and OGC members. Guidance for such recording is as follows.
+
+* The members attending the meeting need to be notified that the meeting is being recorded. If there are objections, then the meeting shall not be recorded.
+* The recording shall remain members-only and shall not be available to the public. The exception is for open meetings in which the public is invited to attend.
+* All recordings shall be uploaded to the appropriate meeting folder on the OGC portal.

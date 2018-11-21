@@ -1,0 +1,183 @@
+
+[[document-types-and-document-processes-of-the-tc]]
+== Document Types and Document Processes of the TC
+
+This section describes the various OGC documents and document handling processes that are the responsibility of the TC.
+
+[[an-ogc-policy-document]]
+=== An OGC Policy Document
+
+A policy is a principle, rule or process that guide decisions to achieve rational outcome(s). The work of the OGC is guided by a number of Member approved policies and processes. These policies and processes are documented in various OGC Policies and Procedures documents. These shall be known as “Policy” documents. This TC P&P is a policy document. Policy documents are either maintained by the Members or by OGC staff. In all cases, new policy documents or revisions to existing policy documents shall be reviewed and approved by both the Technical and Planning Committees. Approval of a policy document shall follow the e-voting rules as defined in <<tc-electronic-voting>>. If the TC approves the Policy document, then a simple majority of the PC Voting Members must approve the TC recommendation.
+
+Policy documents have version numbers that shall start at 1.0
+
+[[the-standards-document]]
+=== The Standards Document
+
+An OGC standards document is the principal document type that captures the work and the consensus of the OGC membership. Standards documents must use the OGC standards document template (with the exception of Community standardsfootnote:[While there is not a formal requirement for a Community standard to use the OGC document template for a standard the OGC encourages the Candidate standard submission team to consider using the OGC document template.]) that can be downloaded in Word format from: https://portal.opengeospatial.org/?m=public&subtab=templates&tab=1 or which is available in the OGC GitHub repository as a series of AsciiDoc files.
+
+OGC uses a multi-track standards policy with three possible states: OGC Community standard, OGC standard, and OGC standard with Compliance Suite. These are described in <<the-two-track-standards-process-characteristics>>.
+
+Approval of an OGC standard is described in <<policies-and-procedures-for-adoption-andor-revisions-of-standards>>.
+
+Each standard distributed by the OGC shall include a cover page with the statement as specified in https://portal.opengeospatial.org/public_ogc/directives/directives.php[Policy Directive 4].
+
+Standards documents have version numbers that shall start at 1.0.
+
+[[the-ogc-reference-model]]
+=== The OGC Reference Model
+
+The TC will periodically be asked to review and vote on the OGC Reference Model (ORM) Document. The ORM describes a framework for the ongoing work of the OGC and our standards and implementing interoperable solutions and applications for geospatial services, data, and applications. The ORM can be found at:
+
+http://www.opengeospatial.org/standards/orm
+
+Any version of the ORM, once approved by the TC and the PC, is released as a public document.
+
+[[discussion-papers]]
+=== Discussion Papers
+
+WGs and SCs shall often be used to hear presentations in their interest area. Further, a WG or SC can generate Discussion Papers for the industry covering a specific technology area germane to the WG’s or SC’s interest area. In either case, the WG or SC makes a recommendation to the TC for release of the document as a Discussion Paper.
+
+Motions to approve release of a document as a Discussion Paper may originate from a WG or SC with TC approval, from a motion at a TC Plenary, or from a motion by the TCC.
+
+While these Discussion Papers shall be distributed by the OGC, and might in fact lead to adopted standards later, they do not represent an official position of the OGC TC or the OGC itself. Each Discussion Paper distributed by the OGC shall include a cover page with the statement as specified in https://portal.opengeospatial.org/public_ogc/directives/directives.php[Policy Directive 5].
+
+Discussion Papers do not have a version number.
+
+[[public-engineering-reports]]
+=== Public Engineering Reports
+
+Any OGC Interoperability Initiative, such as a Test Bed or Interoperability Experiment, will have Engineering Reports (ER) as a deliverable. These ERs are typically posted to pending documents and presented and discussed in a WG at an OGC TC face-to-face meeting. The WG may recommend to the TC that the ER be publicly released. If approved by the TC, these documents shall be released as “Public Engineering Reports”.
+
+While these ERs shall be distributed by the OGC, and might in fact lead to adopted standards later, they do not represent the official position of the OGC TC or the OGC.
+
+Motions to approve release of a document as an Engineering Report may originate from a WG with TC approval, from a motion at a TC Plenary, or from a motion by the TCC.
+
+Each Public Engineering Report distributed by the OGC shall include a cover page with the statement as specified in https://portal.opengeospatial.org/public_ogc/directives/directives.php[Policy Directive 6].
+
+Engineering Reports do not have a version number.
+
+[[best-practices-documents]]
+=== Best Practices Documents
+
+OGC Members, TC subgroups, or Interoperability Initiatives may generate Best Practices (BP) Documents for the industry covering best practices related to the use of an OGC standard or other technology relevant to one or more OGC standards. A best practice is a technique or methodology that, through experience, implementation and research, has proven to reliably lead to a desired result.
+
+BP documents have version numbers that shall start at 1.0.
+
+[[submission-of-documents-to-be-considered-as-an-ogc-best-practice]]
+==== Submission of documents to be considered as an OGC Best Practice
+
+In order to be considered for approval as an OGC BP, the document submitters shall provide the following.
+
+* Evidence of implementation. Evidence of implementation shall include but not be limited to: Implementation in commercial product, implementation in open source applications or software, and/or implementation in deployed applications. A single research related implementation is not proper evidence of implementation.
+* An Abstract or Introduction in the document explaining why a submitted document is relevant to the OGC.
+* Presentation of the contents of the proposed BP at an OGC face-to-face meeting. The presentation may be done remotely using OGC communication tools, such as GoToMeeting.
+* Post the document to OGC Pending Documents on the OGC Members Portal for at least three weeks prior to the face-to-face presentation.
+
+[[approval-of-ogc-best-practice-documents]]
+==== Approval of OGC Best Practice Documents
+
+A BP is an official OGC position statement. Therefore, BP Documents shall be approved by formal electronic vote. Motions to initiate a BP e-vote may originate from a WG with TC approval, from a motion at a TC Plenary, or from a motion by the TCC.
+
+A BP vote has the same rules as a standards adoption vote (<<tc-electronic-voting>>).
+
+The BP document authors shall respond in writing (email is acceptable) to any comments received during the voting period. If necessary, the document authors shall edit the document. If the TCC deems that the edits to the document are more than editorial, then the document shall be posted to pending and a new BP approval e-vote shall be initiated.
+
+Each Best Practice Paper distributed by the OGC shall include a cover page with the statement as specified in https://portal.opengeospatial.org/public_ogc/directives/directives.php[Policy Directive 7].
+
+[[documents-and-distribution]]
+=== Documents and Distribution
+
+The numbered document (see <<document-numbers>>) as distributed to members is to be considered the official document of the TC. Electronic mail shall be used for day-to-day discussion of OGC documents. The preferred mechanism for document sharing is the OGC Members-only Portal. OGC Communication shall be used for announcing the availability of new official documents. The actual documents will not be distributed by email unless a member requests receiving a document by email. All official documents will be posted to the Portal. Other electronic forms of documents can be made available at the written request of members.
+
+The Members section of the OGC Portal (http://portal.opengeospatial.org) shall provide the default method of disseminating documents in electronic form. The TCC or his designee shall determine the electronic distribution formatfootnote:[Typically, official documents are provided to the public in Word “.doc” format or Adobe PDF format. However, various presentations, draft documents, and so forth can also be distributed in PowerPoint format, HTML, and other formats as provided by the Members. The TCC reserves the right to reject a document that is in a non-industry standard distribution format.] of these documents. RFC proposals, Discussion Papers, Best Practices Documents, and Engineering Reports must be provided in one of the formats defined in <<other-document-concerns>>. However, the preferred document format is the Word .doc format. The format for dissemination may change as distribution technology changes. Up until mid 2014, all approved Abstract Specification Topics and standards were only available in PDF format. Please note that the OGC has moved to publication of OGC standards documents in HTMLfootnote:[Initial publications in 2014.].
+
+[[document-numbers]]
+==== Document Numbers
+
+All member submitted documents shall be assigned a document number. Members can obtain pending document numbers using the members only Portal, OGC Pending Documents page located at https://portal.opengeospatial.org/?m=public&orderby=default&tab=1.
+
+Instructions for obtaining a Pending Document number and posting the document can be found at https://portal.opengeospatial.org/?m=public&subtab=instructions&tab=1.
+
+[[document-version-numbers]]
+==== Document version numbers
+
+The guidelines for version/revision numbers for documents are as follows.
+
+* All non-specification/standards documents do not have version numbers at publication.
+* Only approved OGC standards have document numbers 1.0.0 or greater. The first approved version of an OGC standard shall be version 1.0.0.
+* Corrigendum releases shall NOT result in any change to the major/minor number. If the standard being revised has schema, then the schema shall use the version attribute to document the revision number at the third level.
+* Revisions to an adopted standard typically result in a change to the minor number. For example, the first revision to an adopted 1.0 standard would be 1.1.0. Minor revision releases should be 100% backwards compatible with the previous version.
+* Changes to the major version number are reserved for when there are significant changes to the adopted standard or when backwards compatibility cannot be maintained with the previous version.
+
+See also https://portal.opengeospatial.org/public_ogc/directives/directives.php[Policy Directive 18].
+
+[[change-proposal-format]]
+==== Change Proposal Format
+
+Change Proposals for any OGC document shall use the procedures and format as documented in <<change-request-proposals-crp-to-an-ogc-document>>.
+
+[[other-document-concerns]]
+==== Other Document Concerns
+
+All documents with official OGC Document Numbers that are to be considered and discussed at a TC face to face meeting shall be made available electronically to all members at least three (3) weeks before the next TC meeting. However, this clause does not apply to informational documents for which there will not be any motions or actions. Numbered documents shall be posted to https://portal.opengeospatial.org/index.php?m=public&orderby=default&tab=1[Pending Documents].
+
+The TC will enforce this policy under the conditions described for the <<three-week-rule>>.
+
+All documents shall be made available in one or more of the following formats:
+
+* Microsoft Word including .docxfootnote:[Microsoft provides conversion tools for backwards compatibility.] format (preferred),
+* Rich Text Format (RTF),
+* Portable Document Format (PDF),
+* Hypertext Markup Language (HTML),
+* Microsoft PowerPoint (preferred for presentations),
+* Microsoft Excel (preferred for tabular information such as lists of URLs),
+* AsciiDoc, or
+* ASCII Text.
+
+[[policy-for-the-retiring-deprecating-or-rescinding-ogc-documents]]
+==== Policy for the Retiring, Deprecating, or Rescinding OGC Documents
+
+This section provides the policy and procedure for retiring, deprecating, or rescinding OGC documents. Note that retiring, deprecating, or rescinding an OGC standard results in the same fate for all extensions to that standard; such a fate is version-dependent: only the extensions specific to the exact version of the standard being retired, deprecated, or rescinded will share that fate. Deprecation of a standard does not automatically result in the deprecation of a profile of that standard.
+
+[[retiring-ogc-documents]]
+===== Retiring OGC Documents
+
+"Retirement" criteria can be based on one or more of the following:
+
+* A document is no longer technically up to date;
+* A document is not actively downloaded from the OGC website;
+* A document is no longer considered to be of interest by the Membership;
+* The document is no longer valid due to new OGC documents being published; or
+* For a standard, no one is implementing the standard.
+
+At the one-year anniversary for a Discussion Paper, the two-year anniversary of a Public Engineering Report and at the three-year anniversary of any standards documentfootnote:[If a standards document is retired, any associated Best Practice document shall automatically be retired,], the OGC shall determine whether the document should be retired or remain an active Member document. The TCC shall compile a list of such documents prior to any OGC Face-to-Face meeting. The OGC Staff shall also compile download statistics. This information shall be compiled into a single document, posted to pending documents, and an announcement of availability broadcast to the Membership.
+
+For discussion papers, public engineering reports, and best practices, the TCC shall create a set of motions related to documents for consideration for retirement by the TC Membership. The form of the motion shall be:
+
+“The TCC recommends that OGC document <xyz> remain an active OGC document.”
+
+A positive vote indicates that the document shall not be retired. These motions shall be presented at the closing plenary at a TC meeting. Based on the results of the vote, the target documents shall either be retired or remain active.
+
+In the case of a OGC standard, a formal electronic vote by the TC Voting Members is required to approve retirement.
+
+Retired documents are not removed from the OGC public website. Instead, they are moved from the current document archive to the "Retired" archive. Further, any retired document shall have “Retired” watermarked on the cover page. If there are schemas associated with a retired OGC standard, the schemas remain in the OGC schema repository. If there are compliance tests for the retired standard, the compliance tests are automatically retired but also remain available on the OGC web site.
+
+[[deprecating-ogc-standards]]
+===== Deprecating OGC standards
+
+OGC policy documents may be deprecated by vote of the TC. A deprecated document is no longer supported, but is made available to the public on the OGC website and other resources.
+
+* In the case of Policies and Procedures, approval of a revision automatically deprecates the previous version.
+* Standards and Best Practices may be deprecated by vote of the TC. Deprecation must be preceded by a 60-day public comment period informing the community that the standard is proposed for deprecation and requesting evidence to support or reject deprecation. Any comments received during the public comment period must be presented to the TC during the request to deprecate the standardfootnote:[The deprecation public comment period can start at any point prior to requesting approval of the revised standard. Such a review of the impact of deprecation should begin as soon as a SWG considers a revision that is intended to result in a deprecation of a standard.]. Where the document is proposed for deprecation because a new version of the document is to be approved, the deprecation vote may be part of the adoption vote for the new document. In this case, when the motion is made to the TC at a face-to-face meeting or email vote to approve the start of an electronic vote for a standard or Best Practice, that motion shall include a request to deprecate the previous version, if the previous version is recommended for deprecation by the WG. Where the document is proposed for deprecation and no future version is in consideration, then an electronic vote is required as described for <<retiring-ogc-documents>>.
+
+[[rescinding-ogc-standards]]
+===== Rescinding OGC standards
+
+OGC standards may be rescinded for three reasons:
+
+1.  The standard includes intellectual property that was unintentionally or illegally provided as part of the standard;
+2.  A Community standard is abandoned by its originating/maintaining party and the OGC membership does not take-over maintenance of that Community standard; or
+3.  A Community standard is judged by OGC membership to no longer be applicable to the OGC Mission.
+
+A standard is rescinded by electronic vote of the TC as described for <<retiring-ogc-documents>>.

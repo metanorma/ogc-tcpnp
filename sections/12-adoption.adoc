@@ -1,0 +1,5 @@
+
+[[adoption-of-this-policy-document]]
+== Adoption of This Policy Document
+
+In order to be accepted or modified, this document must be ratified by a two-thirds (2/3) vote (under the rules herein) at a TC meeting, electronic, or via electronic vote. Changes to this document are to be presented to the TC, included in the meeting's minutes, and ratified by the same procedure. Meetings in which a vote on acceptance or modification of this document is to occur must include the change in the published agenda for the meeting. Alternatively, the OGC PC can make changes to these Policies and Procedures by its normal operational process.

@@ -1,0 +1,24 @@
+
+[abstract]
+== Abstract
+
+The http://www.opengeospatial.org/[OGC] provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. “International standards”footnote:[As defined in ISO/IEC Directives, Part 2] are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:
+
+A document, established by consensus and approved by the OGC Membership, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context.
+
+To guide an open standards development and approval process, a member approved Policies and Procedures is required.
+
+This document describes the OGC Technical Committee (TC) policies and procedures (P&P). The TC has been granted authority to operate by the OGC Bylaws. The TC is composed of individuals representing organizations that are duly recognized members in good standing of the OGC. The Technical Committee Chair (TCC - see <<role-of-the-technical-committee-chair-tcc>>) facilitates the TC process.
+
+The TC P&P:
+
+* Documents all TC voting processes and procedures;
+* Documents the formation, scope and processes required for TC subgroup and committee activities;
+* Documents the processes and procedures for submitting, reviewing, and approving a new standard using the Request for Comment procedures; and
+* Documents the process for revisions to adopted OGC^®^ standards.
+
+As the needs and purpose of the TC change, these policies and procedures changes are approved by an electronic vote of the Voting Members of OGC TC or by recommendation of the OGC Planning Committee (PC). These policies and procedures may be augmented or clarified by Policy Directives issued and approved by the TC or the PC. Such directives are databased and hyperlinked to/from the appropriate portion of this document.
+
+The OGC Technical Committee provides an open, collaborative forum for professional discussion related to the consensus development and/or evaluation, approval, and revision of OGC international standards. The primary use of approved OGC standards is to provide the ability to build and deploy interoperable geospatial solutions in the larger Information Technology (IT) domain.
+
+The OGC http://www.opengeospatial.org/ogc/policies/conduct/[Principles of Conduct] govern personal and public interactions in any TC activity.

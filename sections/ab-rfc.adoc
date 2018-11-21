@@ -1,0 +1,65 @@
+
+[[annex-b-rfc-process-outline-full-ogc-standard]]
+[appendix,obligation=informative]
+== Annex B: RFC Process Outline: Full OGC Standard
+
+[cols=",",options="header",]
+|======================================================================================
+|Full standard: Process Checklist |Responsible
+|Contact Technical Committee chair about intent to submit or start |Convener and TCC
+|Identify submission team (3 or more Members, one is TC Voting Member) |Convener
+|Signed Submission of Technology form (optional) |TCC and convener
+|TC Chair says great, write SWG Charter |TCC
+|Submission Team writes draft Standards Working Group Charter |Submission Team
+|When draft ready, the team sends the draft to the TCC |Convener
+|TC Chair reviews draft and provides comments back to the submission team |TCC
+|Submission Team reviews TCC comments and modifies charter as required |Submission Team
+|When ready, convener posts draft charter to pending documents. |Convener
+|After posting, the TCC shall notify the membership of the draft |TCC
+|30 day public comment and review period |
+|45 day TC approval vote |Members
+|OGC Portal Update |Staff
+|Press release to announce formation of new SWG |Staff and Submission team
+|TCC does a call for participation (always open) |TCC
+|SWG officially starts. First order of business is to elect chair etc |SWG
+|Call for Change Requests (optional) |SWG
+|Call for CR's - Press Release (optional) |Staff and SWG
+|Work on candidate standard happens |SWG
+|For a revision to an existing standard, collate all CR's and prepare summary |SWG
+|For a revision to an existing standard, process all CR's |SWG
+|Editor(s) edit the document based on change requests |Editor(s)
+|Release for public comment |SWG and TCC
+|Notify TCC of intent for release for public comment |SWG Chair and TCC
+|Develop Press release and make OGC web site updates |SWG and Staff
+|OGC Architecture Board Review |OAB
+|OGC Naming Authority Review |OGC-NA
+|Post to SWG portal project as a public read access document |SWG Chair and editor
+|30 day public comment period |Community
+|The SWG Compiles a list of the comments into a document |SWG
+|SWG Processes the public comments. |SWG
+|Editor(s) edit the document based on comments |Editor(s)
+|For a revision, write release notes |SWG
+|SWG Briefs TC Membership on contents of candidate standard |SWG Chair or designee
+|SWG Votes to release candidate standard for adoption vote |SWG
+|SWG Chair tells TC Chair the result of the SWG Vote |SWG Chair and TCC
+|TCC reviews candidate standard and makes suggestions |TCC
+|SWG Posts candidate standard to pending documents. |SWG Chair
+|TCC Announces adoption vote |TCC and Staff
+|45 day adoption vote happens |Voting Members
+|Vote completes |
+|Announcement to OGC Members |TCC
+|Planning Committee Approval |TCC and PC
+|SWG process any comments reveived during the adoption vote |SWG
+|SWG updates Change Request status for each CR processed |SWG
+|Confirm list of contributors |TCC and SWG Chair
+|TCC does final review of adopted standard |TCC
+|Create Press release to announce new standard |SWG and OGC staff
+|Schema processing |SWG and OGC staff
+|Schemas validated and errors corrected |SWG and OGC staff
+|Standard published |OGC staff
+|Update PURL server for new spec artefacts |OGC-NA and Staff
+|Press release released |OGC staff
+|Done. Congratulations!! |
+|======================================================================================
+
+

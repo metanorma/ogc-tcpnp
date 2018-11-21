@@ -1,0 +1,12 @@
+
+[bibliography]
+== Bibliography
+
+* [[[ISO19109,ISO 19109]]], _Geographic information -- Rules for application schema_
+
+* [[[ISO191011,ISO 19101-1]]], _Geographic information -- Reference model -- Part 1: Fundamentals_
+
+* [[[ISO191012,ISO 19101-2]]], _Geographic information -- Reference model -- Part 2: Imagery_
+
+* [[[ISO19106,ISO 19106]]], _Geographic information -- Profile_
+

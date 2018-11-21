@@ -1,0 +1,9 @@
+
+[bibliography]
+== Normative references
+
+* [[[CC10001,CC/DIR 10001]]], _CalConnect Directive: Standardization and publication_
+
+* [[[CC10002,CC/DIR 10002]]], _CalConnect Directive: Standard document requirements_
+
+* [[[CC10003,CC/DIR 10003]]], _CalConnect Directive: Patent policy_

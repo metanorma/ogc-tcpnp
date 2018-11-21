@@ -1,0 +1,223 @@
+
+[[voting-during-and-between-tc-meetings]]
+== Voting During and Between TC Meetings
+
+The following policies address voting during and between TC meetings. One of the primary functions of the TC is to vote on a variety of actions, items, and issues. Votes can be for any purpose pertaining to the format and content of the Abstract Specification, Candidate standards, OGC standards, Discussion Papers, approval of the slate of nominations for the OGC Architecture Board, Best Practices Documents, Policies and Procedures of the TC, and for other purposes consistent with the purpose of the TC as described in these Policies and Procedures. The TC will make recommendations to the PC concerning adoption of a candidate standard, changes to a standard, creation of a Working Group, a Best Practice, or a policy document and these recommendations require further approval by the PC.
+
+[[quorum-for-a-tc-meeting]]
+=== Quorum for a TC Meeting
+
+The quorum for any meeting of the Technical Committee Members shall be 1/3 of the total Voting membership as comprised by the Strategic, Principal, Technical, and Technical Aggregate Members. If there is quorum, then a simple majority of the Voting TC Members present at a meeting shall constitute a positive vote for all TC Items and Issues. A roll call will be held at the beginning of each Plenary where votes are to occur to ensure a quorum is present.
+
+The only exception for this Quorum rule is for a vote to issue an electronic vote for adoption of a new or revised version of a candidate standard, creation of a Working Group, a Best Practice, or a policy document. In this case, a simple majority vote of those TC Voting members present constitutes a successful vote.
+
+[[three-week-rule]]
+=== Three Week Rule
+
+For votes that require documentation, such as adoption of particular documents as standards or documents to be released for public comment, one third of the Voting TC members in attendance may invoke the requirement that documentation supporting the vote must be available three weeks prior to the vote. The TC may override the 3-week rule by a 2/3-majority vote of Voting TC members in attendance at a meeting.
+
+The three-week rule clause ensures that Voting TC members have adequate time to read, distribute and gather comments on documents before voting on the document at the following TC meeting.
+
+[[voting-at-tc-meetings]]
+=== Voting at TC Meetings
+
+Many votes happen during a face-to-face TC Meeting. Votes can occur in a TC Plenary or in any sub-group meeting. Votes may be related to document actions, recommendations for staff action, formation of new sub-groups, approval of WG charters, and so forth. This section provides guidance on the policies and procedures related to votes at TC meetings.
+
+[[votes-that-can-occur-at-a-tc-dwg-face-to-face-meeting]]
+==== Votes that can occur at a TC DWG Face to Face Meeting
+
+Any number of votes can occur at a TC DWG meeting. No prior notice is required to have a vote at a DWG meeting during a TC. Any member representative attending a DWG may vote. However, only one member representative from a member organization may vote in a DWG. Any member representative attending a DWG can frame a motion.
+
+The votes that may occur at a DWG are:
+
+* Move to release an Engineering Report as a Discussion Paper;
+* Move to initiate an electronic vote to release an Engineering Report or other OGC document as a Best Practices document;
+* Move to elevate a Discussion Paper to a Best Practices document;
+* Move to recommend to the TC a change in policy or procedure;
+* Move to accept or revise a DWG charter;
+* Move to dissolve a DWG; and
+* Move to modify the charter of a DWG.
+
+All of these motions of the DWG are recommendations to the full TC.
+
+[[votes-that-can-occur-in-a-tc-plenary]]
+==== Votes that can occur in a TC Plenary
+
+Many votes usually occur in the Opening or Closing TC Plenary. The following is a matrix of possible votes and who can vote.
+
+[[Table-1]]
+.Vote types and allowed voters
+[cols=",",]
+|==================================================================================
+|Vote Type |Who can Vote
+|Approval of a White Paper, Discussion Paper, or Engineering Report|Any member
+|Election of TC reps to the PC|Any member
+|Approval of a DWG Charter|Any member
+|Approval of deprecation or retirement of Discussion Paper or Best Practice|Any member
+|Approval to start electronic vote for an OGC Best Practices Document|TC Voting Member
+|Approval to start electronic vote for adoption of an OGC standard|TC Voting Member
+|Approval to start electronic vote for a revision of an OGC standard|TC Voting Member
+|Approval to start electronic vote for a new TC P&P or other policy document|TC Voting Member
+|Approval to start electronic vote for a new SWG or Community standard work activity|TC Voting Member
+|==================================================================================
+ +For “Any Member” votes, only one member representative from a given Member Organization may vote.
+
+[[form-of-a-document-motion-in-a-sc-or-wg]]
+==== Form of a Document Motion in a SC or WG
+
+All SC or WG document votes, except for Best Practices and standards adoption votes shall have the following language:
+
+_______________________________________________________________________________________________________________________________________________________________
+The <Name of the SC or WG> recommends that the TC approve the release of <OGC Document number and Name> as an OGC <White, Discussion, or Engineering> Document.
+_______________________________________________________________________________________________________________________________________________________________
+
+Often the following clause is added:
+
+“Pending any final edits to the document.”
+
+Best Practice and standards adoption votes shall have the following language:
+
+The <Name of the SC or WG> recommends that the TC approve an electronic vote to recommend <OGC Document number and Name> as a <OGC Best Practice or Adopted Standard>.
+
+[[proxy-for-voting]]
+==== Proxy for Voting
+
+Not every OGC TC Voting member can attend every TC Closing Plenary. Therefore, the OGC maintains a proxy process. The official TC Voting representative for an organization can assign their proxy to another full-time employee of their organization, to another individual from another TC Member voting organization, or to the TCC.
+
+Proxies can be assigned electronically or in written form. The written proxy form is provided for each meeting and are sent to the Voting members via email as well as being posted to the TC meeting folder for which the proxy will be valid. Assignment of proxy to another full-time employee of the Voting member’s organization may be communicated verbally to the TCC in advance of or at the TC Closing Plenary.
+
+Proxy shall be communicated to the TCC in advance of the TC Closing Plenary. The TCC shall send reminders to the Voting Members prior to the meetings.
+
+Proxies are not transitive: that is, if Member A holds a proxy for Member B and Member B holds a proxy for Member C, Member A can only vote on behalf of Member B and CANNOT further vote on behalf of Member C by “proxy to a proxy.”
+
+[[tc-electronic-voting]]
+=== TC Electronic Voting
+
+At any time, the TCC, the TC, or a subgroup of the TC may recommend starting an electronic vote. Initiation of electronic votes may be brought by motion and second at a TC plenary meeting, a WG meeting, or by direct action of the TCC. Please refer to <<Table-1>> for what membership level is allowed to vote for any particular vote. The following rules are for official OGC votes related to:
+
+* Adoption of an OGC Abstract and Implementation standards;
+* Adoption of a revision to an existing OGC Abstract or Implementation standard;
+* Adoption of a OGC Policies and Procedures;
+* Approval of an OGC Best Practice;
+* Election of representatives to the OGC Architecture Board; and
+* Approval of a Standards Working Group Charter or a new Community standard work activity.
+
+[[duration]]
+==== Duration
+
+Unless otherwise stated by the TCC or designee, the normal deadline for response to an electronic vote shall be 45 days from the date of issuance of the electronic vote. There are no extensions for NO votes or insufficient votes (see <<sufficiency>>). The start and end dates for any given vote are set by OGC staff and are posted with the ballot and announced.
+
+[[continuity]]
+==== Continuity
+
+Except for the following reasons, an electronic vote shall remain open for the duration as stated in <<duration>>:
+
+* A WG withdraws the motion to approve a candidate standard (see <<withdrawal>>); or
+* The TCC, the OAB, or the WG identifies a procedural error and requests the vote be stopped.
+
+[[eligibility]]
+==== Eligibility
+
+All Voting TC Membersfootnote:[The total of Strategic, Principal, Technical, and Technical Aggregate Members] in good standing at any time during the electronic vote can participate in electronic voting, whether or not they have participated in any preceding TC meeting or electronic vote. All such Members are referred to as "Eligible Voters." Each Eligible Voter shall have one vote.
+
+[[number-of-eligible-voters]]
+==== Number of Eligible Voters
+
+For each electronic vote, the number of Eligible Voters shall be determined as of the date of the start of the electronic vote. The number of Eligible Voters for a given vote shall be determined by OGC staff and shall be posted with the ballot and announced. This number shall not change for an active vote regardless of whether members gain or lose voting eligibility.
+
+[[allowable-votes]]
+==== Allowable Votes
+
+The Voting Member may vote Yes, No, or Abstain. Abstain counts toward Sufficiency. Comments may be provided with any vote. Any Eligible Voter may change their vote during the voting period but not after the vote is closed.
+
+[[sufficiency]]
+==== Sufficiency
+
+For all votes on any OGC document or OGC policy, sufficiency requires 1/3 of the Eligible voters to vote. Further, 15% of the total number of Eligible voters must vote YES.
+
+If during the vote there is a new TC Voting Member, that Member may vote but does not change the Sufficiency rule.
+
+[[approval]]
+==== Approval
+footnote:[NOTE: All approved OGC Technical Committee document or policy recommendations are then presented as a recommendation to the OGC Planning Committee (PC). The PC shall review the recommendation and either approve the recommendation as is, ask the TC for clarification, or in very few instances not approve the recommendation and ask the TC to provide clarifications or more require more work on the document.]
+
+In addition to Sufficiency thresholds, for documents that are official OGC positions, such as a standard, creation of a new WG, an OGC Best Practice, or an OGC policy, a motion passes (is approved) if the number of YES votes is twice or more the number of NO votes. All other documents pass with a simple majority
+
+[[comments]]
+==== Comments
+
+Any Eligible Voter that votes may submit a written comment. If an Eligible Voter votes NO, then that Voter shall also submit a written comment explaining their reason for voting NO. For a standard adoption vote, then the SWG shall respond in writing to all comments within 30 days of the completion of the vote. For other votes, then the appropriate TC sub-group shall respond to the comments. The written response to comments shall be in an OGC document and made available to the OGC Membership. If a motion is withdrawn (See <<withdrawal>>) then no response to comments is required.
+
+[[withdrawal]]
+==== Withdrawal
+
+A motion may only be withdrawn by the Working Groupfootnote:[Except for votes initiated by the TCC, such as the election of OAB members.] that made the original motion or by the TCC for procedural reasons. The WG shall have a formal documented vote to withdraw a motion. The reasons for withdrawing a motion are not constrained. The WG shall communicate to the TCC the request to withdraw a motion. The TCC shall then communicate the decision to withdraw a motion to the entire Membership.
+
+[[restarting-a-vote]]
+==== Restarting a vote
+
+The following procedures shall be followed for those cases in which a revote is required.
+
+* If a WG withdrew a motion and there is no content change to the document, the WG can at any time request the TCC initiate new vote.
+* If a WG withdrew a motion and the content of the document is changed, then the WG needs to restart the approval process (in the case of a RFC: OAB review, public comment, vote).
+* If the vote was stopped for procedural problem(s), fix the problem(s), and initiate a new vote.
+* If failure to approve the motion (See Approval and Sufficiency), then the appropriate OGC group needs to address all comments, revise the document and restart the RFC approval process with an OAB review, public comment, final edits to the document and a new adoption vote.
+
+[[multi-part-documents]]
+==== Multi-part Documents
+
+OGC standards documents are often broken into parts along modular lines. Adoption votes for such multi-part documents must either be sequential and not overlapping in terms of start and stop dates or in parallel with the same start and stop dates for the vote.
+
+If the votes are in parallel and if a part fails, then any part containing a module dependent upon a module in the failed part also fails. If the vote is sequential, any part containing a module dependent upon a module in a previously failed part cannot be voted until the failed part is re-voted and approved or the dependency is removed.
+
+[[visibility]]
+==== Visibility
+
+The following rules relate to transparency of the voting process.
+
+* During and after a vote, individual votes and comments are visible to any OGC member during and after the voting period.
+* After the vote is complete, the public only sees the vote result and does not see how an Eligible Voter voted or commented.
+* The WG can vote to make public the comments and WG responses to the comments - but shall not provide the name of the Voter who made a given comment.
+
+[[assuming-successful-tc-vote-what-next]]
+==== Assuming Successful TC vote, what next?
+
+Once the electronic vote completes and assuming a successful TC vote, the following must occur.
+
+* The TCC shall announce the results of the vote.
+* If there are any comments, the submission team or SWG shall respond to all comments submitted during the voting period. The responses to the comments shall be documented in an OGC document that is then posted to pending.
+* The TCC shall make a recommendation to the Planning Committee requesting approval of the motion from the Technical Committee. The PC shall have two weeks to consider the motion, ask questions, and approve or reject the motion. Approval in the PC is a simple majority of the PC members.
+
+[[subgroups-of-the-tc-electronic-voting]]
+=== Subgroups of the TC Electronic Voting
+
+The procedures for holding electronic votes (e-votes) presented in this section apply to any subgroup of the TC that:
+
+* Has an email reflector on the OGC Portal on which all voting members are subscribed; and
+* Has a quorum rule on votes, or a rule that requires a notice to the TC at large of the type of vote being contemplated.
+
+In the event that a motion is made either on the email reflector of a subgroup or in some other scheduled meeting of the subgroup (that lacks quorum and thus cannot act directly), then the chair (or presiding officer of the meeting if the elected chair is not present) may call for a Portal vote as a “measures to obtain a quorum” (RONR, 11th Edition, §40, pages 347-348). The procedure will be as follows.
+
+1.  A motion is made and seconded on the subgroup's email reflector or during a meeting (such as a teleconference) that may not have a quorum.[multiblock footnote omitted]
+2.  The chair (or the presiding person at the meeting where the motion was made in conjunction with one of the subgroup’s elected chairs) announces that a Portal e-vote will be taken and summarizes the procedure to be used. This summary includes an opening date (usually immediately or within one week after the motion is made) and a closing date at least one full week after the opening, making the vote last at least 8 calendar days (such as a Monday to Monday schedule).
+3.  All requirements for previous announcements as delineated in the TC policy and procedures must be met before the email or Portal vote start date. These requirements may include posting of the associated supporting documents in advance of the vote and/or an official notice to the TC of a pending vote within the subgroup.
+4.  Votes must be cast before the end of the closing day at midnight in the time zone of the voter (as recorded by the email send protocol). This mail announcing the vote shall include a formal name for the vote in the subject field.
+5.  Any valid voting member of the subgroup may visit the Portal page for the e-vote and cast their vote. The member may change their vote at any time. The last vote cast by the member before the closing date and time is his official vote. Portal votes do not stop until their end date is reached or the vote organizer chooses to withdraw the vote.
+6.  Only one vote is allowed per OGC Member organization.
+7.  Protests on the procedures involving the vote will be addressed to the subgroup chair, with a final appeal to the TCC and the membership of the TC.
+8.  If at least a quorum (1/2) of the subgroup votes (YES, NO or ABSTAIN) then the vote is valid. The original motion passes under the same rules as would have been required in an official meeting.
+
+For most votes that require a simple majority at a quorum-valid meeting, the motion passes only if a quorum is obtained, and the number of YES votes is greater than the number of NO votes.
+
+This procedure shall not be used to suspend the rules or to amend any motion made at a quorum-valid meeting of the subgroup.
+
+[[tc-or-subgroups-of-the-tc-email-voting]]
+=== TC or Subgroups of the TC Email Voting
+
+The procedures for holding email votes presented in this section apply to any votes that the TC is eligible to hold in a Closing Plenary or any subgroup of the TC that meets the criteria for holding electronic votes as defined in Section 6.6. Note that use of the Portal electronic voting function is preferred over the use of email voting procedures.
+
+Email votes follow the same process as laid out for TC votes in the TC Meeting (see Section 6.4) or for subgroups of the TC electronic voting (see Section 6.6), with the following additional procedures.
+
+1.  The TCC or subgroup chair sends an email to the appropriate reflector notifying the group of the start of an email vote. The message must specify the item(s) on which the group is voting, include relevant background information, provide the deadline for voting, and define the type of vote (“Hand” or “No Objection”).
+2.  “Hand” vote: voting members email the reflector (from the email address listed for the corresponding Portal user) with the vote clearly mentioned in the first few lines of the mail, and optionally in the subject line. Allowed votes are YES, NO, or ABSTAIN. The subject line should include the formal name of the subject of the vote used by the chair in the announcement. A member may change their vote by emailing again at any time before the close of the vote. The last vote cast by the member before the closing date and time is that member’s official vote.
+3.  “No Objection” vote: an email vote may consist of a request to the group members for any objection to unanimous consent. Voters with no objection to the ballot do not need to email the chair or reply to the vote announcement. Should there be an objection, the vote will be paused and the objection discussed in the reflector or in a meeting. If the objection is addressed to the satisfaction of the objecting party, the vote will continue for the number of days remaining in the vote from the date at which the vote was paused. If the objection is not removed, then the vote will restart as either a “Hand” vote (see 2 above) or a Portal e-vote.

@@ -1,0 +1,32 @@
+
+[[tc-planning-committee-representatives]]
+== TC Planning Committee Representatives
+
+[[role-and-responsibilities]]
+=== Role and Responsibilities
+
+As stated in the Bylaws of the OGC, the OGC TC has the right to seat two representatives on the OGC PC. Up to seven representatives may be available in a “pool” and the TCC will work with the representatives to choose the two to attend a specific PC meeting. This section details the role and responsibilities of these individuals and the process for their election.
+
+The role of a TC Representative to the PC is to bring issues of concern to the general TC membership to the attention of the PC and to keep the TC apprised of the activity of the PC. Responsibilities of the representatives include the following:
+
+* Accept documented issues from TC members and bring these forward at PC meetings;
+* Provide a report to the TC of the activities that take place at PC meetings no later than two weeks following a PC meeting;
+* Be involved in discussions related to the ongoing work and issues in the TC; and
+* Vote.
+
+[[elections]]
+=== Elections
+
+The election of these representatives will be held according to the following rules.
+
+* Nominations will be made from the ranks of Voting TC Members (an individual or an individual representing an organization already holding a seat on the PC cannot be nominated).
+* There must be at least one nominee for each vacancy.
+* The nomination must be accepted by the nominee.
+* Each Voting TC Member may vote for one candidate per vacancy to be filled.
+* Up to seven representatives may be elected, from which no more than two can attend any PC meeting.
+* The representatives will be selected in the order of most votes received to fill the available positions.
+
+[[term-of-office]]
+=== Term of Office
+
+The term of office for TC representatives to the PC shall be as recommended by the TC with a maximum term of two years. In the case of resignation, removal, death, or termination of TC Membership of a representative, the rules for election will be invoked to fill the vacancy. Also, the TCC may determine that a given TC representative to the PC is not fulfilling their obligations, such as not attending PC meetings on a regular basis. For example, if the TC representative misses two or more meetings in a row. In such a case, the TCC may ask the TC representative to resign and the rules for election will be invoked to fill the vacancy.

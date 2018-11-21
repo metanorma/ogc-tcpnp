@@ -1,0 +1,6 @@
+
+[[temporarily-overriding-specified-procedures]]
+== Temporarily Overriding Specified Procedures
+
+The Technical Committee may temporarily override specific procedures set forth in this document by a specific motion to override the normal TC Policies and Procedures. Approval of such an override motion shall require a two-thirds majority vote of non-abstaining Voting TC Members, present at a quorate TC meeting or by electronic TC vote.
+

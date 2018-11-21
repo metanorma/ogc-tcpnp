@@ -1,0 +1,13 @@
+
+== Scope
+
+This document provides guidelines on the application of
+the CalConnect patent policy (<<CC10003>>) towards the following
+areas of CalConnect:
+
+* standardization and publication process (described in <<CC10001>>);
+* document requirements (described in <<CC100002>>).
+
+This document does not cover the implementation of requirements
+in CalConnect standards which involve intellectual property rights
+(such as patents).

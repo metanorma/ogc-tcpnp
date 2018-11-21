@@ -1,0 +1,47 @@
+
+[[purpose-and-composition-of-the-technical-committee]]
+== Purpose and Composition of the Technical Committee
+
+The OGC Corporate bylaws state that the OGC Technical Committee (TC) shall be responsible for developing standardsfootnote:[OGC standards are member approved interface and encoding engineering specifications developed via the OGC Consensus process that are publicly and openly available for use in the geospatial and IT community.] through a cooperative consensus process involving the Members. The bylaws provide authority to:
+
+* Design and maintain an http://www.opengeospatial.org/docs/as/[Abstract Specification] for a computing technology independent application environment for interoperable geo-processing and geospatial data products;
+* Use the Abstract Specification as a reference to solicit, propose, review, recommend revisions to, and recommend adoption of standards, also known as OGC standards;
+* Provide the forum for discussing, reviewing, and adopting changes to existing approved OGC standards;
+* Accept, discuss, review, and recommend action on documents developed in the OGC http://www.opengeospatial.org/ogc/programs/ip/[Innovation Program] and then submitted to the TC;
+* Discuss, review, and recommend action with regard to standards and relevant standards developed in other standards organizations; and
+* Discuss and agree on requirements, use cases, and change requests to existing OGC standards.
+
+Above all, the TC provides an open forum for professional discussion of issues and items related to the consensus development and/or evaluation and approval of candidate standards and revisions to existing adopted OGC standards that provide the ability to build and deploy interoperable geospatial solutions in the larger IT domain. The OGC Principles of Conductfootnote:[http://www.opengeospatial.org/ogc/policies/conduct[_http://www.opengeospatial.org/ogc/policies/conduct_]] govern personal and public interactions in any TC activity.
+
+[[composition-of-the-tc]]
+=== Composition of the TC
+
+The OGC Bylaws provide the enabling authority for the OGC TC. The TC has the following composition:
+
+* The Technical Committee Chair (appointed by the OGC President and approved by the OGC Board of Directors (BOD));
+* Representatives of all member organizations of the OGC; and
+* Other individuals deemed appropriate by the BOD or Planning Committee.
+
+
+[[role-of-the-technical-committee-chair-tcc]]
+=== Role of the Technical Committee Chair (TCC)
+
+The TCC is responsible for facilitating the progress and work of the Technical Committee. The TCC is a post held by appointment of the OGC President, to lead the activities of the TC. The TCC is an unbiased member of the TC, and therefore does not vote on Items and Issues except as noted below. The TCC shall ensure the following:
+
+* Note is taken of TC Members, Voting TC Members, and their substitutes and proxies at each meeting;
+* Minutes are kept of TC meetings, and distributed by OGC Communication as soon as is practical after the meeting;
+* TC meetings are announced with appropriate notice (no less than four months) and that a master schedule is initially published on the OGC website at least 8 weeks prior to each meeting;
+* TC meetings are facilitated in general;
+* A file of TC meeting minutes and all other distributed materials is kept;
+* All electronic mail discussions are kept on file;
+* The PC and BOD are kept appraised of the current business of the TC;
+* TC resolutions for recommendation to the PC are brought to the attention of the PC;
+* The various actions of the TC are issued and processed in a timely, orderly manner; and
+* In the event of a tie vote on any given Item or Issue for which a simple majority vote is required, the TCC has the right to cast the deciding vote.
+
+[[clarifications-with-respect-to-the-composition-of-the-tc]]
+=== Clarifications with respect to the composition of the TC
+
+Although one or more individuals may represent each member organization of the OGC at TC meetings, only OGC Member organizations with TC voting rights (Strategic, Principal, and Technical Committee Members) can vote on any items or issues related to the adoption of an OGC standard, approval of membership of the OGC Architecture Board (OAB), the TC Policies and Procedures, or the Standards Baseline. For these votes, only one individual may vote on behalf of each such Member organization. There is no limit to the number of TC members that may represent each OGC member organization at TC meetings. However, the TCC may limit the number of attendees (on a maximum-per-organization basis) for reasons of meeting space or other operational considerations.
+
+The TCC shall have the authority to nominate and recommend non-OGC organizations to the BOD members for consideration as voting members of the TC for appointment by the BOD.

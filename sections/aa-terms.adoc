@@ -1,0 +1,168 @@
+
+[[annex-a-terms-and-definitions]]
+[appendix,obligation=normative]
+== Terms and Definitions
+
+=== Application Profile
+alt:[AP]
+
+Set of one or more base standards and - where applicable - the identification of chosen clauses, classes, subsets, options and parameters of those base standards that are necessary for accomplishing a particular function
+
+NOTE: Also see <<ISO191011>>, <<ISO191012>>.
+
+[.source]
+<<ISO19106>>
+
+=== Application Schema
+
+An application schema utilizes an Implementation standard and adds application specific entities, e.g., feature types. An example of an application schema is IndoorGML or CityGML.
+
+[.source]
+<<ISO19109>>
+
+=== Abstract Specification
+alt:[AS]
+
+A document (or set of documents) containing an OGC consensus computing technology independent specification for application programming interfaces and related specifications based on object-oriented or other IT accepted concepts that describes and/or models an application environment for interoperable geoprocessing and geospatial data and services products.
+
+=== Board of Directors
+alt:[BOD]
+
+Defined by the bylaws of the OGC.
+
+=== Best Practice Document
+alt:[BP]
+
+A document containing discussion of best practices related to the use and/or implementation of an adopted OGC document or related technology and for release to the public. Best Practices Papers are the official position of the OGC and thus represent an endorsement of the content of the paper.
+
+=== Candidate standard
+
+An engineering document that describes an existing, operational standard that one or more OGC Voting TC Members wish to sponsor as an RFC submission under the Bylaws of the OGC.
+
+=== Deprecated Document
+
+An official standard of the OGC but no longer maintained. An OGC document shall be deprecated by a vote of the OGC Voting Members, usually as part of a standards adoption vote.
+
+=== Engineering Report
+alt:[ER]
+
+An ER Report is a document that reports on some technical activity in an Interoperability Program Initiative. An ER Report may also be a candidate standard or a formal change request proposal for an approved standard. An ER Report documents are submitted to the OGC TC for review and comment. An ER Report is not a publicly available document unless approved for release by the OGC membership. An ER Report does not represent the official position of the OGC nor of the OGC Technical Committee.
+
+=== Invited Guest
+
+A liaison representative appointed by an external organization which has reciprocal liaison status with the OGC, or an individual who has received an invitation to attend meetings of the TC. The OGC staff or Voting TC Members may issue invitations. It is the policy of the OGC to freely allow guests and observers, so long as they provide a request to attend to the OGC staff and pay the appropriate meeting fees.
+
+=== OGC Interoperability Program
+alt:[IP]
+
+A global, collaborative, hands-on engineering and testing program designed to deliver proven candidate standards into the OGC Standard Development Program and to exercise and test existing OGC standards in domain specific situations. More information about the IP can be found at https://www.opengeospatial.org/initiatives.
+
+=== Intellectual Property Rights
+alt:[IPR]
+
+An umbrella term used to refer to the object of a variety of laws, including patent law, copyright law, trademark law, trade secret law, industrial design law, and potentially others.
+
+=== Issues
+
+Issues are questions (other than standard adoption questions) that come before the Technical Committee for discussion, resolution and, potentially, final recommendation to the PC.
+
+=== Items
+
+Items are proposed standard adoption questions that come before the committee for discussion, resolution and, potentially, final recommendation to the PC. Items come about through TC voting membership motions and seconds, typically in response to RFCs, PC directives, and WG recommendations, or the normal course of TC business.
+
+=== Necessary Claims
+
+Those claims of a patent or patent application, throughout the world, excluding design patents and design registrations, owned by a Member or its Related Parties now or at any future time and which would be Necessarily Infringed by implementation of a standard. Notwithstanding the foregoing, Licensed Claims shall not include any claims (i) relating to any enabling technologies that may be necessary to make or use any implementation of a standard but are not themselves expressly set forth in the standard (e.g., semiconductor manufacturing technology, compiler technology, object oriented technology, basic operating system technology, and the like); or (iii) necessary for the implementation of other published standards developed elsewhere and merely referred to in the body of the standard. For purposes of this definition, a standard shall be deemed to include only architectural and interconnection requirements essential for interoperability and shall not include any implementation examples unless such implementation examples are expressly identified as being required for compliance with the standard.
+
+=== OGC
+alt:[Open Geospatial Consortium]
+
+Founded in 1994, the OGC is a voluntary consensus standards organization.
+
+=== OGC Architecture Board
+alt:[OAB]
+
+The OGC Architecture Board works with the TC and the PC to insure architecture consistency of the Baseline and provide guidance to the OGC membership to insure strong life cycle management of the OGC standards baseline. The OAB performs review of every standard proposed for adoption by the OGC. The OAB is an entity organized under the Consortium.
+
+=== OGC Communication
+
+A communication by any means, including posting on the WWW Site (http://www.opengeospatial.org), electronic mail, facsimile transmission, or by regular post. The primary forms of communication will be either via email or using the OGC Members Only Portal. Any member desiring delivery by other than electronic means (WWW site or electronic mail) must state so in written form to OGC staff.
+
+=== OGC standard
+
+A document containing an OGC consensus computing technology dependent standard for application programming interfaces and related standards based on the Abstract Specification or domain-specific extensions to the Abstract Specification provided by domain experts.
+
+=== OGC Member
+alt:[Member]
+
+Any member in good standing.
+
+=== OGC Member Portal
+
+A members’ only accessible component of the OGC web site. The Portal provides a location for storing and accessing all in progress OGC TC and PC documents, all WG agendas, working documents, and presentations, and to perform project management functions, such as tasks, tracking actions, and calendars.
+
+=== OGC Standards Program
+
+Provides an industry consensus process to plan, review and officially adopt OGC Standards for interfaces and protocols that enable interoperable geoprocessing services, data, and applications. The OGC bodies involved in the Standard Program are the Technical Committee, Planning Committee, and Strategic Member Advisory Committee.
+
+=== Profile
+
+A profile is a strict subset of a standard applicable to multiple Application Schemas. An example of a profile is the GML Simple Feature Profile.
+
+[.source]
+<<ISO19109>>
+
+
+=== Planning Committee
+alt:[PC]
+
+The OGC Planning Committee is granted authority to operate by the OGC Bylaws. Principal Membership is available for organizations that wish to participate in the planning and management of the Consortium's technology development process.
+
+=== RAND
+
+Reasonable and Non-discriminatory.
+
+=== Request for Comment
+alt:[RFC]
+
+(See Section 9.4)
+
+An explicit request to the industry for comments concerning a particular candidate standard that a Standards Working Group is considering for adoption as a standard satisfying a portion of the Abstract Specification. An RFC begins as an unsolicited proposal from a Voting TC Member or members and results, if successful, in an OGC standard. The RFC process is typically how interface and encoding standards developed in the OGC Interoperability Program move into the formal OGC TC standards approval process.
+
+=== Retired Document
+
+An OGC document that, by Member approval, is no longer an official or supported document of the OGC. As such, retired documents should not be referenced in any procurement, policy statement, or other OGC document. Retired documents are made available on the OGC website for historical purposes.
+
+=== Strategic Member Advisory Committee
+alt:[SMAC]
+
+The SMAC is granted authority to operate by the OGC by-laws. The SMAC has as a primary responsibility to recommend areas of strategic opportunity for Consortium operations and recommending resource strategies in support of Consortium programs to the Board of Directors, Consortium staff and the Membership.
+
+=== Standards Development Process
+
+The operational details of the discussing and evaluating technologies relevant to the OGC standards baseline, standard revision, and the RFC processes to propose, review, recommend modifications to, and recommend adoption of candidate standards.
+
+=== Standards Baseline
+
+The complete set of member approved abstract specifications standards, including profiles and extensions, and Community standards.
+
+=== Technical Committee
+alt:[TC]
+
+See Section 5.
+
+The OGC TC has been granted authority to operate by the OGC Bylaws. The OGC Technical Committee is composed of individuals representing organizations that are duly recognized members in good standing of the OGC.
+
+=== TC Member
+
+Any member in good standing of the TC.
+
+=== Voting TC Member
+
+Any member of the TC who may vote on TC Items and Issues. Voting TC Members are the Technical Representatives of OGC Technical Committee Members, Principal Members, and Strategic Members. Only the designated Technical Representative from a given member organization may be a Voting TC Member.
+
+=== White Paper
+alt:[WP]
+
+An OGC member approved publication released by the OGC to the Public that states a position on one or more technical or other subject that is germane to the work of the OGC, often including a high-level explanation of a standards based architecture or framework of a solution. A White Paper often explains the results or conclusions of research. A White Paper is not an official position of the OGC.
+

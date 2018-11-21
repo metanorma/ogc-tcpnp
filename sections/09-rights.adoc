@@ -1,0 +1,26 @@
+
+[[proprietary-rights-copyrights-and-disclosure]]
+== Proprietary Rights, Copyrights, and Disclosure
+
+[[proprietary-rights]]
+=== Proprietary Rights
+footnote:[Please read the OGC IPR Policy documents located at http://www.opengeospatial.org/legal[_www.opengeospatial.org/legal_] for the complete text and description of the OGC IPR policy. If at any time there is confusion or conflict between what is stated in the TC P&P and the OGC IPR Policy, the OGC IPR Policy takes precedent.]
+
+During any meeting of the OGC Technical Committee or any subgroup of the TC, no participant shall disclose proprietary information. footnote:[This section clearly places the onus of protection of proprietary rights on the owner of those rights. No discussion of proprietary technology can take place during a TC or TC subgroup meeting, protecting the participants in the meeting from accidental exposure to proprietary information (and consequent future legal problems with that participant's own intellectual property rights). If a TC member wishes to present information of a proprietary nature to members of the TC, he or she may arrange a meeting of the interested parties totally separate from the TC process and meeting.]
+
+In addition, no information of a secret or proprietary nature shall be made available to the OGC as official documents, and no such documents (or documents marked as such) shall be made OGC official documents or forwarded to the membership.
+
+All proprietary information that may nonetheless be disclosed by any participant during any meeting of the TC or any subgroup of the TC shall be deemed to have been disclosed on a non-confidential basis, without any restrictions on use by anyone (except that no valid copyright or patent right shall be deemed to have been waived by such disclosure).
+
+[[copyrights]]
+=== Copyrights
+
+All proposals intended to affect the contents of OGC standards, once submitted to the TC, (a) convey sufficient royalty free license rights to OGC to permit it to publish, license and sublicense the same freely to all third parties, and to permit OGC and all such third parties to own any derivative works base thereon without financial obligation to the submitter, but (b) do not in any way indicate that the submitter has surrendered or waived any copyright or patent in such proposal.
+
+[[disclosure]]
+=== Disclosure
+
+It is the policy of the TC that the all pending proposals and documents shall be restricted to member internal distribution. The exceptions are:
+
+* Change Requests Proposals. All CRPs shall be made public; and
+* When an external standards organization requires access to a members’ only document. The TCC, after due consideration and dialogue with the members, may determine that a given document can be shared with the external standards organization.
