@@ -35,7 +35,7 @@ c.  A section that details specific actions taken by members of the subgroup;
 [[inactive-subgroups]]
 === Inactive Subgroups
 
-The TCC will provide a list to the TC at least once a year of those subgroups that have not met in the previous 12 months. The TC will then vote to determine if these groups should be continued, disbanded or possibly combined with more active groups.footnote:[In the past, some groups have not met for a considerable time and are no longer active. The existence of these groups can be misleading to those trying to understand what OGC is currently doing. This proposal suggests a mechanism for reviewing subgroups and taking some action when appropriate. This will help ensure the groups in OGC are aligned with the actual work being done within the TC.]
+The TCC will provide a list to the TC at least once a year of those subgroups that have not met in the previous 12 months. The TC will then vote to determine if these groups should be continued, disbanded or possibly combined with more active groups. footnote:[In the past, some groups have not met for a considerable time and are no longer active. The existence of these groups can be misleading to those trying to understand what OGC is currently doing. This proposal suggests a mechanism for reviewing subgroups and taking some action when appropriate. This will help ensure the groups in OGC are aligned with the actual work being done within the TC.]
 
 [[subgroup-meetings]]
 === Subgroup Meetings
@@ -62,7 +62,7 @@ https://portal.opengeospatial.org/?m=public&subtab=templates&tab=1
 [[approval-of-a-sub-group-charter]]
 ==== Approval of a Sub-Group Charter
 
-Once the Charter is completed and agreed to by the members of the Ad-hocfootnote:[For a Standards Working Group (SWG) charter, the ad-hoc is the submission team.], the following process if followed for approval of the Charter. NOTE: For a SWG Charter, please review <<policies-specific-to-a-standards-working-group-swg>> for specific requirements related to the formation of a Standards Working Group (SWG).
+Once the Charter is completed and agreed to by the members of the Ad-hoc footnote:[For a Standards Working Group (SWG) charter, the ad-hoc is the submission team.], the following process if followed for approval of the Charter. NOTE: For a SWG Charter, please review <<policies-specific-to-a-standards-working-group-swg>> for specific requirements related to the formation of a Standards Working Group (SWG).
 
 * The charter is reviewed by the TCC. The TCC shall provide edits and comments in a timely manner.
 * The ad-hoc considers the TCC comments and edits the charter as necessary.
@@ -101,7 +101,7 @@ This section describes the formation, role, and responsibilities of a Domain Wor
 [[voting-in-a-dwg]]
 ==== Voting in a DWG
 
-Voting in DWGs is by simple majority of OGC Members present at the DWG meeting, not just Voting TC Members, with the caveat that no OGC Member organization may cast more than one vote in a WG vote.footnote:[It was felt that WGs should be able to use all of the expertise at hand in arriving at recommendations. All TC member organizations could be represented (and __vote__) at WG meetings in order to allow the expression of all members' opinions. OGC Voting TC Members are protected from control by non-voting members by virtue of the fact that WGs may only form recommendations to the TC and not final TC votes. WG minutes are also available to _all_ members of the TC, so that other TC members may understand and accept or reject WG recommendations.]
+Voting in DWGs is by simple majority of OGC Members present at the DWG meeting, not just Voting TC Members, with the caveat that no OGC Member organization may cast more than one vote in a WG vote. footnote:[It was felt that WGs should be able to use all of the expertise at hand in arriving at recommendations. All TC member organizations could be represented (and __vote__) at WG meetings in order to allow the expression of all members' opinions. OGC Voting TC Members are protected from control by non-voting members by virtue of the fact that WGs may only form recommendations to the TC and not final TC votes. WG minutes are also available to _all_ members of the TC, so that other TC members may understand and accept or reject WG recommendations.]
 
 [[policies-specific-to-a-standards-working-group-swg]]
 === Policies Specific to a Standards Working Group (SWG)
@@ -129,7 +129,7 @@ https://portal.opengeospatial.org/?m=public&subtab=templates&tab=1
 [[ipr-rules-for-a-new-swg]]
 ===== IPR rules for a new SWG
 
-The charter of each SWG shall also specify whether the SWG to be formed is a RANDfootnote:[Reasonable and non-discriminatory]-Royalty Free SWG or a RAND- for Fee SWG. For a complete discussion of the OGC Intellectual Property Rights (IPR) policies, please refer to:
+The charter of each SWG shall also specify whether the SWG to be formed is a RAND footnote:[Reasonable and non-discriminatory]-Royalty Free SWG or a RAND- for Fee SWG. For a complete discussion of the OGC Intellectual Property Rights (IPR) policies, please refer to:
 
 http://www.opengeospatial.org/about/ipr
 

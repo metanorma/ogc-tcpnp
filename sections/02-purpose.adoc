@@ -2,7 +2,7 @@
 [[purpose-and-composition-of-the-technical-committee]]
 == Purpose and Composition of the Technical Committee
 
-The OGC Corporate bylaws state that the OGC Technical Committee (TC) shall be responsible for developing standardsfootnote:[OGC standards are member approved interface and encoding engineering specifications developed via the OGC Consensus process that are publicly and openly available for use in the geospatial and IT community.] through a cooperative consensus process involving the Members. The bylaws provide authority to:
+The OGC Corporate bylaws state that the OGC Technical Committee (TC) shall be responsible for developing standards footnote:[OGC standards are member approved interface and encoding engineering specifications developed via the OGC Consensus process that are publicly and openly available for use in the geospatial and IT community.] through a cooperative consensus process involving the Members. The bylaws provide authority to:
 
 * Design and maintain an http://www.opengeospatial.org/docs/as/[Abstract Specification] for a computing technology independent application environment for interoperable geo-processing and geospatial data products;
 * Use the Abstract Specification as a reference to solicit, propose, review, recommend revisions to, and recommend adoption of standards, also known as OGC standards;
@@ -11,7 +11,7 @@ The OGC Corporate bylaws state that the OGC Technical Committee (TC) shall be re
 * Discuss, review, and recommend action with regard to standards and relevant standards developed in other standards organizations; and
 * Discuss and agree on requirements, use cases, and change requests to existing OGC standards.
 
-Above all, the TC provides an open forum for professional discussion of issues and items related to the consensus development and/or evaluation and approval of candidate standards and revisions to existing adopted OGC standards that provide the ability to build and deploy interoperable geospatial solutions in the larger IT domain. The OGC Principles of Conductfootnote:[http://www.opengeospatial.org/ogc/policies/conduct[_http://www.opengeospatial.org/ogc/policies/conduct_]] govern personal and public interactions in any TC activity.
+Above all, the TC provides an open forum for professional discussion of issues and items related to the consensus development and/or evaluation and approval of candidate standards and revisions to existing adopted OGC standards that provide the ability to build and deploy interoperable geospatial solutions in the larger IT domain. The OGC Principles of Conduct footnote:[http://www.opengeospatial.org/ogc/policies/conduct[_http://www.opengeospatial.org/ogc/policies/conduct_]] govern personal and public interactions in any TC activity.
 
 [[composition-of-the-tc]]
 === Composition of the TC

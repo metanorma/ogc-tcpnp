@@ -60,16 +60,18 @@ Many votes usually occur in the Opening or Closing TC Plenary. The following is 
 |Approval to start electronic vote for a new TC P&P or other policy document|TC Voting Member
 |Approval to start electronic vote for a new SWG or Community standard work activity|TC Voting Member
 |==================================================================================
- +For “Any Member” votes, only one member representative from a given Member Organization may vote.
+
+For “Any Member” votes, only one member representative from a given Member Organization may vote.
 
 [[form-of-a-document-motion-in-a-sc-or-wg]]
 ==== Form of a Document Motion in a SC or WG
 
 All SC or WG document votes, except for Best Practices and standards adoption votes shall have the following language:
 
-_______________________________________________________________________________________________________________________________________________________________
+[quote]
+_____
 The <Name of the SC or WG> recommends that the TC approve the release of <OGC Document number and Name> as an OGC <White, Discussion, or Engineering> Document.
-_______________________________________________________________________________________________________________________________________________________________
+_____
 
 Often the following clause is added:
 
@@ -118,7 +120,7 @@ Except for the following reasons, an electronic vote shall remain open for the d
 [[eligibility]]
 ==== Eligibility
 
-All Voting TC Membersfootnote:[The total of Strategic, Principal, Technical, and Technical Aggregate Members] in good standing at any time during the electronic vote can participate in electronic voting, whether or not they have participated in any preceding TC meeting or electronic vote. All such Members are referred to as "Eligible Voters." Each Eligible Voter shall have one vote.
+All Voting TC Members footnote:[The total of Strategic, Principal, Technical, and Technical Aggregate Members] in good standing at any time during the electronic vote can participate in electronic voting, whether or not they have participated in any preceding TC meeting or electronic vote. All such Members are referred to as "Eligible Voters." Each Eligible Voter shall have one vote.
 
 [[number-of-eligible-voters]]
 ==== Number of Eligible Voters
@@ -139,9 +141,11 @@ If during the vote there is a new TC Voting Member, that Member may vote but doe
 
 [[approval]]
 ==== Approval
-footnote:[NOTE: All approved OGC Technical Committee document or policy recommendations are then presented as a recommendation to the OGC Planning Committee (PC). The PC shall review the recommendation and either approve the recommendation as is, ask the TC for clarification, or in very few instances not approve the recommendation and ask the TC to provide clarifications or more require more work on the document.]
 
 In addition to Sufficiency thresholds, for documents that are official OGC positions, such as a standard, creation of a new WG, an OGC Best Practice, or an OGC policy, a motion passes (is approved) if the number of YES votes is twice or more the number of NO votes. All other documents pass with a simple majority
+
+NOTE: All approved OGC Technical Committee document or policy recommendations are then presented as a recommendation to the OGC Planning Committee (PC). The PC shall review the recommendation and either approve the recommendation as is, ask the TC for clarification, or in very few instances not approve the recommendation and ask the TC to provide clarifications or more require more work on the document.
+
 
 [[comments]]
 ==== Comments
@@ -151,7 +155,7 @@ Any Eligible Voter that votes may submit a written comment. If an Eligible Voter
 [[withdrawal]]
 ==== Withdrawal
 
-A motion may only be withdrawn by the Working Groupfootnote:[Except for votes initiated by the TCC, such as the election of OAB members.] that made the original motion or by the TCC for procedural reasons. The WG shall have a formal documented vote to withdraw a motion. The reasons for withdrawing a motion are not constrained. The WG shall communicate to the TCC the request to withdraw a motion. The TCC shall then communicate the decision to withdraw a motion to the entire Membership.
+A motion may only be withdrawn by the Working Group footnote:[Except for votes initiated by the TCC, such as the election of OAB members.] that made the original motion or by the TCC for procedural reasons. The WG shall have a formal documented vote to withdraw a motion. The reasons for withdrawing a motion are not constrained. The WG shall communicate to the TCC the request to withdraw a motion. The TCC shall then communicate the decision to withdraw a motion to the entire Membership.
 
 [[restarting-a-vote]]
 ==== Restarting a vote
@@ -219,5 +223,7 @@ The procedures for holding email votes presented in this section apply to any vo
 Email votes follow the same process as laid out for TC votes in the TC Meeting (see Section 6.4) or for subgroups of the TC electronic voting (see Section 6.6), with the following additional procedures.
 
 1.  The TCC or subgroup chair sends an email to the appropriate reflector notifying the group of the start of an email vote. The message must specify the item(s) on which the group is voting, include relevant background information, provide the deadline for voting, and define the type of vote (“Hand” or “No Objection”).
+
 2.  “Hand” vote: voting members email the reflector (from the email address listed for the corresponding Portal user) with the vote clearly mentioned in the first few lines of the mail, and optionally in the subject line. Allowed votes are YES, NO, or ABSTAIN. The subject line should include the formal name of the subject of the vote used by the chair in the announcement. A member may change their vote by emailing again at any time before the close of the vote. The last vote cast by the member before the closing date and time is that member’s official vote.
+
 3.  “No Objection” vote: an email vote may consist of a request to the group members for any objection to unanimous consent. Voters with no objection to the ballot do not need to email the chair or reply to the vote announcement. Should there be an objection, the vote will be paused and the objection discussed in the reflector or in a meeting. If the objection is addressed to the satisfaction of the objecting party, the vote will continue for the number of days remaining in the vote from the date at which the vote was paused. If the objection is not removed, then the vote will restart as either a “Hand” vote (see 2 above) or a Portal e-vote.

@@ -7,7 +7,7 @@ The TC is the primary group where OGC standards are developed, discussed, approv
 The Technical Committee is comprised of three primary subgroups: the OGC Naming Authority, Working Groups (WG), and Subcommittees (SC) to:
 
 * Evaluate and provide guidance on architecture issues;
-* Carry out the development of new proposalsfootnote:[Proposals as used here is meant to be a general term to cover RFCs, Discussion Papers, Best Practices, and Engineering Reports.];
+* Carry out the development of new proposals footnote:[Proposals as used here is meant to be a general term to cover RFCs, Discussion Papers, Best Practices, and Engineering Reports.];
 * Evaluation of proposals; and
 * Provide a forum for the discussion and documentation of requirements for interoperability.
 
@@ -50,7 +50,7 @@ A group (organizationally, a subgroup of the TC – <<policies-specific-to-a-dom
 
 A DWG Does Not work on RFC submissions, candidate standards, or revisions to existing OGC standards. However, a DWG can develop change requests as document interoperability requirements that can then be submitted as work items to a SWG.
 
-By default, a DWG will allow public collaboration, such as in teleconference, email discussions, or a public twiki. A DWG has the option to make a motion to the TC to remove public participation in the DWG.
+By default, a DWG will allow public collaboration, such as in teleconference, email discussions, or a public wiki. A DWG has the option to make a motion to the TC to remove public participation in the DWG.
 
 [[standards-working-group-swg]]
 ==== Standards Working Group (SWG)

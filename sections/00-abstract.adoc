@@ -2,7 +2,7 @@
 [abstract]
 == Abstract
 
-The http://www.opengeospatial.org/[OGC] provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. “International standards”footnote:[As defined in ISO/IEC Directives, Part 2] are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:
+The http://www.opengeospatial.org/[OGC] provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. “International standards” footnote:[As defined in ISO/IEC Directives, Part 2] are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:
 
 A document, established by consensus and approved by the OGC Membership, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context.
 
