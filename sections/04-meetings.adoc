@@ -7,7 +7,7 @@ This section describes the Policies and Procedures for meetings of the OGC Techn
 [[meetings-of-the-tc]]
 === Meetings of the TC
 
-Technical Committee meetings shall be conducted under the general guidance of Robert's Rules of Order footnote:[http://www.robertsrules.com/ Robert’s Rules of Order, Eleventh Edition, 2011.] (RONR). Meetings shall be facilitated by the TCC or other appointed representative(s) of the OGC. The planning goal is to have four meetings per year. The number of meetings per year can be changed by a vote of the TC and the PC or by direction of the Board of Directors.
+Technical Committee meetings shall be conducted under the general guidance of Robert's Rules of Order (<<RONR>>). Meetings shall be facilitated by the TCC or other appointed representative(s) of the OGC. The planning goal is to have four meetings per year. The number of meetings per year can be changed by a vote of the TC and the PC or by direction of the Board of Directors.
 
 TC meeting dates and locations will be announced as far in advance as possible but no less than four months in advance of the meeting. Announcements will be through formal OGC Communication. All recommendations, summary notes, presentations, and so forth shall be posted to the OGC Member Portal.
 

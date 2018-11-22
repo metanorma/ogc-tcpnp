@@ -55,7 +55,9 @@ A liaison representative appointed by an external organization which has recipro
 === OGC Interoperability Program
 alt:[IP]
 
-A global, collaborative, hands-on engineering and testing program designed to deliver proven candidate standards into the OGC Standard Development Program and to exercise and test existing OGC standards in domain specific situations. More information about the IP can be found at https://www.opengeospatial.org/initiatives.
+A global, collaborative, hands-on engineering and testing program designed to deliver proven candidate standards into the OGC Standard Development Program and to exercise and test existing OGC standards in domain specific situations.
+
+NOTE: More information about the IP can be found at <<OGCIP>>.
 
 === Intellectual Property Rights
 alt:[IPR]
@@ -86,7 +88,7 @@ The OGC Architecture Board works with the TC and the PC to insure architecture c
 
 === OGC Communication
 
-A communication by any means, including posting on the WWW Site (http://www.opengeospatial.org), electronic mail, facsimile transmission, or by regular post. The primary forms of communication will be either via email or using the OGC Members Only Portal. Any member desiring delivery by other than electronic means (WWW site or electronic mail) must state so in written form to OGC staff.
+A communication by any means, including posting on the WWW Site (<<OGC>>), electronic mail, facsimile transmission, or by regular post. The primary forms of communication will be either via email or using the OGC Members Only Portal. Any member desiring delivery by other than electronic means (WWW site or electronic mail) must state so in written form to OGC staff.
 
 === OGC standard
 
@@ -118,16 +120,19 @@ alt:[PC]
 
 The OGC Planning Committee is granted authority to operate by the OGC Bylaws. Principal Membership is available for organizations that wish to participate in the planning and management of the Consortium's technology development process.
 
+[[term-rand]]
 === RAND
 
 Reasonable and Non-discriminatory.
 
+NOTE: Also see <<RANDWikipedia>>.
+
 === Request for Comment
 alt:[RFC]
 
-(See Section 9.4)
-
 An explicit request to the industry for comments concerning a particular candidate standard that a Standards Working Group is considering for adoption as a standard satisfying a portion of the Abstract Specification. An RFC begins as an unsolicited proposal from a Voting TC Member or members and results, if successful, in an OGC standard. The RFC process is typically how interface and encoding standards developed in the OGC Interoperability Program move into the formal OGC TC standards approval process.
+
+NOTE: Also see <<policies-for-the-request-for-comment-rfc-process>>.
 
 === Retired Document
 
@@ -149,9 +154,9 @@ The complete set of member approved abstract specifications standards, including
 === Technical Committee
 alt:[TC]
 
-See Section 5.
-
 The OGC TC has been granted authority to operate by the OGC Bylaws. The OGC Technical Committee is composed of individuals representing organizations that are duly recognized members in good standing of the OGC.
+
+NOTE: Also see <<structure-of-the-technical-committee>>.
 
 === TC Member
 
@@ -166,3 +171,21 @@ alt:[WP]
 
 An OGC member approved publication released by the OGC to the Public that states a position on one or more technical or other subject that is germane to the work of the OGC, often including a high-level explanation of a standards based architecture or framework of a solution. A White Paper often explains the results or conclusions of research. A White Paper is not an official position of the OGC.
 
+[[term-vcso]]
+=== Voluntary Consensus Standards Organization
+
+Domestic or international organizations which plan, develop, establish, or coordinate voluntary consensus standards using agreed-upon procedures.
+
+NOTE: A voluntary consensus standards body is defined by the following attributes:
++
+* Openness.
+* Balance of interest.
+* Due process.
+* An appeals process.
+
+////
+Consensus, which is defined as general agreement, but not necessarily unanimity, and includes a process for attempting to resolve objections by interested parties, as long as all comments have been fairly considered, each objector is advised of the disposition of his or her objection(s) and the reasons why, and the consensus body members are given an opportunity to change their votes after reviewing the comments.
+////
+
+[.source]
+<<OMBA119>>

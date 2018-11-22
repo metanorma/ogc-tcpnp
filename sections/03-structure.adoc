@@ -7,11 +7,17 @@ The TC is the primary group where OGC standards are developed, discussed, approv
 The Technical Committee is comprised of three primary subgroups: the OGC Naming Authority, Working Groups (WG), and Subcommittees (SC) to:
 
 * Evaluate and provide guidance on architecture issues;
-* Carry out the development of new proposals footnote:[Proposals as used here is meant to be a general term to cover RFCs, Discussion Papers, Best Practices, and Engineering Reports.];
+
+* Carry out the development of new proposals;
+
 * Evaluation of proposals; and
+
 * Provide a forum for the discussion and documentation of requirements for interoperability.
 
 WGs will be formed, carry out their work, and when their work is completed, be dissolved. Working Group Policies and Procedures are defined in <<policies-and-procedures-for-subgroups-of-the-tc>>.
+
+NOTE: Proposals as used here is meant to be a general term to cover RFCs, Discussion Papers, Best Practices, and Engineering Reports.
+
 
 [[ogc-naming-authority-ogc-na]]
 === OGC Naming Authority (OGC-NA)
@@ -21,7 +27,7 @@ The OGC Naming Authority (OGC-NA) controls the assignment of OGC Names to resour
 [[subcommittee-sc-of-the-tc]]
 === Subcommittee (SC) of the TC
 
-A standing group (organizationally, a subgroup of the TC) of individuals composed of members of the TC and Invited Guests, with a mission to provide recommendations to the TC in some general area. A http://www.opengeospatial.org/projects/groups/sc/[Subcommittee] does not generate a standard nor does it work on a standard.
+A standing group (organizationally, a subgroup of the TC) of individuals composed of members of the TC and Invited Guests, with a mission to provide recommendations to the TC in some general area. A Subcommittee (see <<OGCSC>>) does not generate a standard nor does it work on a standard.
 
 SCs have Voting TC Member-only voting. As with all OGC groups, each Voting TC Member has only one vote per SC. SCs are long-standing entities with general portfolios or mission. OGC staff can chair TC SCs. Any OGC member can attend a SC meeting and participate.
 
@@ -32,7 +38,15 @@ A SC may be proposed by any TC member. The TCC shall determine whether the SC sh
 
 A group (organizationally, a subgroup of the TC) of individuals composed of members of the TC and invited guests, with the specific intent of solving some particular interoperability problem or problems in a particular technology domain for recommendation to the TC. A Group is not a subcommittee as outlined by the Bylaws of the OGC.
 
-There are two types of Working Groups in the TC: http://www.opengeospatial.org/projects/groups/wg/[Domain Working Groups] (DWGs) and http://www.opengeospatial.org/projects/groups/swg/[Standards Working Groups] (SWGs). The reason that there are two different type of Working Groups is due to the OGC Intellectual Property Policy. The OGC IP Policy can be downloaded from http://www.opengeospatial.org/ogc/policies.
+There are two types of Working Groups in the TC:
+
+* Domain Working Groups (DWGs) (<<OGCDWG>>); and
+* Standards Working Groups] (SWGs) (<<OGCSWG>>).
+
+The reason that there are two different type of Working Groups is due to the OGC Intellectual Property Policy (<<OGCIPR>>).
+
+// The OGC IP Policy can be downloaded from <<OGCIPR>>.
+
 
 [[domain-working-group]]
 ==== Domain Working Group

@@ -10,7 +10,7 @@ More specifically in the standards area, a consortium has the following characte
 * Is usually (but not always) international in membership and objectives;
 * May have a very narrow or a broad mission (but still generally within a single focus area);
 * Has as its primary goal(s) the creation and/or promotion of international standards (most commonly in the IT area);
-* Creates what would be acknowledged to be "open" standards made available on Reasonable and Non-Discriminatory (https://en.wikipedia.org/wiki/Reasonable_and_non-discriminatory_licensing/[RAND]) terms; and
+* Creates what would be acknowledged to be "open" standards made available on Reasonable and Non-Discriminatory (<<term-rand>>) terms; and
 * May engage in additional activities, such as the creation of white papers, training and certification, but which rarely becomes a "trade association" in the non-tax sense.
 
-The OGC is defined as a Voluntary Consensus Standards Organization footnote:[http://www.nist.gov/standardsgov/omba119.cfm[_http://www.nist.gov/standardsgov/omba119.cfm_]].
+The OGC is defined as a Voluntary Consensus Standards Organization (<<term-vcso>>).

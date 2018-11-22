@@ -5,9 +5,11 @@
 [[proprietary-rights]]
 === Proprietary Rights
 
-footnote:[Please read the OGC IPR Policy documents located at http://www.opengeospatial.org/legal[_www.opengeospatial.org/legal_] for the complete text and description of the OGC IPR policy. If at any time there is confusion or conflict between what is stated in the TC P&P and the OGC IPR Policy, the OGC IPR Policy takes precedent.]
+NOTE: Please read the OGC IPR Policy documents located at <<OGCLegal>> for the complete text and description of the OGC IPR policy. If at any time there is confusion or conflict between what is stated in the TC P&P and the OGC IPR Policy, the OGC IPR Policy takes precedent.
 
-During any meeting of the OGC Technical Committee or any subgroup of the TC, no participant shall disclose proprietary information. footnote:[This section clearly places the onus of protection of proprietary rights on the owner of those rights. No discussion of proprietary technology can take place during a TC or TC subgroup meeting, protecting the participants in the meeting from accidental exposure to proprietary information (and consequent future legal problems with that participant's own intellectual property rights). If a TC member wishes to present information of a proprietary nature to members of the TC, he or she may arrange a meeting of the interested parties totally separate from the TC process and meeting.]
+During any meeting of the OGC Technical Committee or any subgroup of the TC, no participant shall disclose proprietary information.
+
+NOTE: This section clearly places the onus of protection of proprietary rights on the owner of those rights. No discussion of proprietary technology can take place during a TC or TC subgroup meeting, protecting the participants in the meeting from accidental exposure to proprietary information (and consequent future legal problems with that participant's own intellectual property rights). If a TC member wishes to present information of a proprietary nature to members of the TC, he or she may arrange a meeting of the interested parties totally separate from the TC process and meeting.
 
 In addition, no information of a secret or proprietary nature shall be made available to the OGC as official documents, and no such documents (or documents marked as such) shall be made OGC official documents or forwarded to the membership.
 

@@ -10,3 +10,73 @@
 
 * [[[ISO19106,ISO 19106]]], _Geographic information -- Profile_
 
+* [[[ISOOGCTOR,ISO-OGC Terms of Reference]]], _ISO-OGC Terms of Reference_, https://portal.opengeospatial.org/files/?artifact_id=69074
+
+* [[[OGC,OGC]]], _OGC Homepage_, http://www.opengeospatial.org/
+
+* [[[OGCPOC,OGC Principles of Conduct]]], _OGC Principles of Conduct_ http://www.opengeospatial.org/ogc/policies/conduct/
+
+* [[[ISODIR2,ISO/IEC Directives, Part 2]]], _ISO/IEC Directives, Part 2, Principles and rules for the structure and drafting of ISO and IEC documents_
+
+* [[[OGCAS,OGC Abstract Specification]]], _OGC Abstract Specification_ http://www.opengeospatial.org/docs/as/
+
+* [[[OGCIP,OGC Innovation Program]]], _OGC Innovation Program_ http://www.opengeospatial.org/ogc/programs/ip/
+
+* [[[OGCInit,OGC Interoperability Program]]], _OGC Interoperability Program_, https://www.opengeospatial.org/initiatives
+
+* [[[OGCSC,OGC Subcommittee]]], _OGC Subcommittee page_, http://www.opengeospatial.org/projects/groups/sc/
+
+* [[[OGCDWG,OGC Domain Working Groups]]], _OGC Domain Working Groups (DWGs)_, http://www.opengeospatial.org/projects/groups/wg/
+
+* [[[OGCSWG,OGC Standards Working Groups]]], _OGC Standards Working Groups (SWGs)_, http://www.opengeospatial.org/projects/groups/swg/
+
+* [[[OGCIPP,OGC Intellectual Property Policy]]], _OGC Intellectual Property Policy_, http://www.opengeospatial.org/ogc/policies
+
+* [[[OGCIPR,OGC Intellectual Property Rights (IPR) policies]]], _OGC Intellectual Property Rights (IPR) policies_, http://www.opengeospatial.org/about/ipr
+
+* [[[OGCORM,OGC Reference Model]]], _OGC Reference Model_, http://www.opengeospatial.org/standards/orm
+
+* [[[OGCDIR,OGC Policy Directives]]], _OGC Policy Directives_, https://portal.opengeospatial.org/public_ogc/directives/directives.php
+
+* [[[OGCPortal,OGC Portal]]], _OGC Portal_, http://portal.opengeospatial.org
+
+* [[[OGCMSP,OGC Modular Specification Policy]]], _The Specification Model - A Standard for Modular specifications (08-131r3)_, https://portal.opengeospatial.org/files/?artifact_id=34762
+
+* [[[OGC06135,OGC 06-135]]], _OGC 06-135r11: Policy Directives for Writing and Publishing OGC Standards: TC Decisions_, http://portal.opengeospatial.org/files/?artifact_id=40077
+
+* [[[PURL,PURL]]], _Persistent Uniform Resource Locators (PURL)_, http://purl.oclc.org/docs/index.html
+
+* [[[RONR,RONR]]], _Robert’s Rules of Order_, Eleventh Edition, 2011, http://www.robertsrules.com/
+
+* [[[OGCLegal,OGC Legal Documents]]], _OGC Legal Documents_, http://www.opengeospatial.org/legal
+
+* [[[OGCCRApp,OGC Change Request Application]]], _OGC Change Request Application Page_, http://ogc.standardstracker.org/
+
+
+* [[[OGC10177,OGC 10-177]]], _OGC 10-177r2, Guidance to Editors and Authors of OGC Documents that use the OGC Standards document template_, v1.2,
+https://portal.opengeospatial.org/files/?artifact_id=3244/
+
+* [[[OGC10176,OGC 10-176]]], _OGC 10-176r8, OGC Standards document template_,
+https://portal.opengeospatial.org/files/?artifact_id=56777/
+
+
+* [[[OGC09046,OGC 09-046]]], _OGC Naming Authority (OGC-NA) Policies & Procedures_, http://portal.opengeospatial.org/files/?artifact_id=37800
+
+* [[[OGC09047,OGC 09-047]]], _OGC-NA Name type specification - documents_, http://portal.opengeospatial.org/files/?artifact_id=41774
+
+* [[[OGC09048,OGC 09-048]]], _OGC-NA definitions: Part 1 - basic name_, http://portal.opengeospatial.org/files/?artifact_id=37802
+
+* [[[OGCDIRECTIVES,OGC Directives]]], _OGC Directives_,
+http://www.opengeospatial.org/ogc/policies/directives
+
+* [[[RANDWikipedia]]], _Wikipedia: RAND_, (https://en.wikipedia.org/wiki/Reasonable_and_non-discriminatory_licensing/
+
+* [[[OMBA119,OMB Circular A-119]]], _OMB Circular A-119: Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities_, https://www.whitehouse.gov/wp-content/uploads/2017/11/Circular-119-1.pdf
+
+* [[[OGCPortalTemplates,OGC Portal Templates]]], _OGC Portal: Templates_, https://portal.opengeospatial.org/?m=public&subtab=templates&tab=1
+
+* [[[OGCPortalInstructions,OGC Portal Instructions]]], _OGC Portal: Instructions_, https://portal.opengeospatial.org/?m=public&subtab=instructions&tab=1
+
+* [[[OGCPortalHome,OGC Portal Home]]], _OGC Portal: Home_, https://portal.opengeospatial.org/?m=public&orderby=default&tab=1
+
+* [[[OGC08125,OGC 08-125]]], _OGC 08-125: KML – Standard Development Best Practices_

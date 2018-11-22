@@ -2,7 +2,7 @@
 [abstract]
 == Abstract
 
-The http://www.opengeospatial.org/[OGC] provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. “International standards” footnote:[As defined in ISO/IEC Directives, Part 2] are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:
+The <<OGC>> provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. “International standards” (as defined in <<ISODIR2>>) are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:
 
 A document, established by consensus and approved by the OGC Membership, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context.
 
@@ -21,4 +21,4 @@ As the needs and purpose of the TC change, these policies and procedures changes
 
 The OGC Technical Committee provides an open, collaborative forum for professional discussion related to the consensus development and/or evaluation, approval, and revision of OGC international standards. The primary use of approved OGC standards is to provide the ability to build and deploy interoperable geospatial solutions in the larger Information Technology (IT) domain.
 
-The OGC http://www.opengeospatial.org/ogc/policies/conduct/[Principles of Conduct] govern personal and public interactions in any TC activity.
+The OGC Principles of Conduct (<<OGCPOC>>) govern personal and public interactions in any TC activity.
