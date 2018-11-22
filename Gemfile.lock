@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/riboseinc/metanorma-ogc
-  revision: 35fdcf73a1f1ee769dc5dd3f2ed97834a9663ee9
+  revision: 49705800d57e6203ec79ba6987a1b844813dce2e
   specs:
     metanorma-ogc (0.0.1)
       asciidoctor (~> 1.5.7)
