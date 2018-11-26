@@ -49,7 +49,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/metanorma-ogc
-  revision: ee04cacb62db74f02fe8e96dc422406734ff2572
+  revision: 5bbc068c1ebaafdf35c3811f80f44e73e0ad9397
   specs:
     metanorma-ogc (0.0.1)
       asciidoctor (~> 1.5.7)
