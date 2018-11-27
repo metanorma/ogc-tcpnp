@@ -5,7 +5,7 @@
 [[role-and-responsibilities]]
 === Role and Responsibilities
 
-As stated in the Bylaws of the OGC, the OGC TC has the right to seat two representatives on the OGC PC. Up to seven representatives may be available in a “pool” and the TCC will work with the representatives to choose the two to attend a specific PC meeting. This section details the role and responsibilities of these individuals and the process for their election.
+As stated in the Bylaws of the OGC, the OGC TC has the right to seat two representatives on the OGC PC. Up to seven representatives may be available in a "`pool`" and the TCC will work with the representatives to choose the two to attend a specific PC meeting. This section details the role and responsibilities of these individuals and the process for their election.
 
 The role of a TC Representative to the PC is to bring issues of concern to the general TC membership to the attention of the PC and to keep the TC apprised of the activity of the PC. Responsibilities of the representatives include the following:
 

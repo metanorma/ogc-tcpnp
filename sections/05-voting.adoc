@@ -61,7 +61,7 @@ Many votes usually occur in the Opening or Closing TC Plenary. The following is 
 |Approval to start electronic vote for a new SWG or Community standard work activity|TC Voting Member
 |==================================================================================
 
-For “Any Member” votes, only one member representative from a given Member Organization may vote.
+For "`Any Member`" votes, only one member representative from a given Member Organization may vote.
 
 [[form-of-a-document-motion-in-a-sc-or-wg]]
 ==== Form of a Document Motion in a SC or WG
@@ -69,17 +69,23 @@ For “Any Member” votes, only one member representative from a given Member O
 All SC or WG document votes, except for Best Practices and standards adoption votes shall have the following language:
 
 [quote]
-_____
+____
 The <Name of the SC or WG> recommends that the TC approve the release of <OGC Document number and Name> as an OGC <White, Discussion, or Engineering> Document.
-_____
+____
 
 Often the following clause is added:
 
-“Pending any final edits to the document.”
+[quote]
+____
+Pending any final edits to the document.
+____
 
 Best Practice and standards adoption votes shall have the following language:
 
+[quote]
+____
 The <Name of the SC or WG> recommends that the TC approve an electronic vote to recommend <OGC Document number and Name> as a <OGC Best Practice or Adopted Standard>.
+____
 
 [[proxy-for-voting]]
 ==== Proxy for Voting
@@ -90,7 +96,7 @@ Proxies can be assigned electronically or in written form. The written proxy for
 
 Proxy shall be communicated to the TCC in advance of the TC Closing Plenary. The TCC shall send reminders to the Voting Members prior to the meetings.
 
-Proxies are not transitive: that is, if Member A holds a proxy for Member B and Member B holds a proxy for Member C, Member A can only vote on behalf of Member B and CANNOT further vote on behalf of Member C by “proxy to a proxy.”
+Proxies are not transitive: that is, if Member A holds a proxy for Member B and Member B holds a proxy for Member C, Member A can only vote on behalf of Member B and CANNOT further vote on behalf of Member C by "`proxy to a proxy.`"
 
 [[tc-electronic-voting]]
 === TC Electronic Voting
@@ -203,7 +209,7 @@ The procedures for holding electronic votes (e-votes) presented in this section 
 * Has an email reflector on the OGC Portal on which all voting members are subscribed; and
 * Has a quorum rule on votes, or a rule that requires a notice to the TC at large of the type of vote being contemplated.
 
-In the event that a motion is made either on the email reflector of a subgroup or in some other scheduled meeting of the subgroup (that lacks quorum and thus cannot act directly), then the chair (or presiding officer of the meeting if the elected chair is not present) may call for a Portal vote as a “measures to obtain a quorum” (<<RONR,section=40,pages="347-348">>). The procedure will be as follows.
+In the event that a motion is made either on the email reflector of a subgroup or in some other scheduled meeting of the subgroup (that lacks quorum and thus cannot act directly), then the chair (or presiding officer of the meeting if the elected chair is not present) may call for a Portal vote as a "`measures to obtain a quorum`" (<<RONR,section=40,pages="347-348">>). The procedure will be as follows.
 
 1.  A motion is made and seconded on the subgroup's email reflector or during a meeting (such as a teleconference) that may not have a quorum.[multiblock footnote omitted]
 2.  The chair (or the presiding person at the meeting where the motion was made in conjunction with one of the subgroup’s elected chairs) announces that a Portal e-vote will be taken and summarizes the procedure to be used. This summary includes an opening date (usually immediately or within one week after the motion is made) and a closing date at least one full week after the opening, making the vote last at least 8 calendar days (such as a Monday to Monday schedule).
@@ -225,8 +231,8 @@ The procedures for holding email votes presented in this section apply to any vo
 
 Email votes follow the same process as laid out for TC votes in the TC Meeting (see <<voting-at-tc-meetings>>) or for subgroups of the TC electronic voting (see <<subgroups-of-the-tc-electronic-voting>>), with the following additional procedures.
 
-. The TCC or subgroup chair sends an email to the appropriate reflector notifying the group of the start of an email vote. The message must specify the item(s) on which the group is voting, include relevant background information, provide the deadline for voting, and define the type of vote (“Hand” or “No Objection”).
+. The TCC or subgroup chair sends an email to the appropriate reflector notifying the group of the start of an email vote. The message must specify the item(s) on which the group is voting, include relevant background information, provide the deadline for voting, and define the type of vote ("`Hand`" or "`No Objection`").
 
-. [[tc-hand-vote]] “Hand” vote: voting members email the reflector (from the email address listed for the corresponding Portal user) with the vote clearly mentioned in the first few lines of the mail, and optionally in the subject line. Allowed votes are YES, NO, or ABSTAIN. The subject line should include the formal name of the subject of the vote used by the chair in the announcement. A member may change their vote by emailing again at any time before the close of the vote. The last vote cast by the member before the closing date and time is that member’s official vote.
+. [[tc-hand-vote]] "`Hand`" vote: voting members email the reflector (from the email address listed for the corresponding Portal user) with the vote clearly mentioned in the first few lines of the mail, and optionally in the subject line. Allowed votes are YES, NO, or ABSTAIN. The subject line should include the formal name of the subject of the vote used by the chair in the announcement. A member may change their vote by emailing again at any time before the close of the vote. The last vote cast by the member before the closing date and time is that member’s official vote.
 
-. “No Objection” vote: an email vote may consist of a request to the group members for any objection to unanimous consent. Voters with no objection to the ballot do not need to email the chair or reply to the vote announcement. Should there be an objection, the vote will be paused and the objection discussed in the reflector or in a meeting. If the objection is addressed to the satisfaction of the objecting party, the vote will continue for the number of days remaining in the vote from the date at which the vote was paused. If the objection is not removed, then the vote will restart as either a “Hand” vote (see <<tc-hand-vote>>) or a Portal e-vote.
+. "`No Objection`" vote: an email vote may consist of a request to the group members for any objection to unanimous consent. Voters with no objection to the ballot do not need to email the chair or reply to the vote announcement. Should there be an objection, the vote will be paused and the objection discussed in the reflector or in a meeting. If the objection is addressed to the satisfaction of the objecting party, the vote will continue for the number of days remaining in the vote from the date at which the vote was paused. If the objection is not removed, then the vote will restart as either a "`Hand`" vote (see <<tc-hand-vote>>) or a Portal e-vote.

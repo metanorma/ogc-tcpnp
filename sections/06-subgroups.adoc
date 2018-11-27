@@ -157,7 +157,7 @@ Once the charter is approved by the TC and the PC, OGC staff will create a new P
 Finally, the TCC shall make a general call for participation in the new SWG. The call for participation will be made public.
 
 [[charter-members-of-the-swg]]
-==== “Charter” members of the SWG
+==== "`Charter`" members of the SWG
 
 The charter members for a SWG will be:
 
@@ -170,7 +170,7 @@ Charter members have agreed to the IPR terms of the SWG. Charter members are imm
 [[participating-in-a-swg-opting-in]]
 ==== Participating in a SWG – Opting In
 
-Any OGC member representative can join a SWG at any time and participate in the work of the SWG. If a Member wishes to participate, then the member representative(s) need(s) to “opt-in” to the new SWG in order to participate. Opting into a SWG is done via a registration page for that SWG. The registration page will be available on the OGC Portal. The registration page will clearly state the IPR terms for the SWG as well as the Scope of Work.
+Any OGC member representative can join a SWG at any time and participate in the work of the SWG. If a Member wishes to participate, then the member representative(s) need(s) to "`opt-in`" to the new SWG in order to participate. Opting into a SWG is done via a registration page for that SWG. The registration page will be available on the OGC Portal. The registration page will clearly state the IPR terms for the SWG as well as the Scope of Work.
 
 Any member representative opting into a SWG and making a Contribution to any SWG (regardless of its licensing designation) must commit at the time of making such Contribution that if the Proposed standard in connection with which the Contribution is made is finally approved by OGC, the Contributor will provide a License to all patent claim(s) Owned by it that become Necessary Claim(s) by reason of its making a Contribution, without compensation and otherwise on a RAND basis, to all Implementers. Such commitment shall be made be made pursuant to a written declaration in the form of Appendix A to this IPR Policy.
 
@@ -179,7 +179,7 @@ If the member representative does elect to participate (opt-in), then there is a
 [[swg-voting-members]]
 ==== SWG voting members
 
-All of the SWG charter members can vote at the first meeting of the new SWG and are therefore deemed “voting members” of the SWG.
+All of the SWG charter members can vote at the first meeting of the new SWG and are therefore deemed "`voting members`" of the SWG.
 
 After the 30-day waiting period, any member representative who is not a charter member may request that the SWG chair change their status to a voting member of the SWG. Once the Chair approves the request, the member can then vote on any item or issue brought before the SWG. Any member who has been participating in a SWG for 30 days but does not wish to be a voting member can remain of group member and participate.
 
@@ -222,7 +222,7 @@ SWGs operate under the same general voting rules as other sub-groups of the TC, 
 [[caveat-on-voting-rights-if-you-do-not-participate-on-a-regular-basis]]
 ==== Caveat on Voting Rights – If you do not participate on a regular basis
 
-If you join a SWG and have voting privileges, you have a responsibility to participate in the teleconference and email dialogues. If you do not participate in the teleconferences and email discussions and vote on items and issues, you will lose your voting privileges and have your SWG member status changed from “Voting” to “Group Member”. The SWG Chair has the authority and the ability to make these changes based on the following policy.
+If you join a SWG and have voting privileges, you have a responsibility to participate in the teleconference and email dialogues. If you do not participate in the teleconferences and email discussions and vote on items and issues, you will lose your voting privileges and have your SWG member status changed from "`Voting`" to "`Group Member`". The SWG Chair has the authority and the ability to make these changes based on the following policy.
 
 Quorum for votes on any items or issues brought before a SWG is based on the number of voting members for that SWG. Insuring quorum at SWG meetings is a vital aspect of the SWG being able to complete its work in a timely manner. Therefore, any SWG voting member who misses two consecutive SWG meetings (teleconference, face to face, or webinar) in which votes occur or misses two consecutive email votes shall be deemed as inactive and will not count toward quorum after the second missed vote. The SWG Chair shall take roll call at the beginning of each meeting and determine quorum based on active voting members only. An inactive SWG voting member can become active again simply by attending the SWG meetings and participating. If regular attendance by a given voting member is an issue, that voting member may assign a temporary or permanent proxy to another SWG voting member or to the SWG Chair. The voting member may rescind that proxy at any time. If the voting member wishes not to assign their proxy, they can ask to change their status to "Observer" and still actively participate in the SWG.
 

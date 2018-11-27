@@ -2,7 +2,7 @@
 [[policies-and-procedures-for-adoption-andor-revisions-of-standards]]
 == Policies and Procedures for Adoption and/or Revisions of Standards
 
-This section covers procedures for adoption, revision, and maintenance of OGC standards. For the purposed of clarity, the term “standards” covers both the candidate abstract and implementation cases.
+This section covers procedures for adoption, revision, and maintenance of OGC standards. For the purposed of clarity, the term "`standards`" covers both the candidate abstract and implementation cases.
 
 [[standards-proposed-for-adoption-caveats]]
 === Standards Proposed for Adoption – Caveats
@@ -58,7 +58,7 @@ IPR: Community standard may contain IPR that is jointly held by the OGC and the 
 [[status-of-standards-approved-before-the-two-track-standards-process]]
 ==== Status of Standards Approved Before the Two Track Standards Process
 
-OGC standards approved prior to the effective date of Revision 24 of these Policies and Procedures (05-020r24) will automatically be classified as “standards” under the Full Standard track. These standards can be advanced to a standard with Compliance Suite per the process defined in <<specific-policies-regarding-approval-of-a-standard-with-compliance-suite>>.
+OGC standards approved prior to the effective date of Revision 24 of these Policies and Procedures (05-020r24) will automatically be classified as "`standards`" under the Full Standard track. These standards can be advanced to a standard with Compliance Suite per the process defined in <<specific-policies-regarding-approval-of-a-standard-with-compliance-suite>>.
 
 [[adoption-andor-revision-to-a-standard---general]]
 === Adoption and/or Revision to a Standard - General
@@ -228,7 +228,7 @@ The candidate standard cannot be released for public comment until it is approve
 [[review-of-ogc-identifiers-http-uris-etc-by-the-ogc-naming-authority-all]]
 ===== Review of OGC Identifiers (http URIs, etc) by the OGC Naming Authority (All)
 
-Concurrent with the OAB review of the candidate standard, the SWG shall provide a list of all new OGC identifiers specified in the candidate standard to be issued for persistent public OGC resources. This list shall be submitted to the OGC Naming Authority for review. This submission may be done by email. The specific policy is specified in “Policy Directives for Writing and Publishing OGC Standards: TC Decisions” (<<OGC06135>>).
+Concurrent with the OAB review of the candidate standard, the SWG shall provide a list of all new OGC identifiers specified in the candidate standard to be issued for persistent public OGC resources. This list shall be submitted to the OGC Naming Authority for review. This submission may be done by email. The specific policy is specified in "`Policy Directives for Writing and Publishing OGC Standards: TC Decisions`" (<<OGC06135>>).
 
 The candidate standard document/repository will also be provided to the OGC-NA to ensure that document tags and formatting are consistent with the OGC standard template and suitable for ingestion into the OGC Knowledge Management database.
 
@@ -246,7 +246,7 @@ During the RFC comment period, any party (including all classes of OGC members, 
 [[review-of-the-received-comments-all]]
 ===== Review of the Received Comments (All)
 
-Once the RFC comment period closes, the RFC submission team “collects” the comments and integrates them into a single RFC comment document. The team reviews the comments and determines how each comment will be responded to. The team may decide to:
+Once the RFC comment period closes, the RFC submission team "`collects`" the comments and integrates them into a single RFC comment document. The team reviews the comments and determines how each comment will be responded to. The team may decide to:
 
 * Accepts the comment as is and edits the candidate standard accordingly;
 * Accepts the comment with modification and edits the candidate standard accordingly;
@@ -289,7 +289,7 @@ A standard proposed to be approved as a standard with Compliance Suite must be s
 
 In the case where an OGC-approved Best Practice is a profile of an active standard (i.e., not retired, deprecated, nor rescinded) and members wish to submit the profile for adoption as a full standard, the standard approval process is modified as follows.
 
-NOTE: if the Best Practice is a profile combined from multiple standards, then the profile must be advanced as a standard via the normal full standards track process. The single standard to which the profile applies may itself have normative references to other standards; such a situation does not make the profile “combined from multiple standards.”
+NOTE: if the Best Practice is a profile combined from multiple standards, then the profile must be advanced as a standard via the normal full standards track process. The single standard to which the profile applies may itself have normative references to other standards; such a situation does not make the profile "`combined from multiple standards.`"
 
 . The submitters of the Best Practice must agree to proceed with the standard adoption process.
 . The SWG responsible for the parent standard (i.e., the standard to which the profile applies) must vote to proceed with the standard adoption process per the normal SWG processes and voting rules.
@@ -447,7 +447,7 @@ The SWG shall perform the following tasks.
 * Develop a plan and schedule for completion of the new revision of the given standard. The Plan and Schedule, also known as a Road Map, will be made available to all OGC members as well as the Public.
 * Work to ensure that revisions to the standard are consistent and harmonized with other related OGC standards.
 * Work to ensure that the new revision is – as best as can be accomplished – backwards compatible with the previous revision.
-* At completion of revisions to a standard and before the new version is voted on, provide a “release notes” document that describes all the changes to the standard. The revised standard will not be considered for adoption until this document is complete.
+* At completion of revisions to a standard and before the new version is voted on, provide a "`release notes`" document that describes all the changes to the standard. The revised standard will not be considered for adoption until this document is complete.
 * Provide a revision notes document using the standard revisions template that documents the revisions to the standard resulting from either public comments or CRPs. The revision notes include lists of deprecated capabilities, changes to capabilities, and new capabilities that are added over time.
 * Try to complete their work in a timely manner.
 * Endeavor to reflect their perception of the consensus of the TC.

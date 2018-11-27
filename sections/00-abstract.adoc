@@ -2,7 +2,7 @@
 [abstract]
 == Abstract
 
-The <<OGC>> provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. “International standards” (as defined in <<ISODIR2>>) are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:
+The <<OGC>> provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. "`International standards`" (as defined in <<ISODIR2>>) are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:
 
 A document, established by consensus and approved by the OGC Membership, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context.
 
@@ -15,7 +15,7 @@ The TC P&P:
 * Documents all TC voting processes and procedures;
 * Documents the formation, scope and processes required for TC subgroup and committee activities;
 * Documents the processes and procedures for submitting, reviewing, and approving a new standard using the Request for Comment procedures; and
-* Documents the process for revisions to adopted OGC^®^ standards.
+* Documents the process for revisions to adopted OGC(R) standards.
 
 As the needs and purpose of the TC change, these policies and procedures changes are approved by an electronic vote of the Voting Members of OGC TC or by recommendation of the OGC Planning Committee (PC). These policies and procedures may be augmented or clarified by Policy Directives issued and approved by the TC or the PC. Such directives are databased and hyperlinked to/from the appropriate portion of this document.
 

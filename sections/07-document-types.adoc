@@ -7,7 +7,7 @@ This section describes the various OGC documents and document handling processes
 [[an-ogc-policy-document]]
 === An OGC Policy Document
 
-A policy is a principle, rule or process that guide decisions to achieve rational outcome(s). The work of the OGC is guided by a number of Member approved policies and processes. These policies and processes are documented in various OGC Policies and Procedures documents. These shall be known as “Policy” documents. This TC P&P is a policy document. Policy documents are either maintained by the Members or by OGC staff. In all cases, new policy documents or revisions to existing policy documents shall be reviewed and approved by both the Technical and Planning Committees. Approval of a policy document shall follow the e-voting rules as defined in <<tc-electronic-voting>>. If the TC approves the Policy document, then a simple majority of the PC Voting Members must approve the TC recommendation.
+A policy is a principle, rule or process that guide decisions to achieve rational outcome(s). The work of the OGC is guided by a number of Member approved policies and processes. These policies and processes are documented in various OGC Policies and Procedures documents. These shall be known as "`Policy`" documents. This TC P&P is a policy document. Policy documents are either maintained by the Members or by OGC staff. In all cases, new policy documents or revisions to existing policy documents shall be reviewed and approved by both the Technical and Planning Committees. Approval of a policy document shall follow the e-voting rules as defined in <<tc-electronic-voting>>. If the TC approves the Policy document, then a simple majority of the PC Voting Members must approve the TC recommendation.
 
 Policy documents have version numbers that shall start at 1.0
 
@@ -47,7 +47,7 @@ Discussion Papers do not have a version number.
 [[public-engineering-reports]]
 === Public Engineering Reports
 
-Any OGC Interoperability Initiative, such as a Test Bed or Interoperability Experiment, will have Engineering Reports (ER) as a deliverable. These ERs are typically posted to pending documents and presented and discussed in a WG at an OGC TC face-to-face meeting. The WG may recommend to the TC that the ER be publicly released. If approved by the TC, these documents shall be released as “Public Engineering Reports”.
+Any OGC Interoperability Initiative, such as a Test Bed or Interoperability Experiment, will have Engineering Reports (ER) as a deliverable. These ERs are typically posted to pending documents and presented and discussed in a WG at an OGC TC face-to-face meeting. The WG may recommend to the TC that the ER be publicly released. If approved by the TC, these documents shall be released as "`Public Engineering Reports`".
 
 While these ERs shall be distributed by the OGC, and might in fact lead to adopted standards later, they do not represent the official position of the OGC TC or the OGC.
 
@@ -179,7 +179,7 @@ A positive vote indicates that the document shall not be retired. These motions 
 
 In the case of a OGC standard, a formal electronic vote by the TC Voting Members is required to approve retirement.
 
-Retired documents are not removed from the OGC public website. Instead, they are moved from the current document archive to the "Retired" archive. Further, any retired document shall have “Retired” watermarked on the cover page. If there are schemas associated with a retired OGC standard, the schemas remain in the OGC schema repository. If there are compliance tests for the retired standard, the compliance tests are automatically retired but also remain available on the OGC web site.
+Retired documents are not removed from the OGC public website. Instead, they are moved from the current document archive to the "Retired" archive. Further, any retired document shall have "`Retired`" watermarked on the cover page. If there are schemas associated with a retired OGC standard, the schemas remain in the OGC schema repository. If there are compliance tests for the retired standard, the compliance tests are automatically retired but also remain available on the OGC web site.
 
 [[deprecating-ogc-standards]]
 ===== Deprecating OGC standards
