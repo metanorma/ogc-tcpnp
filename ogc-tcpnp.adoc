@@ -6,6 +6,10 @@
 :issued-date: 2018-06-05
 :published-date: 2018-07-24
 :external-id: http://www.opengis.net/doc/pol/tcpnp/26.0
+:uri: http://docs.opengeospatial.org/pol/05-020r26/05-020r26.html
+:pdf-uri: https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.pdf
+:xml-uri: https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.xml
+:doc-uri: https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.doc
 :committee: Technical Committee
 :copyright-year: 2018
 :language: en
