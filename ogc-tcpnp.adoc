@@ -2,7 +2,7 @@
 :title: Technical Committee Policies and Procedures
 :edition: 26.0
 :docnumber: 05-020r26
-:received-date: 2018-02-14
+:submissionDate: 2018-02-14
 :issued-date: 2018-06-05
 :published-date: 2018-07-24
 :external-id: http://www.opengis.net/doc/pol/tcpnp/26.0
