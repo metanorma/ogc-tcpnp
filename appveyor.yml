@@ -1,0 +1,26 @@
+version: '{build}'
+
+# https://help.appveyor.com/discussions/questions/1929-create-a-docker-machine-in-appveyor-build-nested-hypervisor-needed
+image: Visual Studio 2017
+
+build_script:
+  - bitsadmin /transfer get https://raw.githubusercontent.com/CAMOBAP795/metanorma-windows-setup/master/install.bat %cd%\install.bat & .\install.bat
+  - refreshenv
+  - set PATH=c:\tools\ruby25\bin;%PATH% # make lookup ruby25 before preinstalled one
+  - make -f Makefile.win clean all
+  - exit /B %ERRORLEVEL%
+  - echo "Test DONE"
+
+after_build:
+  - 7z a %APPVEYOR_BUILD_FOLDER%\ogc-tcpnp.zip %APPVEYOR_BUILD_FOLDER%\ogc-tcpnp.*
+
+on_failure:
+  - appveyor PushArtifact
+
+artifacts:
+  - path: metanorma_install.log
+    name: install.log
+  - path: install.bat
+    name: install.bat
+  - path: ogc-tcpnp.zip
+    name: result.zip
