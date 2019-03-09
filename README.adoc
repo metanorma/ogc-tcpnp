@@ -4,7 +4,7 @@
 
 This work item belongs to OGC TC.
 
-image:https://travis-ci.com/riboseinc/ogc-tcpnp.svg?branch=master["Build Status", link="https://travis-ci.com/riboseinc/ogc-tcpnp"]
+image:https://travis-ci.com/metanorma/ogc-tcpnp.svg?branch=master["Build Status", link="https://travis-ci.com/metanorma/ogc-tcpnp"]
 
 This document is available in its rendered forms here:
 
@@ -19,7 +19,7 @@ Because of all this, there is no need to build the document on your own, but if 
 
 [source,sh]
 ----
-git clone https://gitlab.com/riboseinc/ogc-tcpnp/
+git clone https://gitlab.com/metanorma/ogc-tcpnp/
 ----
 
 == Installing Build Tools
@@ -53,7 +53,7 @@ make clean all
 
 The following outputs will be built:
 
-* OGC XML (https://github.com/riboseinc/metanorma-model-ogc) (`[filename].xml`)
+* OGC XML (https://github.com/metanorma/metanorma-model-ogc) (`[filename].xml`)
 * HTML (`[filename].html`)
 * PDF (`[filename].pdf`)
 * Word DOC (`[filename].doc`)
