@@ -1,26 +1,30 @@
 version: '{build}'
 
-# https://help.appveyor.com/discussions/questions/1929-create-a-docker-machine-in-appveyor-build-nested-hypervisor-needed
-image: Visual Studio 2017
+environment:
+  matrix:
+    - RUBY_VERSION: 25
+    - RUBY_VERSION: 24
+    - RUBY_VERSION: _trunk
+
+matrix:
+  allow_failures:
+    - RUBY_VERSION: _trunk
+
+install:
+  - ps: . { iwr -useb https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/appveyor.ps1 } | iex
+  - refreshenv
 
 build_script:
-  - bitsadmin /transfer get https://raw.githubusercontent.com/CAMOBAP795/metanorma-windows-setup/master/install.bat %cd%\install.bat & .\install.bat
-  - refreshenv
-  - set PATH=c:\tools\ruby25\bin;%PATH% # make lookup ruby25 before preinstalled one
-  - make -f Makefile.win clean all
-  - exit /B %ERRORLEVEL%
-  - echo "Test DONE"
+  - set PATH=C:\Ruby%RUBY_VERSION%\bin;%PATH%
+  - bundle update
+  - bundle install
 
-after_build:
-  - 7z a %APPVEYOR_BUILD_FOLDER%\ogc-tcpnp.zip %APPVEYOR_BUILD_FOLDER%\ogc-tcpnp.*
+before_test:
+  - ruby -v
+  - gem -v
+  - bundle -v
 
-on_failure:
-  - appveyor PushArtifact
+test_script:
+  - plantuml -testdot
+  - make -f Makefile.win clean all publish SHELL=cmd
 
-artifacts:
-  - path: metanorma_install.log
-    name: install.log
-  - path: install.bat
-    name: install.bat
-  - path: ogc-tcpnp.zip
-    name: result.zip

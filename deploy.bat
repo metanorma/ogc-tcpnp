@@ -6,8 +6,8 @@ SET TARGET_BRANCH="gh-pages"
 SET KEY_NAME=%CD%\deploy_key
 
 :: Pull requests and commits to other branches shouldn't try to deploy, just build to verify
-if "%TRAVIS_PULL_REQUEST%" NEQ "false" goto SkipDeploy
-if "%TRAVIS_BRANCH%" NEQ "%SOURCE_BRANCH%" goto SkipDeploy
+if "%APPVEYOR_PULL_REQUEST_NUMBER%" NEQ "" goto SkipDeploy
+if "%APPVEYOR_REPO_BRANCH%" NEQ "%SOURCE_BRANCH%" goto SkipDeploy
 
 goto Deploy
 
@@ -50,7 +50,7 @@ cp -a published/* %DEST_DIR%\ | EXIT /B 0
 
 :: Now let's go have some fun with the cloned repo
 PUSHD %DEST_DIR%
-git config user.name "Travis CI"
+git config user.name "Appveyor CI"
 git config user.email "%COMMIT_AUTHOR_EMAIL%"
 
 :: If there are no changes to the compiled out (e.g. this is a README update) then just bail.

@@ -17,7 +17,6 @@ DOC  := $(patsubst %.adoc,%.doc,$(SRC))
 PDF  := $(patsubst %.adoc,%.pdf,$(SRC))
 RXL  := $(patsubst %.adoc,%.rxl,$(SRC))
 
-HOST_SHARE_DIR=$(USERPROFILE)\$(shell for %%I in (.) do echo %%~nxI)
 COMPILE_CMD_LOCAL := bundle exec metanorma -t $(DOCTYPE) -R $(RXL) -x $(FORMATS_LIST) $(SRC)
 COMPILE_CMD_DOCKER := C:/ProgramData/chocolatey/bin/docker run --rm -it -v $(CURDIR):/metanorma/ ribose/metanorma "metanorma -t $(DOCTYPE) -R $(RXL) -x $(FORMATS_LIST) $(SRC)"
 
@@ -65,57 +64,10 @@ bundle:
 .PHONY: bundle all open clean
 
 #
-# Watch-related jobs
-#
-
-.PHONY: watch serve watch-serve
-
-NODE_BINS          := onchange live-serve run-p
-NODE_BIN_DIR       := node_modules/.bin
-NODE_PACKAGE_PATHS := $(foreach PACKAGE_NAME,$(NODE_BINS),$(NODE_BIN_DIR)/$(PACKAGE_NAME))
-
-$(NODE_PACKAGE_PATHS): package.json
-	npm i
-
-watch: $(NODE_BIN_DIR)/onchange
-	make all
-	$< $(ALL_SRC) -- make all
-
-define WATCH_TASKS
-watch-$(FORMAT): $(NODE_BIN_DIR)/onchange
-	make $(FORMAT)
-	$$< $$(SRC_$(FORMAT)) -- make $(FORMAT)
-
-.PHONY: watch-$(FORMAT)
-endef
-
-$(foreach FORMAT,$(FORMATS),$(eval $(WATCH_TASKS)))
-
-serve: $(NODE_BIN_DIR)/live-server revealjs-css reveal.js images
-	export PORT=$${PORT:-8123} ; \
-	port=$${PORT} ; \
-	for html in $(HTML); do \
-		$< --entry-file=$$html --port=$${port} --ignore="*.html,*.xml,Makefile,Gemfile.*,package.*.json" --wait=1000 & \
-		port=$$(( port++ )) ;\
-	done
-
-watch-serve: $(NODE_BIN_DIR)/run-p
-	$< watch serve
-
-#
 # Deploy jobs
 #
 publish:
-	mkdir -p published  && \
-	cp -a $(basename $(SRC)).* published/ && \
-	cp $(firstword $(HTML)) published/index.html; \
-	IF EXISTS "images" cp -a images published
-
-deploy_key:
-	openssl aes-256-cbc -K $(encrypted_$(ENCRYPTION_LABEL)_key) \
-		-iv $(encrypted_$(ENCRYPTION_LABEL)_iv) -in $@.enc -out $@ -d && \
-	chmod 600 $@
-
-deploy: deploy_key
-	export COMMIT_AUTHOR_EMAIL=$(COMMIT_AUTHOR_EMAIL); \
-	./deploy.bat
+	mkdir -p published
+	xcopy $(basename $(SRC)).* published
+	copy $(firstword $(HTML)) published\index.html
+	IF EXIST "images" xcopy /E images published
