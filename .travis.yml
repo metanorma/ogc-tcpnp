@@ -1,14 +1,16 @@
 sudo: required
 language: ruby
-rvm:
-  - 2.5.1
 cache: bundler
+os:
+- linux
+- osx
+rvm:
+- 2.5
 before_install:
-  - travis_retry sudo apt-get update 
-  - sudo bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | bash"
-env:
-  global:
-    - JAVA_OPTS="java.awt.headless=true"
+- gem install bundler -v 2.0.1
+- bundle update
+- if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then sudo bash -c "apt-get update && curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | bash" ; fi
+- if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install --HEAD https://raw.githubusercontent.com/metanorma/homebrew-metanorma/master/Formula/metanorma.rb ; fi
 script:
-  - plantuml -testdot
-  - make clean all publish deploy
+- plantuml -testdot
+- make clean all publish deploy
