@@ -1,4 +1,17 @@
 GIT
+  remote: https://github.com/metanorma/html2doc
+  revision: cebf63e4cade07653b15a3f3904393dd94235aa6
+  specs:
+    html2doc (0.8.10)
+      asciimath (~> 1.0.7)
+      htmlentities (~> 4.3.4)
+      image_size
+      mime-types
+      nokogiri
+      thread_safe
+      uuidtools
+
+GIT
   remote: https://github.com/metanorma/isodoc
   revision: 4bee9d8f50e5f951eda26141066cfb5f17655cc7
   specs:
@@ -38,6 +51,23 @@ GIT
       nokogiri (>= 1)
 
 GIT
+  remote: https://github.com/metanorma/metanorma-csand
+  revision: eb92a4d2d08cb795650a602b6d415ce68b6847a4
+  specs:
+    metanorma-csand (1.1.4)
+      asciidoctor (~> 1.5.7)
+      asciimath
+      htmlentities (~> 4.3.4)
+      image_size
+      isodoc (~> 0.9.0)
+      metanorma-standoc (~> 1.1.0)
+      mime-types
+      nokogiri
+      ruby-jing
+      thread_safe
+      uuidtools
+
+GIT
   remote: https://github.com/metanorma/metanorma-iso
   revision: 53f148ec8e3cc181f1769c0346ae13c1bbacdad2
   specs:
@@ -47,6 +77,23 @@ GIT
       isodoc (~> 0.9.8)
       metanorma-standoc (~> 1.1.0)
       ruby-jing
+
+GIT
+  remote: https://github.com/metanorma/metanorma-m3d
+  revision: 60948da62a3108beb2353854dc3c440548b3bb60
+  specs:
+    metanorma-m3d (1.1.4)
+      asciidoctor (~> 1.5.7)
+      asciimath
+      htmlentities (~> 4.3.4)
+      image_size
+      isodoc (~> 0.9.0)
+      metanorma-standoc (~> 1.1.0)
+      mime-types
+      nokogiri
+      ruby-jing
+      thread_safe
+      uuidtools
 
 GIT
   remote: https://github.com/metanorma/metanorma-ogc
@@ -80,15 +127,6 @@ GEM
       cnccs (~> 0.1.1)
       gb-agencies (~> 0.0.1)
       iso-bib-item (~> 0.4.2)
-    html2doc (0.8.9)
-      asciimath (~> 1.0.7)
-      htmlentities (~> 4.3.4)
-      image_size
-      mime-types
-      nokogiri
-      ruby-xslt
-      thread_safe
-      uuidtools
     htmlentities (4.3.4)
     httpclient (2.8.3)
     iecbib (0.2.2)
@@ -120,19 +158,6 @@ GEM
       isodoc (~> 0.9.0)
       metanorma-standoc (~> 1.1.0)
       ruby-jing
-    metanorma-csand (1.1.4)
-      asciidoctor (~> 1.5.7)
-      asciimath
-      htmlentities (~> 4.3.4)
-      image_size
-      isodoc (~> 0.9.0)
-      metanorma-standoc (~> 1.1.0)
-      mime-types
-      nokogiri
-      ruby-jing
-      ruby-xslt
-      thread_safe
-      uuidtools
     metanorma-csd (1.1.4)
       isodoc (~> 0.9.6)
       metanorma-standoc (~> 1.1.0)
@@ -145,19 +170,6 @@ GEM
     metanorma-ietf (1.0.1)
       isodoc (~> 0.9.6)
       metanorma-standoc (~> 1.1.0)
-    metanorma-m3d (1.1.4)
-      asciidoctor (~> 1.5.7)
-      asciimath
-      htmlentities (~> 4.3.4)
-      image_size
-      isodoc (~> 0.9.0)
-      metanorma-standoc (~> 1.1.0)
-      mime-types
-      nokogiri
-      ruby-jing
-      ruby-xslt
-      thread_safe
-      uuidtools
     metanorma-mpfd (0.1.10)
       asciidoctor (~> 1.5.7)
       htmlentities (~> 4.3.4)
@@ -219,7 +231,6 @@ GEM
     roman-numerals (0.3.0)
     ruby-jing (0.0.1)
       optout (>= 0.0.2)
-    ruby-xslt (0.9.10)
     ruby_deep_clone (0.8.0)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
@@ -245,9 +256,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  html2doc!
   isodoc!
   metanorma-cli!
+  metanorma-csand!
   metanorma-iso!
+  metanorma-m3d!
   metanorma-ogc!
 
 BUNDLED WITH
