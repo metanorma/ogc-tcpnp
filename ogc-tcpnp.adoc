@@ -23,6 +23,8 @@
 :local-cache-only:
 :data-uri-image:
 :toc:
+:mn-document-class: ogc
+:mn-output-extensions: xml,html,doc,pdf
 
 //:sectnums!:
 //:sectnums:
