@@ -7,12 +7,16 @@ rvm:
   - 2.5
 cache: bundler
 addons:
+  apt:
+    update: true
   snaps:
     - jq
     - yq
 before_install:
   - gem update --system
   - gem install bundler
+  - nvm install 8
+  - npm install -g puppeteer
   - sudo bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | bash"
 script:
   - make clean all publish
