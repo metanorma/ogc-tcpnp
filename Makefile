@@ -135,6 +135,10 @@ publish:
 
 published:
 	mkdir -p $@ && \
-	cp -a $(OUT_FILES) $@/ || true && \
-	cp $(firstword $(HTML)) $@/index.html; \
-	if [ -d "images" ]; then cp -a images $@/; fi
+	export GLOBIGNORE=$(SRC); \
+	cp -a $(addsuffix .*,$(basename $(SRC))) $@/; \
+	unset GLOBIGNORE; \
+	cp $(firstword $(HTML)) $@/index.html
+
+.PHONY: publish
+
