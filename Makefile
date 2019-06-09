@@ -81,7 +81,7 @@ $(foreach FORMAT,$(FORMATS),$(eval $(FORMAT_TASKS)))
 open: open-html
 
 clean:
-	rm -f $(OUT_FILES)
+	rm -f $(OUT_FILES) && rm -rf published
 
 bundle:
 	if [ "x" == "${METANORMA_DOCKER}x" ]; then bundle; fi
@@ -102,13 +102,13 @@ $(NODE_PACKAGE_PATHS): package.json
 	npm i
 
 watch: $(NODE_BIN_DIR)/onchange
-	make all
-	$< $(ALL_SRC) -- make all
+	$(MAKE) all
+	$< $(ALL_SRC) -- $(MAKE) all
 
 define WATCH_TASKS
 watch-$(FORMAT): $(NODE_BIN_DIR)/onchange
-	make $(FORMAT)
-	$$< $$(SRC_$(FORMAT)) -- make $(FORMAT)
+	$(MAKE) $(FORMAT)
+	$$< $$(SRC_$(FORMAT)) -- $(MAKE) $(FORMAT)
 
 .PHONY: watch-$(FORMAT)
 endef
@@ -131,7 +131,10 @@ watch-serve: $(NODE_BIN_DIR)/run-p
 #
 
 publish:
-	mkdir -p published  && \
-	cp -a $(wildcard $(addsuffix .*,$(basename $(SRC)))) published/ && \
-	cp $(firstword $(HTML)) published/index.html; \
-	if [ -d "images" ]; then cp -a images published; fi
+	$(MAKE) published
+
+published:
+	mkdir -p $@ && \
+	cp -a $(OUT_FILES) $@/ || true && \
+	cp $(firstword $(HTML)) $@/index.html; \
+	if [ -d "images" ]; then cp -a images $@/; fi
