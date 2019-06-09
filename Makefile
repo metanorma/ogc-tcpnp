@@ -3,10 +3,14 @@ SHELL := /bin/bash
 # Ensure the xml2rfc cache directory exists locally
 IGNORE := $(shell mkdir -p $(HOME)/.cache/xml2rfc)
 
-FORMAT_MARKER := mn-output-
-FORMATS := $(shell grep "$(FORMAT_MARKER)" *.adoc | cut -f 2 -d ' ' | tr ',' '\n' | sort | uniq | tr '\n' ' ')
+SRC := $(shell yq r metanorma.yml metanorma.source.files | cut -c 3-999)
+ifeq ($(SRC),ll)
+SRC := $(filter-out README.adoc, $(wildcard *.adoc))
+endif
 
-SRC  := $(filter-out README.adoc, $(wildcard *.adoc))
+FORMAT_MARKER := mn-output-
+FORMATS := $(shell grep "$(FORMAT_MARKER)" $(SRC) | cut -f 2 -d ' ' | tr ',' '\n' | sort | uniq | tr '\n' ' ')
+
 XML  := $(patsubst %.adoc,%.xml,$(SRC))
 XMLRFC3  := $(patsubst %.adoc,%.v3.xml,$(SRC))
 HTML := $(patsubst %.adoc,%.html,$(SRC))
