@@ -8,10 +8,10 @@ image:https://travis-ci.com/metanorma/ogc-tcpnp.svg?branch=master["Build Status"
 
 This document is available in its rendered forms here:
 
-* https://riboseinc.github.io/ogc-tcpnp/[OGC Policy: Technical Committee Policies and Procedures (HTML)]
-* https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.pdf[PDF]
-* https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.xml[Metanorma XML]
-* https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.rxl[Relaton XML (Bibliographic item)]
+* https://metanorma.github.io/ogc-tcpnp/[OGC Policy: Technical Committee Policies and Procedures (HTML)]
+* https://metanorma.github.io/ogc-tcpnp/ogc-tcpnp.pdf[PDF]
+* https://metanorma.github.io/ogc-tcpnp/ogc-tcpnp.xml[Metanorma XML]
+* https://metanorma.github.io/ogc-tcpnp/ogc-tcpnp.rxl[Relaton XML (Bibliographic item)]
 
 Because of all this, there is no need to build the document on your own, but if you wish to do so, this is how it can be done:
 
