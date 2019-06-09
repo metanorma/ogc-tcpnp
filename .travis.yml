@@ -1,18 +1,24 @@
-sudo: required
 language: ruby
-cache: bundler
-os:
-- linux
-- osx
+dist: xenial
+env:
+  global:
+    - COMMIT_AUTHOR_EMAIL="$(yq r metanorma.yml metanorma.deploy.email)";
 rvm:
-- 2.5
+  - 2.5
+cache: bundler
+addons:
+  snaps:
+    - jq
+    - yq
 before_install:
-- gem install bundler -v 2.0.1
-- bundle update
-- nvm install 8
-- npm install -g puppeteer
-- if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then sudo bash -c "apt-get update && curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | bash" ; fi
-- if [[ "$TRAVIS_OS_NAME" == "osx" ]]; then brew install --HEAD https://raw.githubusercontent.com/metanorma/homebrew-metanorma/master/Formula/metanorma.rb ; fi
+  - gem update --system
+  - gem install bundler
+  - sudo bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | bash"
 script:
-- plantuml -testdot
-- make clean all publish deploy
+  - make clean all publish
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/deploy-to-gh-pages.sh | bash"
+  on:
+    branch: master

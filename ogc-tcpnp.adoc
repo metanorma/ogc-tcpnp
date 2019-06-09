@@ -20,11 +20,13 @@
 :surname: Simmons
 :givenname: Scott
 :role: Editor
-:local-cache-only:
-:data-uri-image:
 :toc:
+:imagesdir: images
+:docfile: ogc-tcpnp.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,pdf
+:local-cache-only:
+:data-uri-image:
 
 //:sectnums!:
 //:sectnums:
