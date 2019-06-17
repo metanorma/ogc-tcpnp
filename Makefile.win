@@ -1,7 +1,12 @@
 #!make
 
+# Ensure the xml2rfc cache directory exists locally
+IGNORE := $(shell md $(USERPROFILE)\.cache\xml2rfc)
+
+SRC := ogc-tcpnp.adoc
+
 FORMAT_MARKER := mn-output-
-FORMATS := $(shell grep "$(FORMAT_MARKER)" *.adoc | cut -f 2 -d ' ' | tr ',' '\n' | sort | uniq | tr '\n' ' ')
+FORMATS := $(shell grep "$(FORMAT_MARKER)" *.adoc | cut -f 2 -d " " | tr ',' '\n' | sort | uniq | tr '\n' ' ')
 
 SRC  := $(filter-out README.adoc, $(wildcard *.adoc))
 XML  := $(patsubst %.adoc,%.xml,$(SRC))
