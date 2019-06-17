@@ -2,3 +2,6 @@
 metanorma:
   deploy:
     email: "travis-ci@metanorma.org"
+  source:
+    files:
+      - ogc-tcpnp.adoc
