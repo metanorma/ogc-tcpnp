@@ -1,3 +1,5 @@
+# Auto-generated !!! Do not edit it manually
+# use ci-master https://github.com/metanorma/metanorma-build-scripts
 version: '{build}'
 
 cache:
@@ -16,18 +18,25 @@ matrix:
 install:
   - ps: . { iwr -useb https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/appveyor.ps1 } | iex
   - refreshenv
-
-build_script:
   - set PATH=C:\Ruby%RUBY_VERSION%\bin;%PATH%
   - bundle config --local path vendor/bundle
   - bundle update
   - bundle install
 
-before_test:
-  - ruby -v
-  - gem -v
-  - bundle -v
-
-test_script:
-  - plantuml -testdot
+build_script:
   - make -f Makefile.win clean all publish SHELL=cmd
+  - exit /B %ERRORLEVEL%
+  - echo "Test DONE"
+
+after_build:
+  - 7z a %APPVEYOR_BUILD_FOLDER%\result.zip %APPVEYOR_BUILD_FOLDER%\*.pdf
+  - 7z a %APPVEYOR_BUILD_FOLDER%\result.zip %APPVEYOR_BUILD_FOLDER%\*.html
+  - 7z a %APPVEYOR_BUILD_FOLDER%\result.zip %APPVEYOR_BUILD_FOLDER%\*.xml
+  - 7z a %APPVEYOR_BUILD_FOLDER%\result.zip %APPVEYOR_BUILD_FOLDER%\*.doc
+  - 7z a %APPVEYOR_BUILD_FOLDER%\result.zip %APPVEYOR_BUILD_FOLDER%\*.adoc
+  - 7z a %APPVEYOR_BUILD_FOLDER%\result.zip %APPVEYOR_BUILD_FOLDER%\images*
+  - 7z a %APPVEYOR_BUILD_FOLDER%\result.zip %APPVEYOR_BUILD_FOLDER%\reference-docs*
+
+artifacts:
+  - path: result.zip
+    name: result.zip

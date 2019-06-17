@@ -5,6 +5,8 @@
 This work item belongs to OGC TC.
 
 image:https://travis-ci.com/metanorma/ogc-tcpnp.svg?branch=master["Build Status", link="https://travis-ci.com/metanorma/ogc-tcpnp"]
+image:https://ci.appveyor.com/api/projects/status/v7vypqprh06f54xn/branch/master?svg=true
+["Build Status", link="https://ci.appveyor.com/project/ribose/ogc-tcpnp"]
 
 This document is available in its rendered forms here:
 
