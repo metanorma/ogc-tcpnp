@@ -1,10 +1,13 @@
-<bibitem type="international-standard" id="ISO19106">
-  <fetched>2018-11-22</fetched>
-  <title format="text/plain" language="en" script="Latn">Geographic information -- Profiles</title>
+<bibdata type="standard">
+  <fetched>2019-08-23</fetched>
+  <title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>
+  <title type="title-main" format="text/plain" language="en" script="Latn">Profiles</title>
+  <title type="main" format="text/plain" language="en" script="Latn">Geographic information - Profiles</title>
   <uri type="src">https://www.iso.org/standard/26011.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:26011:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/60/26011.detail.rss</uri>
   <docidentifier type="ISO">ISO 19106</docidentifier>
+  <docnumber>19106</docnumber>
   <contributor>
     <role type="publisher"/>
     <organization>
@@ -30,13 +33,16 @@
     </owner>
   </copyright>
   <relation type="instance">
-    <bibitem type="international-standard">
-      <fetched>2018-11-22</fetched>
-      <title format="text/plain" language="en" script="Latn">Geographic information -- Profiles</title>
+    <bibitem type="standard">
+      <fetched>2019-08-23</fetched>
+      <title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>
+      <title type="title-main" format="text/plain" language="en" script="Latn">Profiles</title>
+      <title type="main" format="text/plain" language="en" script="Latn">Geographic information - Profiles</title>
       <uri type="src">https://www.iso.org/standard/26011.html</uri>
       <uri type="obp">https://www.iso.org/obp/ui/#!iso:std:26011:en</uri>
       <uri type="rss">https://www.iso.org/contents/data/standard/02/60/26011.detail.rss</uri>
       <docidentifier type="ISO">ISO 19106:2004</docidentifier>
+      <docnumber>19106</docnumber>
       <date type="published">
         <on>2004</on>
       </date>
@@ -52,7 +58,7 @@
       <language>en</language>
       <language>fr</language>
       <script>Latn</script>
-      <abstract format="plain" language="en" script="Latn">ISO 19106:2004 is intended to define the concept of a profile of the ISO geographic information standards developed by ISO/TC 211 and to provide guidance for the creation of such profiles. Only those components of specifications that meet the definition of a profile contained herein can be established and managed through the mechanisms described in this International Standard. These profiles can be standardized internationally using the ISO standardization process. This document also provides guidance for establishing, managing, and standardizing at the national level (or in some other forum).</abstract>
+      <abstract format="text/plain" language="en" script="Latn">ISO 19106:2004 is intended to define the concept of a profile of the ISO geographic information standards developed by ISO/TC 211 and to provide guidance for the creation of such profiles. Only those components of specifications that meet the definition of a profile contained herein can be established and managed through the mechanisms described in this International Standard. These profiles can be standardized internationally using the ISO standardization process. This document also provides guidance for establishing, managing, and standardizing at the national level (or in some other forum).</abstract>
       <status>
         <stage>90</stage>
         <substage>93</substage>
@@ -65,20 +71,19 @@
           </organization>
         </owner>
       </copyright>
-      <editorialgroup>
-        <technical_committee number="211" type="TC">ISO/TC 211Geographic information/Geomatics</technical_committee>
-      </editorialgroup>
-      <ics>
-        <code>35.240.70</code>
-        <text>IT applications in science</text>
-      </ics>
     </bibitem>
   </relation>
-  <editorialgroup>
-    <technical_committee number="211" type="TC">ISO/TC 211Geographic information/Geomatics</technical_committee>
-  </editorialgroup>
-  <ics>
-    <code>35.240.70</code>
-    <text>IT applications in science</text>
-  </ics>
-</bibitem>
+  <ext>
+    <doctype>international-standard</doctype>
+    <editorialgroup>
+      <technical_committee number="211" type="TC">ISO/TC 211Geographic information/Geomatics</technical_committee>
+    </editorialgroup>
+    <ics>
+      <code>35.240.70</code>
+      <text>IT applications in science</text>
+    </ics>
+    <structuredidentifier type="ISO">
+      <project-number>ISO 19106</project-number>
+    </structuredidentifier>
+  </ext>
+</bibdata>

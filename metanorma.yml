@@ -2,6 +2,7 @@
 metanorma:
   deploy:
     email: "travis-ci@metanorma.org"
-  source:
-    files:
-      - ogc-tcpnp.adoc
+relaton:
+  collection:
+    name: Technical Committee Policies and Procedures
+    organization: OGC Policy
