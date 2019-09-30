@@ -1,12 +1,9 @@
-:repo-name: ogc-tcpnp
-
-= OGC Policy: Technical Committee Policies and Procedures
+= OGC Policy sample in Metanorma: Technical Committee Policies and Procedures
 
 This work item belongs to OGC TC.
 
-image:https://travis-ci.com/metanorma/ogc-tcpnp.svg?branch=master["Build Status", link="https://travis-ci.com/metanorma/ogc-tcpnp"]
-image:https://ci.appveyor.com/api/projects/status/v7vypqprh06f54xn/branch/master?svg=true
-["Build Status", link="https://ci.appveyor.com/project/ribose/ogc-tcpnp"]
+image:https://github.com/metanorma/ogc-tcpnp/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/ogc-tcpnp/actions?workflow=ubuntu"]
+image:https://github.com/metanorma/ogc-tcpnp/workflows/windows/badge.svg["Build Status (Windows)", link="https://github.com/metanorma/ogc-tcpnp/actions?workflow=windows"]
 
 This document is available in its rendered forms here:
 
