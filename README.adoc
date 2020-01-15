@@ -3,6 +3,7 @@
 This work item belongs to OGC TC.
 
 image:https://github.com/metanorma/ogc-tcpnp/workflows/ubuntu/badge.svg["Build Status (Ubuntu)", link="https://github.com/metanorma/ogc-tcpnp/actions?workflow=ubuntu"]
+image:https://github.com/metanorma/ogc-tcpnp/workflows/windows/badge.svg["Build Status (Windows)", link="https://github.com/metanorma/ogc-tcpnp/actions?workflow=windows"]
 
 This document is available in its rendered forms here:
 

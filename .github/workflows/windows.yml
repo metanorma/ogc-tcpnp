@@ -1,6 +1,6 @@
 # Auto-generated !!! Do not edit it manually
 # use ci-master https://github.com/metanorma/metanorma-build-scripts
-name: ubuntu
+name: windows
 
 on:
   push:
@@ -9,9 +9,9 @@ on:
     branches: [ '**' ]
 
 jobs:
-  test-linux:
-    name: Test on Ruby ${{ matrix.ruby }} Ubuntu
-    runs-on: ubuntu-latest
+  test-windows:
+    name: Test on Ruby ${{ matrix.ruby }} Windows
+    runs-on: windows-latest
     strategy:
       matrix:
         ruby: [ '2.6', '2.5', '2.4' ]
@@ -23,22 +23,20 @@ jobs:
           ruby-version: ${{ matrix.ruby }}
           architecture: 'x64'
       - name: Update gems
+        shell: pwsh
         run: |
           gem install bundler
+          bundle config --local path vendor/bundle
+          bundle update
           bundle install --jobs 4 --retry 3
       - name: Use Metanorma
+        shell: pwsh
         run: |
-          curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | sudo bash
-          sudo apt-get install -y libxml2-dev libxslt1-dev libicu-dev zlib1g-dev
-          sudo chown -R $USER:$(id -gn $USER) $HOME/.config
+          cinst -y metanorma
       - name: Install yq
+        shell: pwsh
         run: |
-          sudo snap install yq
+          Invoke-WebRequest -Uri "https://github.com/mikefarah/yq/releases/download/2.4.0/yq_windows_amd64.exe " -OutFile ".\yq.exe"
       - name: Metanorma compile
-        env:
-          JAVA_OPTS: "java.awt.headless=true"
         run: |
-          export COMMIT_AUTHOR_EMAIL="$(yq r metanorma.yml metanorma.deploy.email)"
-          source $HOME/.nvm/nvm.sh
-          nvm use mn-node
-          make clean all publish
+          make -f Makefile.win clean all SHELL=cmd
