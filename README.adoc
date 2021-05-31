@@ -2,9 +2,7 @@
 
 This work item belongs to OGC TC.
 
-image:https://github.com/metanorma/ogc-tcpnp/workflows/ubuntu/badge.svg["Ubuntu Build Status", link="https://github.com/metanorma/ogc-tcpnp/actions?query=workflow%3Aubuntu"]
-image:https://github.com/metanorma/ogc-tcpnp/workflows/macos/badge.svg["OSX Build Status", link="https://github.com/metanorma/ogc-tcpnp/actions?query=workflow%3Amacos"]
-image:https://github.com/metanorma/ogc-tcpnp/workflows/windows/badge.svg["Windows Build Status", link="https://github.com/metanorma/ogc-tcpnp/actions?query=workflow%3Awindows"]
+image:https://github.com/metanorma/ogc-tcpnp/workflows/generate/badge.svg["Build Status", link="https://github.com/metanorma/ogc-tcpnp/actions?query=workflow%3Agenerate"]
 image:https://github.com/metanorma/ogc-tcpnp/workflows/docker/badge.svg["Docker Build Status", link="https://github.com/metanorma/ogc-tcpnp/actions?query=workflow%3Adocker"]
 
 This document is available in its rendered forms here:
