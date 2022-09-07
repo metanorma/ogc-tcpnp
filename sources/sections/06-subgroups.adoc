@@ -12,7 +12,7 @@ A subgroup is composed solely of representatives of current OGC members and (pot
 The following rules apply to membership in subgroups of the TC.
 
 * Any OGC member organization may send representatives to attend any meeting of the TC or any subgroup of the TC. The exception is for SWGs. In order to attend a meeting of a SWG, the representative must have opted into the SWG in order to participate (<<participating-in-a-swg-opting-in>>).
-* Invited guests may actively participate at the sole discretion of the subgroup’s chair. That is, in the interests of ensuring the efficient operation of any meeting, the chair may limit or eliminate the opportunity of any invited guest to participate in discussion at any meeting. Invited guests cannot vote.
+* Invited guests may actively participate at the sole discretion of the subgroup's chair. That is, in the interests of ensuring the efficient operation of any meeting, the chair may limit or eliminate the opportunity of any invited guest to participate in discussion at any meeting. Invited guests cannot vote.
 
 [[role-of-subgroup-chairs]]
 === Role of Subgroup Chairs
@@ -26,7 +26,7 @@ The chair of a subgroup is responsible for organizing the activities of that sub
 a.  A list of persons attending the meeting;
 b.  A list of motions, seconds, and outcomes; and
 c.  A section that details specific actions taken by members of the subgroup;
-* Sending electronic reminders to action holder’s one week before the action is due for completion;
+* Sending electronic reminders to action holder's one week before the action is due for completion;
 * Ensuring the smooth and orderly running of the meeting;
 * Reporting on subgroup activities to the parent body, and PC if requested, including presenting subgroup recommendations (if any);
 * Keeping the Chair of the parent body apprised of the progress of the subgroup; and
@@ -168,7 +168,7 @@ The charter members for a SWG will be:
 Charter members have agreed to the IPR terms of the SWG. Charter members are immediately vested in the work of the SWG and can vote on any items or issues during the first meeting of the SWG.
 
 [[participating-in-a-swg-opting-in]]
-==== Participating in a SWG – Opting In
+==== Participating in a SWG - Opting In
 
 Any OGC member representative can join a SWG at any time and participate in the work of the SWG. If a Member wishes to participate, then the member representative(s) need(s) to "`opt-in`" to the new SWG in order to participate. Opting into a SWG is done via a registration page for that SWG. The registration page will be available on the OGC Portal. The registration page will clearly state the IPR terms for the SWG as well as the Scope of Work.
 
@@ -220,7 +220,7 @@ In the event that the Chair is not able to fulfill these duties, the Co-chair wi
 SWGs operate under the same general voting rules as other sub-groups of the TC, namely Votes in an SWG follow the same guidelines as for the Technical Committee except that quorum is 1/2 of active voting members (see <<caveat-on-voting-rights-if-you-do-not-participate-on-a-regular-basis>>) unless the SWG votes to have a larger fraction be quorum. See <<subgroups-of-the-tc-electronic-voting>> for electronic votes for sub-groups of the TC. The one notable exception related to SWG votes is that only member representatives who have opted into the SWG may vote.
 
 [[caveat-on-voting-rights-if-you-do-not-participate-on-a-regular-basis]]
-==== Caveat on Voting Rights – If you do not participate on a regular basis
+==== Caveat on Voting Rights - If you do not participate on a regular basis
 
 If you join a SWG and have voting privileges, you have a responsibility to participate in the teleconference and email dialogues. If you do not participate in the teleconferences and email discussions and vote on items and issues, you will lose your voting privileges and have your SWG member status changed from "`Voting`" to "`Group Member`". The SWG Chair has the authority and the ability to make these changes based on the following policy.
 

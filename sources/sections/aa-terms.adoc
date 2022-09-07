@@ -1,7 +1,7 @@
 
 [[annex-a-terms-and-definitions]]
 [appendix,obligation=normative]
-== Terms and Definitions
+== Terms and definitions
 
 === Application Profile
 alt:[AP]
@@ -101,7 +101,7 @@ Any member in good standing.
 
 === OGC Member Portal
 
-A members’ only accessible component of the OGC web site. The Portal provides a location for storing and accessing all in progress OGC TC and PC documents, all WG agendas, working documents, and presentations, and to perform project management functions, such as tasks, tracking actions, and calendars.
+A members' only accessible component of the OGC web site. The Portal provides a location for storing and accessing all in progress OGC TC and PC documents, all WG agendas, working documents, and presentations, and to perform project management functions, such as tasks, tracking actions, and calendars.
 
 === OGC Standards Program
 
@@ -176,12 +176,15 @@ An OGC member approved publication released by the OGC to the Public that states
 
 Domestic or international organizations which plan, develop, establish, or coordinate voluntary consensus standards using agreed-upon procedures.
 
-NOTE: A voluntary consensus standards body is defined by the following attributes:
-+
+[NOTE]
+--
+A voluntary consensus standards body is defined by the following attributes:
+
 * Openness.
 * Balance of interest.
 * Due process.
 * An appeals process.
+--
 
 ////
 Consensus, which is defined as general agreement, but not necessarily unanimity, and includes a process for attempting to resolve objections by interested parties, as long as all comments have been fairly considered, each objector is advised of the disposition of his or her objection(s) and the reasons why, and the consensus body members are given an opportunity to change their votes after reviewing the comments.

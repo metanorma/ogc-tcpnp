@@ -16,7 +16,7 @@
 
 * [[[OGCPOC,OGC Principles of Conduct]]], _OGC Principles of Conduct_ http://www.opengeospatial.org/ogc/policies/conduct/
 
-* [[[ISODIR2,ISO/IEC Directives, Part 2]]], _ISO/IEC Directives, Part 2, Principles and rules for the structure and drafting of ISO and IEC documents_
+* [[[ISODIR2,ISO/IEC DIR 2]]], _ISO/IEC Directives, Part 2, Principles and rules for the structure and drafting of ISO and IEC documents_
 
 * [[[OGCAS,OGC Abstract Specification]]], _OGC Abstract Specification_ http://www.opengeospatial.org/docs/as/
 
@@ -42,11 +42,11 @@
 
 * [[[OGCMSP,OGC Modular Specification Policy]]], _The Specification Model - A Standard for Modular specifications (08-131r3)_, https://portal.opengeospatial.org/files/?artifact_id=34762
 
-* [[[OGC06135,OGC 06-135]]], _OGC 06-135r11: Policy Directives for Writing and Publishing OGC Standards: TC Decisions_, http://portal.opengeospatial.org/files/?artifact_id=40077
+* [[[OGC06135,OGC 06-135r1]]], _OGC 06-135r1: Policy Directives for Writing and Publishing OGC Standards: TC Decisions_, http://portal.opengeospatial.org/files/?artifact_id=40077
 
 * [[[PURL,PURL]]], _Persistent Uniform Resource Locators (PURL)_, http://purl.oclc.org/docs/index.html
 
-* [[[RONR,RONR]]], _Robert’s Rules of Order_, Eleventh Edition, 2011, http://www.robertsrules.com/
+* [[[RONR,RONR]]], _Robert's Rules of Order_, Eleventh Edition, 2011, http://www.robertsrules.com/
 
 * [[[OGCLegal,OGC Legal Documents]]], _OGC Legal Documents_, http://www.opengeospatial.org/legal
 
@@ -60,11 +60,11 @@ https://portal.opengeospatial.org/files/?artifact_id=3244/
 https://portal.opengeospatial.org/files/?artifact_id=56777/
 
 
-* [[[OGC09046,OGC 09-046]]], _OGC Naming Authority (OGC-NA) Policies & Procedures_, http://portal.opengeospatial.org/files/?artifact_id=37800
+* [[[OGC09046,OGC 09-046r5]]], _OGC Naming Authority (OGC-NA) Policies & Procedures_, http://portal.opengeospatial.org/files/?artifact_id=37800
 
 * [[[OGC09047,OGC 09-047]]], _OGC-NA Name type specification - documents_, http://portal.opengeospatial.org/files/?artifact_id=41774
 
-* [[[OGC09048,OGC 09-048]]], _OGC-NA definitions: Part 1 - basic name_, http://portal.opengeospatial.org/files/?artifact_id=37802
+* [[[OGC09048,OGC 09-048r5]]], _OGC-NA definitions: Part 1 - basic name_, http://portal.opengeospatial.org/files/?artifact_id=37802
 
 * [[[OGCDIRECTIVES,OGC Directives]]], _OGC Directives_,
 http://www.opengeospatial.org/ogc/policies/directives
@@ -79,4 +79,4 @@ http://www.opengeospatial.org/ogc/policies/directives
 
 * [[[OGCPortalHome,OGC Portal Home]]], _OGC Portal: Home_, https://portal.opengeospatial.org/?m=public&orderby=default&tab=1
 
-* [[[OGC08125,OGC 08-125]]], _OGC 08-125: KML – Standard Development Best Practices_
+* [[[OGC08125,OGC 08-125r1]]], _OGC 08-125: KML - Standard Development Best Practices_

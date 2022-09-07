@@ -36,7 +36,7 @@ Any version of the ORM, once approved by the TC and the PC, is released as a pub
 [[discussion-papers]]
 === Discussion Papers
 
-WGs and SCs shall often be used to hear presentations in their interest area. Further, a WG or SC can generate Discussion Papers for the industry covering a specific technology area germane to the WG’s or SC’s interest area. In either case, the WG or SC makes a recommendation to the TC for release of the document as a Discussion Paper.
+WGs and SCs shall often be used to hear presentations in their interest area. Further, a WG or SC can generate Discussion Papers for the industry covering a specific technology area germane to the WG's or SC's interest area. In either case, the WG or SC makes a recommendation to the TC for release of the document as a Discussion Paper.
 
 Motions to approve release of a document as a Discussion Paper may originate from a WG or SC with TC approval, from a motion at a TC Plenary, or from a motion by the TCC.
 

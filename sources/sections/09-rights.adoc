@@ -26,4 +26,4 @@ All proposals intended to affect the contents of OGC standards, once submitted t
 It is the policy of the TC that the all pending proposals and documents shall be restricted to member internal distribution. The exceptions are:
 
 * Change Requests Proposals. All CRPs shall be made public; and
-* When an external standards organization requires access to a members’ only document. The TCC, after due consideration and dialogue with the members, may determine that a given document can be shared with the external standards organization.
+* When an external standards organization requires access to a members' only document. The TCC, after due consideration and dialogue with the members, may determine that a given document can be shared with the external standards organization.

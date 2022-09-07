@@ -51,7 +51,7 @@ The reason that there are two different type of Working Groups is due to the OGC
 [[domain-working-group]]
 ==== Domain Working Group
 
-A group (organizationally, a subgroup of the TC – <<policies-specific-to-a-domain-working-group>>) of individuals composed of members of the TC and invited guests, with the specific intent of discussing and/or solving some particular problem or problems in a particular domain or technology arena for recommendation to the TC. Key functions of the Domain Working Group (DWG) are to:
+A group (organizationally, a subgroup of the TC - <<policies-specific-to-a-domain-working-group>>) of individuals composed of members of the TC and invited guests, with the specific intent of discussing and/or solving some particular problem or problems in a particular domain or technology arena for recommendation to the TC. Key functions of the Domain Working Group (DWG) are to:
 
 * Have a formal approved charter that defines the DWGs Scope of Work and estimated timeline for completion of the work (if applicable);
 * Provide a forum for discussion and documentation of interoperability requirements for a given information or user community;

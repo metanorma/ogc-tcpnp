@@ -4,7 +4,7 @@
 == RFC Process Outline: Full OGC Standard
 
 [cols=",",options="header",]
-|======================================================================================
+|===
 |Full standard: Process Checklist |Responsible
 |Contact Technical Committee chair about intent to submit or start |Convener and TCC
 |Identify submission team (3 or more Members, one is TC Voting Member) |Convener
@@ -60,6 +60,6 @@
 |Update PURL server for new spec artefacts |OGC-NA and Staff
 |Press release released |OGC staff
 |Done. Congratulations!! |
-|======================================================================================
+|===
 
 

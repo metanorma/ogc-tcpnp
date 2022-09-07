@@ -4,7 +4,7 @@
 == Community Standard
 
 [[c.1-qualification-checklist-community-standards]]
-=== Qualification Checklist – Community Standards
+=== Qualification Checklist - Community Standards
 
 The following is a list of questions that the submission team needs to answer in the affirmative prior to submitting community specification into the OGC.
 
@@ -18,7 +18,7 @@ The following is a list of questions that the submission team needs to answer in
 === Community Standard Process Checklist
 
 [cols=",",options="header",]
-|========================================================================================================================
+|===
 |Community Specification: Process Checklist |Responsible
 |Contact Technical Committee chair about intent to submit or start a community spec process |Convener and TCC
 |Identify submission team (3 or more Members, one is TC Voting Member) |Convener
@@ -58,7 +58,7 @@ The following is a list of questions that the submission team needs to answer in
 |Update PURL server for new spec artefacts |OGC-NA and Staff
 |Press release released |OGC staff
 |Done. Congratulations!! |
-|========================================================================================================================
+|===
 
 NOTE: For external standards brought into the OGC, such as KML, the external community is still able to develop, test, and document new functionality and changes to the standard. This is per <<OGC08125>>. Once the external community is ready, these changes shall be documented and submitted into the OGC using the OGC Change Request Process.
 

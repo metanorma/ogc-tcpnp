@@ -2,7 +2,7 @@
 :title: Technical Committee Policies and Procedures
 :edition: 26.0
 :docnumber: 05-020r26
-:submissionDate: 2018-02-14
+:received-date: 2018-02-14
 :issued-date: 2018-06-05
 :published-date: 2018-07-24
 :external-id: http://www.opengis.net/doc/pol/tcpnp/26.0
@@ -20,35 +20,42 @@
 :surname: Simmons
 :givenname: Scott
 :role: Editor
-:toc:
 :imagesdir: images
-:docfile: ogc-tcpnp.adoc
 :mn-document-class: ogc
 :mn-output-extensions: xml,html,doc,rxl
 :local-cache-only:
 :data-uri-image:
 
-//:sectnums!:
-//:sectnums:
-
 include::sections/00-abstract.adoc[]
+
 include::sections/01-consortium.adoc[]
+
 include::sections/02-purpose.adoc[]
+
 include::sections/03-structure.adoc[]
+
 include::sections/04-meetings.adoc[]
+
 include::sections/05-voting.adoc[]
+
 include::sections/06-subgroups.adoc[]
+
 include::sections/07-document-types.adoc[]
+
 include::sections/08-adoption.adoc[]
+
 include::sections/09-rights.adoc[]
+
 include::sections/10-roles.adoc[]
+
 include::sections/11-temp.adoc[]
+
 include::sections/12-adoption.adoc[]
+
 include::sections/99-bibliography.adoc[]
+
 include::sections/aa-terms.adoc[]
+
 include::sections/ab-rfc.adoc[]
+
 include::sections/ac-community.adoc[]
-
-
-
-
