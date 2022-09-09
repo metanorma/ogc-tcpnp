@@ -1,0 +1,54 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>OGC Policy: Technical Committee Policies and Procedures</title><contributor><role type='author'/><organization><name>Technical Committee Policies and Procedures</name></organization></contributor><relation type='partOf'><bibdata type="standard">
+  <title format="text/plain" language="en">Technical Committee Policies and Procedures</title>
+  <uri>http://docs.opengeospatial.org/pol/05-020r26/05-020r26.html</uri>
+  <uri type="xml">documents/ogc-tcpnp.xml</uri>
+  <uri type="pdf">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.pdf</uri>
+  <uri type="doc">documents/ogc-tcpnp.doc</uri>
+  <uri type="html">documents/ogc-tcpnp.html</uri>
+  <uri type="rxl">documents/ogc-tcpnp.rxl</uri>
+  <docidentifier type="ogc-external">http://www.opengis.net/doc/pol/tcpnp/26.0</docidentifier>
+  <docidentifier type="ogc-internal">05-020r26</docidentifier>
+  <docnumber>05-020r26</docnumber>
+  <date type="published">
+    <on>2018-07-24</on>
+  </date>
+  <date type="issued">
+    <on>2018-06-05</on>
+  </date>
+  <date type="received">
+    <on>2018-02-14</on>
+  </date>
+  <contributor>
+    <role type="editor"/>
+    <person>
+      <name>
+        <completename>Scott Simmons</completename>
+      </name>
+    </person>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>Open Geospatial Consortium</name>
+    </organization>
+  </contributor>
+  <edition>26.0</edition>
+  <language>en</language>
+  <script>Latn</script>
+  <abstract>&lt;p&gt;The <eref type="inline" bibitemid="OGC" citeas="OGC"/> provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. "International standards" (as defined in &lt;eref type="inline" bibitemid="ISODIR2" citeas="ISO/IEC DIR 2"&gt;&lt;/eref&gt;</abstract>
+  <status>
+    <stage>approved</stage>
+  </status>
+  <copyright>
+    <from>2018</from>
+    <owner>
+      <organization>
+        <name>Open Geospatial Consortium</name>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>policy</doctype>
+  </ext>
+</bibdata></relation>
+</relaton-collection>

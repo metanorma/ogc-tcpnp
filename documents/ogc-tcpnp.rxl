@@ -1,0 +1,34 @@
+<bibdata type="standard">
+<title language="en" format="text/plain">Technical Committee Policies and Procedures</title>
+<uri>http://docs.opengeospatial.org/pol/05-020r26/05-020r26.html</uri><uri type="xml">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.xml</uri><uri type="pdf">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.pdf</uri><uri type="doc">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.doc</uri><docidentifier type="ogc-external">http://www.opengis.net/doc/pol/tcpnp/26.0</docidentifier><docidentifier type="ogc-internal">05-020r26</docidentifier><docnumber>05-020r26</docnumber><date type="published"><on>2018-07-24</on></date><date type="issued"><on>2018-06-05</on></date><date type="received"><on>2018-02-14</on></date><contributor><role type="editor"/><person>
+<name><completename>Scott Simmons</completename></name>
+</person></contributor><contributor><role type="publisher"/><organization>
+<name>Open Geospatial Consortium</name>
+</organization></contributor><edition>26.0</edition><language>en</language><script>Latn</script><abstract><p>The <eref type="inline" bibitemid="OGC" citeas="OGC"/> provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. "International standards" (as defined in <eref type="inline" bibitemid="ISODIR2" citeas="ISO/IEC DIR 2"/>) are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:</p>
+
+<p>A document, established by consensus and approved by the OGC Membership, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context.</p>
+
+<p>To guide an open standards development and approval process, a member approved Policies and Procedures is required.</p>
+
+<p>This document describes the OGC Technical Committee (TC) policies and procedures (P&amp;P). The TC has been granted authority to operate by the OGC Bylaws. The TC is composed of individuals representing organizations that are duly recognized members in good standing of the OGC. The Technical Committee Chair (TCC - see <xref target="role-of-the-technical-committee-chair-tcc"/>) facilitates the TC process.</p>
+
+<p>The TC P&amp;P:</p>
+
+<ul><li><p>Documents all TC voting processes and procedures;</p>
+</li>
+<li><p>Documents the formation, scope and processes required for TC subgroup and committee activities;</p>
+</li>
+<li><p>Documents the processes and procedures for submitting, reviewing, and approving a new standard using the Request for Comment procedures; and</p>
+</li>
+<li><p>Documents the process for revisions to adopted OGC® standards.</p>
+</li>
+</ul>
+
+<p>As the needs and purpose of the TC change, these policies and procedures changes are approved by an electronic vote of the Voting Members of OGC TC or by recommendation of the OGC Planning Committee (PC). These policies and procedures may be augmented or clarified by Policy Directives issued and approved by the TC or the PC. Such directives are databased and hyperlinked to/from the appropriate portion of this document.</p>
+
+<p>The OGC Technical Committee provides an open, collaborative forum for professional discussion related to the consensus development and/or evaluation, approval, and revision of OGC international standards. The primary use of approved OGC standards is to provide the ability to build and deploy interoperable geospatial solutions in the larger Information Technology (IT) domain.</p>
+
+<p>The OGC Principles of Conduct (<eref type="inline" bibitemid="OGCPOC" citeas="OGC Principles of Conduct"/>) govern personal and public interactions in any TC activity.</p>
+</abstract><status><stage>approved</stage></status><copyright><from>2018</from><owner><organization>
+<name>Open Geospatial Consortium</name>
+</organization></owner></copyright><ext><doctype>policy</doctype><editorialgroup><committee>Technical Committee</committee></editorialgroup></ext></bibdata>
