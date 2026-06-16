@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="2.9.3" schema-version="v2.1.5" flavor="ogc">
+<metanorma xmlns="https://www.metanorma.org/ns/standoc" type="semantic" version="2.9.6" schema-version="v2.1.6" flavor="ogc">
 <bibdata type="standard">
 <title language="en" type="main">Technical Committee Policies and Procedures</title>
 <uri>http://docs.opengeospatial.org/pol/05-020r26/05-020r26.html</uri><uri type="xml">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.xml</uri><uri type="pdf">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.pdf</uri><uri type="doc">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.doc</uri><docidentifier type="ogc-internal" primary="true">05-020r26</docidentifier><docidentifier type="ogc-external">http://www.opengis.net/doc/pol/tcpnp/26.0</docidentifier><docnumber>05-020r26</docnumber><date type="published"><on>2018-07-24</on></date><date type="issued"><on>2018-06-05</on></date><date type="received"><on>2018-02-14</on></date><contributor><role type="editor"/><person>
@@ -2147,8 +2147,8 @@
 
 
 
- <termnote id="_d74b0ea5-735f-3e56-600f-0f2bd5f1753d"><p id="_46ef5d0f-89ee-5f84-3db3-daa2fea708d5">Also see <eref type="inline" bibitemid="ISO191011" citeas="ISO 19101-1"/>, <eref type="inline" bibitemid="ISO191012" citeas="ISO 19101-2"/>.</p>
-</termnote><source status="identical" type="authoritative"><origin bibitemid="ISO19106" type="inline" citeas="ISO 19106"/></source></term>
+ <termnote id="_d74b0ea5-735f-3e56-600f-0f2bd5f1753d"><p id="_46ef5d0f-89ee-5f84-3db3-daa2fea708d5">Also see <eref type="inline" bibitemid="ISO191011" citeas="ISO 19101-1:2014"/>, <eref type="inline" bibitemid="ISO191012" citeas="ISO 19101-2:2018"/>.</p>
+</termnote><source status="identical" type="authoritative"><origin bibitemid="ISO19106" type="inline" citeas="ISO 19106:2004"/></source></term>
 
 <term id="_896084b8-529c-3ddb-55f7-6c7560e8a19a" anchor="term-Application-Schema"><preferred><expression>
 <name>Application Schema</name>
@@ -2157,7 +2157,7 @@
 <definition id="_83556e35-1909-02ae-9581-2ee350903254"><verbal-definition id="_e6f63832-13f8-7128-cd27-b855d37c2c3a"><p id="_5e69f452-3293-c6f4-fc88-f055ac28a02a">An application schema utilizes an Implementation standard and adds application specific entities, e.g., feature types. An example of an application schema is IndoorGML or CityGML.</p></verbal-definition></definition>
 
 
- <source status="identical" type="authoritative"><origin bibitemid="ISO19109" type="inline" citeas="ISO 19109"/></source></term>
+ <source status="identical" type="authoritative"><origin bibitemid="ISO19109" type="inline" citeas="ISO 19109:2015"/></source></term>
 
 <term id="_d3bd5f9f-2a14-985e-7749-59a25ac15910" anchor="term-Abstract-Specification"><preferred><expression>
 <name>Abstract Specification</name>
@@ -2356,7 +2356,7 @@
 <definition id="_769bdb85-89e4-a04d-d59b-74c9c0d04d82"><verbal-definition id="_f7ceac3f-aebf-b3e8-f0cf-5f0905492e4b"><p id="_806ffa03-e7b7-92bd-bcc5-1e16d50b5834">A profile is a strict subset of a standard applicable to multiple Application Schemas. An example of a profile is the GML Simple Feature Profile.</p></verbal-definition></definition>
 
 
- <source status="identical" type="authoritative"><origin bibitemid="ISO19109" type="inline" citeas="ISO 19109"/></source></term>
+ <source status="identical" type="authoritative"><origin bibitemid="ISO19109" type="inline" citeas="ISO 19109:2015"/></source></term>
 
 <term id="_1e42acaf-b8dc-109e-d1e9-58d57dbec5dc" anchor="term-Planning-Committee"><preferred><expression>
 <name>Planning Committee</name>
@@ -2496,16 +2496,16 @@
 </ul>
 </termnote><source status="identical" type="authoritative"><origin bibitemid="OMBA119" type="inline" citeas="OMB Circular A-119"/></source></term>
 </terms>
-</annex><bibliography><references id="_80f1d36b-c990-296a-804b-9df68a5bb713" normative="false" obligation="informative">
-<title id="_2b4ed339-a7ed-1bbb-9576-55fcbc1ace3a">Bibliography</title><bibitem id="_456756c5-18bb-5bff-d439-682f8f88605b" type="standard" schema-version="v1.2.9" anchor="OGC06135">
-  <fetched>2026-04-16</fetched>
+</annex><bibliography><references id="_09321dfd-c2cf-38e1-8aee-cec50ede4b09" normative="false" obligation="informative">
+<title id="_2b4ed339-a7ed-1bbb-9576-55fcbc1ace3a">Bibliography</title><bibitem id="_c4525bc1-0637-edf3-ba29-22242538a38d" type="standard" schema-version="v1.5.6" anchor="OGC06135">
+  <fetched>2026-06-16</fetched>
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Specification best practices</title>
+<title language="en" script="Latn" type="title-main">Specification best practices</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Specification best practices</title>
+<title language="en" script="Latn" type="main">Specification best practices</title>
 
-  <uri type="pdf">https://docs.ogc.org/bp/06-135r1/06-135r1.pdf</uri>
+  <uri type="html">https://docs.ogc.org/bp/06-135r1/06-135r1/pdf</uri>
   <docidentifier type="OGC" primary="true">06-135r1</docidentifier>
   <date type="published">
     <on>2007-01-29</on>
@@ -2526,24 +2526,39 @@
 
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>Open Geospatial Consortium</name>
+
+      <subdivision type="technical-committee">
+        
+<name>technical</name>
+
+      </subdivision>
+      <abbreviation>OGC</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This document describes a variety of Best Practices and Specification development guidance that the Members have discussed and approved over the years. These Best Practices have not been captured in other formal OGC documents other than meeting notes.</abstract>
+  <abstract language="en" script="Latn">This document describes a variety of Best Practices and Specification development guidance that the Members have discussed and approved over the years. These Best Practices have not been captured in other formal OGC documents other than meeting notes.</abstract>
+</bibitem><bibitem id="_9b8faff3-cac0-cc09-4745-9f8888e90919" type="standard" schema-version="v1.5.6" anchor="OGC09048">
+  <fetched>2026-06-16</fetched>
   
-</bibitem><bibitem id="_9802e091-72e2-d198-b755-58b07069f90d" type="standard" schema-version="v1.2.9" anchor="OGC09048">
-  <fetched>2026-04-16</fetched>
-  
-<title type="title-intro" format="text/plain" language="en" script="Latn">OGC Name Type Specification</title>
+<title language="en" script="Latn" type="title-intro">OGC Name Type Specification</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">definitions</title>
+<title language="en" script="Latn" type="title-main">definitions</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">part 1 – basic name</title>
+<title language="en" script="Latn" type="title-part">part 1 – basic name</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">OGC Name Type Specification — definitions — part 1 – basic name</title>
+<title language="en" script="Latn" type="main">OGC Name Type Specification — definitions — part 1 – basic name</title>
 
   <uri type="src">http://www.opengis.net/doc/POL-NTS/DEF-1/1.2</uri>
   <uri type="html">https://docs.ogc.org/pol/09-048r5.html</uri>
@@ -2575,18 +2590,33 @@
 
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>Open Geospatial Consortium</name>
+
+      <subdivision type="technical-committee">
+        
+<name>technical</name>
+
+      </subdivision>
+      <abbreviation>OGC</abbreviation>
+    </organization>
+  </contributor>
   <edition>5</edition>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This document specifies a rule for constructing OGC names that may be used for identifying definitions.</abstract>
+  <abstract language="en" script="Latn">This document specifies a rule for constructing OGC names that may be used for identifying definitions.</abstract>
+</bibitem><bibitem id="_943a19d5-debd-9191-5ff8-7413194190aa" type="standard" schema-version="v1.5.6" anchor="OGC09046">
+  <fetched>2026-06-16</fetched>
   
-</bibitem><bibitem id="_5a84e879-e185-8455-fec2-6c1029ead6f0" type="standard" schema-version="v1.2.9" anchor="OGC09046">
-  <fetched>2026-04-16</fetched>
-  
-<title type="title-main" format="text/plain" language="en" script="Latn">OGC Naming Authority – Policies and Procedures </title>
+<title language="en" script="Latn" type="title-main">OGC Naming Authority – Policies and Procedures </title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">OGC Naming Authority – Policies and Procedures </title>
+<title language="en" script="Latn" type="main">OGC Naming Authority – Policies and Procedures </title>
 
   <uri type="src">http://www.opengis.net/doc/POL/OGC-NA/1.2</uri>
   <uri type="html">https://docs.ogc.org/pol/09-046r5.html</uri>
@@ -2618,24 +2648,39 @@
 
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>Open Geospatial Consortium</name>
+
+      <subdivision type="technical-committee">
+        
+<name>technical</name>
+
+      </subdivision>
+      <abbreviation>OGC</abbreviation>
+    </organization>
+  </contributor>
   <edition>5</edition>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This document describes the procedures used by the OGC Naming Authority for the assignment and registration of OGC names.</abstract>
+  <abstract language="en" script="Latn">This document describes the procedures used by the OGC Naming Authority for the assignment and registration of OGC names.</abstract>
+</bibitem><bibitem id="_08172ad9-0fed-9de3-6164-8fb70dddd561" type="standard" schema-version="v1.5.6" anchor="OGC09047">
+  <fetched>2026-06-16</fetched>
   
-</bibitem><bibitem id="_ee60709c-1627-974f-2ac5-21f7992f54f8" type="standard" schema-version="v1.2.9" anchor="OGC09047">
-  <fetched>2026-04-16</fetched>
-  
-<title type="title-intro" format="text/plain" language="en" script="Latn">OGC-NA Name type specification</title>
+<title language="en" script="Latn" type="title-intro">OGC-NA Name type specification</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">documents</title>
+<title language="en" script="Latn" type="title-main">documents</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">OGC-NA Name type specification — documents</title>
+<title language="en" script="Latn" type="main">OGC-NA Name type specification — documents</title>
 
   <uri type="src">http://www.opengis.net/doc/POL-NTS/DOC/1.2</uri>
-  <uri type="pdf">https://docs.ogc.org/pol/09-047r3/09-047r3.pdf</uri>
+  <uri type="html">https://docs.ogc.org/pol/09-047r3/09-047r3/pdf</uri>
   <docidentifier type="OGC" primary="true">09-047r3</docidentifier>
   <date type="published">
     <on>2011-03-01</on>
@@ -2656,20 +2701,35 @@
 
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>Open Geospatial Consortium</name>
+
+      <subdivision type="technical-committee">
+        
+<name>technical</name>
+
+      </subdivision>
+      <abbreviation>OGC</abbreviation>
+    </organization>
+  </contributor>
   <edition>3</edition>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This document specifies a rule for constructing OGC names that may be used for identifying documents and elements within a document.</abstract>
+  <abstract language="en" script="Latn">This document specifies a rule for constructing OGC names that may be used for identifying documents and elements within a document.</abstract>
+</bibitem><bibitem id="_7c7fb955-4eb5-2aba-307a-0f335b5e011f" type="standard" schema-version="v1.5.6" anchor="OGC08125">
+  <fetched>2026-06-16</fetched>
   
-</bibitem><bibitem id="_20b5ec70-55bd-eac8-d47e-b8465166448d" type="standard" schema-version="v1.2.9" anchor="OGC08125">
-  <fetched>2026-04-16</fetched>
-  
-<title type="title-main" format="text/plain" language="en" script="Latn">OGC® KML Standard Development Best Practices</title>
+<title language="en" script="Latn" type="title-main">OGC® KML Standard Development Best Practices</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">OGC® KML Standard Development Best Practices</title>
+<title language="en" script="Latn" type="main">OGC® KML Standard Development Best Practices</title>
 
-  <uri type="pdf">https://docs.ogc.org/bp/08-125r1/08-125r1.pdf</uri>
+  <uri type="html">https://docs.ogc.org/bp/08-125r1/08-125r1/pdf</uri>
   <docidentifier type="OGC" primary="true">08-125r1</docidentifier>
   <date type="published">
     <on>2009-02-04</on>
@@ -2698,94 +2758,73 @@
 
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>Open Geospatial Consortium</name>
+
+      <subdivision type="technical-committee">
+        
+<name>technical</name>
+
+      </subdivision>
+      <abbreviation>OGC</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <script>Latn</script>
-  <abstract format="text/plain" language="en" script="Latn">This OGC® Best Practices Document provides guidelines for developing the OGC KML standard in a manner that best serves and supports the KML application developer and user communities. It applies to the extension of KML by application developers and the subsequent enhancement of the KML standard by the OGC.</abstract>
-  
+  <abstract language="en" script="Latn">This OGC® Best Practices Document provides guidelines for developing the OGC KML standard in a manner that best serves and supports the KML application developer and user communities. It applies to the extension of KML by application developers and the subsequent enhancement of the KML standard by the OGC.</abstract>
 </bibitem><bibitem anchor="ISOOGCTOR" id="_295695a9-b1d3-bbf9-22b4-fc5f2247f294">
   <formattedref format="application/x-isodoc+xml"><em>ISO-OGC Terms of Reference</em>, <link target="https://portal.opengeospatial.org/files/?artifact_id=69074"/></formattedref>
   <docidentifier type="ISO">ISO-OGC Terms of Reference</docidentifier>
   <language>en</language>
   <script>Latn</script>
-</bibitem><bibitem id="_d188ad36-3f60-20f8-57f6-a20cc16000d5" type="standard" schema-version="v1.2.9" anchor="ISODIR2">
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem anchor="ISODIR2" id="_c6a57065-1b5f-d521-4afe-04b6f97b7fb3" type="standard">
+<title format="text/plain">ISO/IEC Directives, Part 2, Principles and rules for the structure and drafting of ISO and IEC documents</title>
+<docidentifier type="ISO">ISO/IEC DIR 2</docidentifier><docnumber>2</docnumber><contributor><role type="publisher"/><organization>
+<name>ISO</name>
+</organization></contributor><contributor><role type="publisher"/><organization>
+<name>IEC</name>
+</organization></contributor><language>en</language><script>Latn</script></bibitem><bibitem id="_edfe8e60-f21f-b493-182b-d8d6b4946f80" type="standard" schema-version="v1.5.6" anchor="ISO191011">
+  <fetched>2026-06-16</fetched>
   
-<title type="title-main" format="text/plain" language="en" script="Latn">ISO/IEC Directives, Part 2</title>
-
-  
-<title type="title-part" format="text/plain" language="en" script="Latn">Principles and rules for the structure and drafting of ISO and IEC documents</title>
-
-  <uri type="src">https://www.iso.org/sites/directives/current/part2/index.xhtml</uri>
-  <docidentifier type="ISO" primary="true">ISO/IEC DIR 2</docidentifier>
-  <edition>9</edition>
-  <language>en</language>
-  <script>Latn</script>
-  <copyright>
-    <from>2021</from>
-    <owner>
-      <organization>
-        
-<name>International Organization for Standardization</name>
-
-        <abbreviation>ISO</abbreviation>
-        <uri>www.iso.org</uri>
-      </organization>
-    </owner>
-  </copyright>
-  <relation type="instanceOf">
-    <bibitem type="standard">
-      <fetched>2026-04-16</fetched>
-      
-<title type="title-main" format="text/plain" language="en" script="Latn">ISO/IEC Directives, Part 2</title>
-
-      
-<title type="title-part" format="text/plain" language="en" script="Latn">Principles and rules for the structure and drafting of ISO and IEC documents</title>
-
-      <uri type="src">https://www.iso.org/sites/directives/current/part2/index.xhtml</uri>
-      <docidentifier type="ISO" primary="true">ISO/IEC DIR 2</docidentifier>
-      <date type="published">
-        <on>2021-05-01</on>
-      </date>
-      <edition>9</edition>
-      <language>en</language>
-      <script>Latn</script>
-      <copyright>
-        <from>2021</from>
-        <owner>
-          <organization>
-            
-<name>International Organization for Standardization</name>
-
-            <abbreviation>ISO</abbreviation>
-            <uri>www.iso.org</uri>
-          </organization>
-        </owner>
-      </copyright>
-    </bibitem>
-
-  </relation>
-</bibitem><bibitem id="_76abf273-6134-1ec3-2a48-11423d549d62" type="standard" schema-version="v1.2.9" anchor="ISO191011">
-  <fetched>2026-04-16</fetched>
-  
-<title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>
+<title language="en" script="Latn" type="title-intro">Geographic information</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Reference model</title>
+<title language="en" script="Latn" type="title-main">Reference model</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Fundamentals</title>
+<title language="en" script="Latn" type="title-part">Part 1: Fundamentals</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Geographic information — Reference model — Part 1: Fundamentals</title>
+<title language="en" script="Latn" type="main">Geographic information — Reference model — Part 1: Fundamentals</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Information géographique</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Modèle de référence</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Partie 1: Principes de base</title>
+
+  
+<title language="fr" script="Latn" type="main">Information géographique — Modèle de référence — Partie 1: Principes de base</title>
 
   <uri type="src">https://www.iso.org/standard/59164.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59164:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/91/59164.detail.rss</uri>
-  <docidentifier type="ISO" primary="true">ISO 19101-1</docidentifier>
-  <docidentifier type="iso-reference">ISO 19101-1(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:19101:-1:stage-90.20</docidentifier>
+  <docidentifier type="ISO" primary="true">ISO 19101-1:2014</docidentifier>
+  <docidentifier type="iso-reference">ISO 19101-1:2014(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:19101:-1:stage-90.92</docidentifier>
   <docnumber>19101</docnumber>
+  <date type="published">
+    <on>2014-11-12</on>
+  </date>
   <contributor>
     <role type="publisher"/>
     <organization>
@@ -2796,13 +2835,33 @@
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Geographic information/Geomatics</name>
+
+        <identifier>ISO/TC 211</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <language>fr</language>
+  <language>ru</language>
   <script>Latn</script>
+  <script>Cyrl</script>
+  <abstract language="en" script="Latn">ISO 19101-1:2014 defines the reference model for standardization in the field of geographic information. This reference model describes the notion of interoperability and sets forth the fundamentals by which this standardization takes place. Although structured in the context of information technology and information technology standards, ISO 19101-1:2014 is independent of any application development method or technology implementation approach.</abstract>
   <status>
     <stage>90</stage>
-    <substage>20</substage>
+    <substage>92</substage>
   </status>
   <copyright>
     <from>2014</from>
@@ -2815,104 +2874,68 @@
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 19101:2002</formattedref>
+    <bibitem>
+      <formattedref>ISO 19101:2002</formattedref>
       <docidentifier type="ISO" primary="true">ISO 19101:2002</docidentifier>
+      <date type="published">
+        <on>2002-07-04</on>
+      </date>
     </bibitem>
 
   </relation>
-  <relation type="instanceOf">
-    <bibitem type="standard">
-      <fetched>2026-04-16</fetched>
-      
-<title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/WD 19101-1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/WD 19101-1</docidentifier>
+    </bibitem>
 
-      
-<title type="title-main" format="text/plain" language="en" script="Latn">Reference model</title>
-
-      
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 1: Fundamentals</title>
-
-      
-<title type="main" format="text/plain" language="en" script="Latn">Geographic information — Reference model — Part 1: Fundamentals</title>
-
-      <uri type="src">https://www.iso.org/standard/59164.html</uri>
-      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59164:en</uri>
-      <uri type="rss">https://www.iso.org/contents/data/standard/05/91/59164.detail.rss</uri>
-      <docidentifier type="ISO" primary="true">ISO 19101-1:2014</docidentifier>
-      <docidentifier type="iso-reference">ISO 19101-1:2014(E)</docidentifier>
-      <docidentifier type="URN">urn:iso:std:iso:19101:-1:stage-90.20</docidentifier>
-      <docnumber>19101</docnumber>
-      <date type="published">
-        <on>2014-11</on>
-      </date>
-      <contributor>
-        <role type="publisher"/>
-        <organization>
-          
-<name>International Organization for Standardization</name>
-
-          <abbreviation>ISO</abbreviation>
-          <uri>www.iso.org</uri>
-        </organization>
-      </contributor>
-      <edition>1</edition>
-      <language>en</language>
-      <language>fr</language>
-      <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">ISO 19101-1:2014 defines the reference model for standardization in the field of geographic information. This reference model describes the notion of interoperability and sets forth the fundamentals by which this standardization takes place.
-Although structured in the context of information technology and information technology standards, ISO 19101-1:2014 is independent of any application development method or technology implementation approach.</abstract>
-      <status>
-        <stage>90</stage>
-        <substage>20</substage>
-      </status>
-      <copyright>
-        <from>2014</from>
-        <owner>
-          <organization>
-            
-<name>ISO</name>
-
-          </organization>
-        </owner>
-      </copyright>
-      <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 19101:2002</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 19101:2002</docidentifier>
-        </bibitem>
-
-      </relation>
-      <place>
-        <city>Geneva</city>
-      </place>
+  </relation>
+  <relation type="obsoletedBy">
+    <bibitem>
+      <formattedref>ISO/AWI 19101-1</formattedref>
+      <docidentifier type="ISO" primary="true">ISO/AWI 19101-1</docidentifier>
     </bibitem>
 
   </relation>
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_9e137680-aa1b-f6cc-8c97-04b8079c1c13" type="standard" schema-version="v1.2.9" anchor="ISO191012">
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="_a7ab4f1c-f4f8-a6f6-ca50-32de00bbfc6b" type="standard" schema-version="v1.5.6" anchor="ISO191012">
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>
+<title language="en" script="Latn" type="title-intro">Geographic information</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Reference model</title>
+<title language="en" script="Latn" type="title-main">Reference model</title>
 
   
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Imagery</title>
+<title language="en" script="Latn" type="title-part">Part 2: Imagery</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Geographic information — Reference model — Part 2: Imagery</title>
+<title language="en" script="Latn" type="main">Geographic information — Reference model — Part 2: Imagery</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Information géographique</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Modèle de réference</title>
+
+  
+<title language="fr" script="Latn" type="title-part">Partie 2: Imagerie</title>
+
+  
+<title language="fr" script="Latn" type="main">Information géographique — Modèle de réference — Partie 2: Imagerie</title>
 
   <uri type="src">https://www.iso.org/standard/69325.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69325:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/06/93/69325.detail.rss</uri>
-  <docidentifier type="ISO" primary="true">ISO 19101-2</docidentifier>
-  <docidentifier type="iso-reference">ISO 19101-2(E)</docidentifier>
+  <docidentifier type="ISO" primary="true">ISO 19101-2:2018</docidentifier>
+  <docidentifier type="iso-reference">ISO 19101-2:2018(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:19101:-2:stage-90.93</docidentifier>
   <docnumber>19101</docnumber>
+  <date type="published">
+    <on>2018-05-24</on>
+  </date>
   <contributor>
     <role type="publisher"/>
     <organization>
@@ -2923,10 +2946,28 @@ Although structured in the context of information technology and information tec
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Geographic information/Geomatics</name>
+
+        <identifier>ISO/TC 211</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
   <language>fr</language>
   <script>Latn</script>
+  <abstract language="en" script="Latn">This document defines a reference model for standardization in the field of geographic imagery processing. This reference model identifies the scope of the standardization activity being undertaken and the context in which it takes place. The reference model includes gridded data with an emphasis on imagery. Although structured in the context of information technology and information technology standards, this document is independent of any application development method or technology implementation approach.</abstract>
   <status>
     <stage>90</stage>
     <substage>93</substage>
@@ -2942,100 +2983,48 @@ Although structured in the context of information technology and information tec
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO/TS 19101-2:2008</formattedref>
+    <bibitem>
+      <formattedref>ISO/TS 19101-2:2008</formattedref>
       <docidentifier type="ISO" primary="true">ISO/TS 19101-2:2008</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="instanceOf">
-    <bibitem type="standard">
-      <fetched>2026-04-16</fetched>
-      
-<title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>
-
-      
-<title type="title-main" format="text/plain" language="en" script="Latn">Reference model</title>
-
-      
-<title type="title-part" format="text/plain" language="en" script="Latn">Part 2: Imagery</title>
-
-      
-<title type="main" format="text/plain" language="en" script="Latn">Geographic information — Reference model — Part 2: Imagery</title>
-
-      <uri type="src">https://www.iso.org/standard/69325.html</uri>
-      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:69325:en</uri>
-      <uri type="rss">https://www.iso.org/contents/data/standard/06/93/69325.detail.rss</uri>
-      <docidentifier type="ISO" primary="true">ISO 19101-2:2018</docidentifier>
-      <docidentifier type="iso-reference">ISO 19101-2:2018(E)</docidentifier>
-      <docidentifier type="URN">urn:iso:std:iso:19101:-2:stage-90.93</docidentifier>
-      <docnumber>19101</docnumber>
       <date type="published">
-        <on>2018-05</on>
+        <on>2008-05-14</on>
       </date>
-      <contributor>
-        <role type="publisher"/>
-        <organization>
-          
-<name>International Organization for Standardization</name>
-
-          <abbreviation>ISO</abbreviation>
-          <uri>www.iso.org</uri>
-        </organization>
-      </contributor>
-      <edition>1</edition>
-      <language>en</language>
-      <language>fr</language>
-      <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">This document defines a reference model for standardization in the field of geographic imagery processing. This reference model identifies the scope of the standardization activity being undertaken and the context in which it takes place. The reference model includes gridded data with an emphasis on imagery. Although structured in the context of information technology and information technology standards, this document is independent of any application development method or technology implementation approach.</abstract>
-      <status>
-        <stage>90</stage>
-        <substage>93</substage>
-      </status>
-      <copyright>
-        <from>2018</from>
-        <owner>
-          <organization>
-            
-<name>ISO</name>
-
-          </organization>
-        </owner>
-      </copyright>
-      <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO/TS 19101-2:2008</formattedref>
-          <docidentifier type="ISO" primary="true">ISO/TS 19101-2:2008</docidentifier>
-        </bibitem>
-
-      </relation>
-      <place>
-        <city>Geneva</city>
-      </place>
     </bibitem>
 
   </relation>
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_ae135cab-a4b8-bc08-5556-6bfe20452c85" type="standard" schema-version="v1.2.9" anchor="ISO19106">
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="_4cf8a430-628a-4d7e-abc6-b9c08f278134" type="standard" schema-version="v1.5.6" anchor="ISO19106">
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>
+<title language="en" script="Latn" type="title-intro">Geographic information</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Profiles</title>
+<title language="en" script="Latn" type="title-main">Profiles</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Geographic information — Profiles</title>
+<title language="en" script="Latn" type="main">Geographic information — Profiles</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Information géographique</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Profils</title>
+
+  
+<title language="fr" script="Latn" type="main">Information géographique — Profils</title>
 
   <uri type="src">https://www.iso.org/standard/26011.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:26011:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/02/60/26011.detail.rss</uri>
-  <docidentifier type="ISO" primary="true">ISO 19106</docidentifier>
-  <docidentifier type="iso-reference">ISO 19106(E)</docidentifier>
+  <docidentifier type="ISO" primary="true">ISO 19106:2004</docidentifier>
+  <docidentifier type="iso-reference">ISO 19106:2004(E)</docidentifier>
   <docidentifier type="URN">urn:iso:std:iso:19106:stage-90.93</docidentifier>
   <docnumber>19106</docnumber>
+  <date type="published">
+    <on>2004-06-28</on>
+  </date>
   <contributor>
     <role type="publisher"/>
     <organization>
@@ -3046,10 +3035,27 @@ Although structured in the context of information technology and information tec
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Geographic information/Geomatics</name>
+
+        <identifier>ISO/TC 211</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>1</edition>
   <language>en</language>
-  <language>fr</language>
   <script>Latn</script>
+  <abstract language="en" script="Latn">ISO 19106:2004 is intended to define the concept of a profile of the ISO geographic information standards developed by ISO/TC 211 and to provide guidance for the creation of such profiles. Only those components of specifications that meet the definition of a profile contained herein can be established and managed through the mechanisms described in this International Standard. These profiles can be standardized internationally using the ISO standardization process. This document also provides guidance for establishing, managing, and standardizing at the national level (or in some other forum).</abstract>
   <status>
     <stage>90</stage>
     <substage>93</substage>
@@ -3064,84 +3070,39 @@ Although structured in the context of information technology and information tec
       </organization>
     </owner>
   </copyright>
-  <relation type="instanceOf">
-    <bibitem type="standard">
-      <fetched>2026-04-16</fetched>
-      
-<title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>
-
-      
-<title type="title-main" format="text/plain" language="en" script="Latn">Profiles</title>
-
-      
-<title type="main" format="text/plain" language="en" script="Latn">Geographic information — Profiles</title>
-
-      <uri type="src">https://www.iso.org/standard/26011.html</uri>
-      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:26011:en</uri>
-      <uri type="rss">https://www.iso.org/contents/data/standard/02/60/26011.detail.rss</uri>
-      <docidentifier type="ISO" primary="true">ISO 19106:2004</docidentifier>
-      <docidentifier type="iso-reference">ISO 19106:2004(E)</docidentifier>
-      <docidentifier type="URN">urn:iso:std:iso:19106:stage-90.93</docidentifier>
-      <docnumber>19106</docnumber>
-      <date type="published">
-        <on>2004-07</on>
-      </date>
-      <contributor>
-        <role type="publisher"/>
-        <organization>
-          
-<name>International Organization for Standardization</name>
-
-          <abbreviation>ISO</abbreviation>
-          <uri>www.iso.org</uri>
-        </organization>
-      </contributor>
-      <edition>1</edition>
-      <language>en</language>
-      <language>fr</language>
-      <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">ISO 19106:2004 is intended to define the concept of a profile of the ISO geographic information standards developed by ISO/TC 211 and to provide guidance for the creation of such profiles. Only those components of specifications that meet the definition of a profile contained herein can be established and managed through the mechanisms described in this International Standard. These profiles can be standardized internationally using the ISO standardization process. This document also provides guidance for establishing, managing, and standardizing at the national level (or in some other forum).</abstract>
-      <status>
-        <stage>90</stage>
-        <substage>93</substage>
-      </status>
-      <copyright>
-        <from>2004</from>
-        <owner>
-          <organization>
-            
-<name>ISO</name>
-
-          </organization>
-        </owner>
-      </copyright>
-      <place>
-        <city>Geneva</city>
-      </place>
-    </bibitem>
-
-  </relation>
   <place>
     <city>Geneva</city>
   </place>
-</bibitem><bibitem id="_5c997d8a-3e1b-130b-0043-472befbec4e5" type="standard" schema-version="v1.2.9" anchor="ISO19109">
-  <fetched>2026-04-16</fetched>
+</bibitem><bibitem id="_856f0506-75bf-59ae-f813-f9dc4872b3f0" type="standard" schema-version="v1.5.6" anchor="ISO19109">
+  <fetched>2026-06-16</fetched>
   
-<title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>
+<title language="en" script="Latn" type="title-intro">Geographic information</title>
 
   
-<title type="title-main" format="text/plain" language="en" script="Latn">Rules for application schema</title>
+<title language="en" script="Latn" type="title-main">Rules for application schema</title>
 
   
-<title type="main" format="text/plain" language="en" script="Latn">Geographic information — Rules for application schema</title>
+<title language="en" script="Latn" type="main">Geographic information — Rules for application schema</title>
+
+  
+<title language="fr" script="Latn" type="title-intro">Information géographique</title>
+
+  
+<title language="fr" script="Latn" type="title-main">Règles de schéma d’application</title>
+
+  
+<title language="fr" script="Latn" type="main">Information géographique — Règles de schéma d’application</title>
 
   <uri type="src">https://www.iso.org/standard/59193.html</uri>
   <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59193:en</uri>
   <uri type="rss">https://www.iso.org/contents/data/standard/05/91/59193.detail.rss</uri>
-  <docidentifier type="ISO" primary="true">ISO 19109</docidentifier>
-  <docidentifier type="iso-reference">ISO 19109(E)</docidentifier>
-  <docidentifier type="URN">urn:iso:std:iso:19109:stage-90.92</docidentifier>
+  <docidentifier type="ISO" primary="true">ISO 19109:2015</docidentifier>
+  <docidentifier type="iso-reference">ISO 19109:2015(E)</docidentifier>
+  <docidentifier type="URN">urn:iso:std:iso:19109:stage-95.99</docidentifier>
   <docnumber>19109</docnumber>
+  <date type="published">
+    <on>2015-11-25</on>
+  </date>
   <contributor>
     <role type="publisher"/>
     <organization>
@@ -3152,13 +3113,33 @@ Although structured in the context of information technology and information tec
       <uri>www.iso.org</uri>
     </organization>
   </contributor>
+  <contributor>
+    <role type="author">
+      <description>committee</description>
+    </role>
+    <organization>
+      
+<name>International Organization for Standardization</name>
+
+      <subdivision type="technical-committee" subtype="TC">
+        
+<name>Geographic information/Geomatics</name>
+
+        <identifier>ISO/TC 211</identifier>
+      </subdivision>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
   <edition>2</edition>
   <language>en</language>
   <language>fr</language>
+  <language>ru</language>
   <script>Latn</script>
+  <script>Cyrl</script>
+  <abstract language="en" script="Latn">ISO 19109:2015 defines rules for creating and documenting application schemas, including principles for the definition of features. The scope of this International Standard includes the following: — conceptual modelling of features and their properties from a universe of discourse; — definition of application schemas; — use of the conceptual schema language for application schemas; — transition from the concepts in the conceptual model to the data types in the application schema; — integration of standardized schemas from other ISO geographic information standards with the application schema. The following are outside the scope: — choice of one particular conceptual schema language for application schemas; — definition of any particular application schema; — representation of feature types and their properties in a feature catalogue; — representation of metadata; — rules for mapping one application schema to another; — implementation of the application schema in a computer environment; — computer system and application software design; — programming.</abstract>
   <status>
-    <stage>90</stage>
-    <substage>92</substage>
+    <stage>95</stage>
+    <substage>99</substage>
   </status>
   <copyright>
     <from>2015</from>
@@ -3171,108 +3152,12 @@ Although structured in the context of information technology and information tec
     </owner>
   </copyright>
   <relation type="obsoletes">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 19109:2005</formattedref>
+    <bibitem>
+      <formattedref>ISO 19109:2005</formattedref>
       <docidentifier type="ISO" primary="true">ISO 19109:2005</docidentifier>
-    </bibitem>
-
-  </relation>
-  <relation type="updates">
-    <bibitem type="standard">
-      <formattedref format="text/plain">ISO 19109</formattedref>
-      <docidentifier type="ISO" primary="true">ISO 19109</docidentifier>
-      <date type="circulated">
-        <on>2022-02-22</on>
-      </date>
-    </bibitem>
-
-  </relation>
-  <relation type="instanceOf">
-    <bibitem type="standard">
-      <fetched>2026-04-16</fetched>
-      
-<title type="title-intro" format="text/plain" language="en" script="Latn">Geographic information</title>
-
-      
-<title type="title-main" format="text/plain" language="en" script="Latn">Rules for application schema</title>
-
-      
-<title type="main" format="text/plain" language="en" script="Latn">Geographic information — Rules for application schema</title>
-
-      <uri type="src">https://www.iso.org/standard/59193.html</uri>
-      <uri type="obp">https://www.iso.org/obp/ui/en/#!iso:std:59193:en</uri>
-      <uri type="rss">https://www.iso.org/contents/data/standard/05/91/59193.detail.rss</uri>
-      <docidentifier type="ISO" primary="true">ISO 19109:2015</docidentifier>
-      <docidentifier type="iso-reference">ISO 19109:2015(E)</docidentifier>
-      <docidentifier type="URN">urn:iso:std:iso:19109:stage-90.92</docidentifier>
-      <docnumber>19109</docnumber>
       <date type="published">
-        <on>2015-12</on>
+        <on>2005-06-23</on>
       </date>
-      <contributor>
-        <role type="publisher"/>
-        <organization>
-          
-<name>International Organization for Standardization</name>
-
-          <abbreviation>ISO</abbreviation>
-          <uri>www.iso.org</uri>
-        </organization>
-      </contributor>
-      <edition>2</edition>
-      <language>en</language>
-      <language>fr</language>
-      <script>Latn</script>
-      <abstract format="text/plain" language="en" script="Latn">ISO 19109:2015 defines rules for creating and documenting application schemas, including principles for the definition of features.
-The scope of this International Standard includes the following:
--      conceptual modelling of features and their properties from a universe of discourse;
--      definition of application schemas;
--      use of the conceptual schema language for application schemas;
--      transition from the concepts in the conceptual model to the data types in the application schema;
--      integration of standardized schemas from other ISO geographic information standards with the application schema.
-The following are outside the scope:
--      choice of one particular conceptual schema language for application schemas;
--      definition of any particular application schema;
--      representation of feature types and their properties in a feature catalogue;
--      representation of metadata;
--      rules for mapping one application schema to another;
--      implementation of the application schema in a computer environment;
--      computer system and application software design;
--      programming.</abstract>
-      <status>
-        <stage>90</stage>
-        <substage>92</substage>
-      </status>
-      <copyright>
-        <from>2015</from>
-        <owner>
-          <organization>
-            
-<name>ISO</name>
-
-          </organization>
-        </owner>
-      </copyright>
-      <relation type="obsoletes">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 19109:2005</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 19109:2005</docidentifier>
-        </bibitem>
-
-      </relation>
-      <relation type="updates">
-        <bibitem type="standard">
-          <formattedref format="text/plain">ISO 19109</formattedref>
-          <docidentifier type="ISO" primary="true">ISO 19109</docidentifier>
-          <date type="circulated">
-            <on>2022-02-22</on>
-          </date>
-        </bibitem>
-
-      </relation>
-      <place>
-        <city>Geneva</city>
-      </place>
     </bibitem>
 
   </relation>

@@ -1,5 +1,5 @@
-<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>OGC Policy: Technical Committee Policies and Procedures</title><contributor><role type='author'/><organization><name>Technical Committee Policies and Procedures</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.2.9">
-  <title type="main" language="en">Technical Committee Policies and Procedures</title>
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>OGC Policy: Technical Committee Policies and Procedures</title><contributor><role type='author'/><organization><name>Technical Committee Policies and Procedures</name></organization></contributor><relation type='partOf'><bibdata type="standard" schema-version="v1.5.6">
+  <title language="en" type="main">Technical Committee Policies and Procedures</title>
   <uri>http://docs.opengeospatial.org/pol/05-020r26/05-020r26.html</uri>
   <uri type="xml">./documents/ogc-tcpnp.xml</uri>
   <uri type="pdf">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.pdf</uri>
@@ -32,9 +32,9 @@
     </role>
     <organization>
       <name>Open Geospatial Consortium</name>
-      <subdivision>
-Technical Committee
-</subdivision>
+      <subdivision type="Committee">
+        <name>Technical Committee</name>
+      </subdivision>
       <abbreviation>OGC</abbreviation>
     </organization>
   </contributor>
@@ -48,31 +48,32 @@ Technical Committee
   <edition>26.0</edition>
   <language>en</language>
   <script>Latn</script>
-  <abstract>&lt;p&gt;The &lt;eref type="inline" bibitemid="OGC" citeas="OGC"/&gt; provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. "&lt;tt&gt;International standards&lt;/tt&gt;" (as defined in &lt;eref type="inline" bibitemid="ISODIR2" citeas="ISO/IEC DIR 2"/&gt;) are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:&lt;/p&gt;
+  <abstract><p>The <eref type="inline" bibitemid="OGC" citeas="OGC"/> provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. "<tt>International standards</tt>" (as defined in <eref type="inline" bibitemid="ISODIR2" citeas="ISO/IEC&#xA0;DIR&#xA0;2"/>) are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:</p>
 
-&lt;p&gt;A document, established by consensus and approved by the OGC Membership, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context.&lt;/p&gt;
+<p>A document, established by consensus and approved by the OGC Membership, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context.</p>
 
-&lt;p&gt;To guide an open standards development and approval process, a member approved Policies and Procedures is required.&lt;/p&gt;
+<p>To guide an open standards development and approval process, a member approved Policies and Procedures is required.</p>
 
-&lt;p&gt;This document describes the OGC Technical Committee (TC) policies and procedures (P&amp;P). The TC has been granted authority to operate by the OGC Bylaws. The TC is composed of individuals representing organizations that are duly recognized members in good standing of the OGC. The Technical Committee Chair (TCC - see &lt;xref target="role-of-the-technical-committee-chair-tcc"/&gt;) facilitates the TC process.&lt;/p&gt;
+<p>This document describes the OGC Technical Committee (TC) policies and procedures (P&amp;P). The TC has been granted authority to operate by the OGC Bylaws. The TC is composed of individuals representing organizations that are duly recognized members in good standing of the OGC. The Technical Committee Chair (TCC - see <xref target="role-of-the-technical-committee-chair-tcc"/>) facilitates the TC process.</p>
 
-&lt;p&gt;The TC P&amp;P:&lt;/p&gt;
+<p>The TC P&amp;P:</p>
 
-&lt;ul&gt;&lt;li&gt;&lt;p&gt;Documents all TC voting processes and procedures;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Documents the formation, scope and processes required for TC subgroup and committee activities;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Documents the processes and procedures for submitting, reviewing, and approving a new standard using the Request for Comment procedures; and&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Documents the process for revisions to adopted OGC® standards.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+<p>Documents all TC voting processes and procedures;</p>
 
-&lt;p&gt;As the needs and purpose of the TC change, these policies and procedures changes are approved by an electronic vote of the Voting Members of OGC TC or by recommendation of the OGC Planning Committee (PC). These policies and procedures may be augmented or clarified by Policy Directives issued and approved by the TC or the PC. Such directives are databased and hyperlinked to/from the appropriate portion of this document.&lt;/p&gt;
+<p>Documents the formation, scope and processes required for TC subgroup and committee activities;</p>
 
-&lt;p&gt;The OGC Technical Committee provides an open, collaborative forum for professional discussion related to the consensus development and/or evaluation, approval, and revision of OGC international standards. The primary use of approved OGC standards is to provide the ability to build and deploy interoperable geospatial solutions in the larger Information Technology (IT) domain.&lt;/p&gt;
+<p>Documents the processes and procedures for submitting, reviewing, and approving a new standard using the Request for Comment procedures; and</p>
 
-&lt;p&gt;The OGC Principles of Conduct (&lt;eref type="inline" bibitemid="OGCPOC" citeas="OGC Principles of Conduct"/&gt;) govern personal and public interactions in any TC activity.&lt;/p&gt;</abstract>
+<p>Documents the process for revisions to adopted OGC® standards.</p>
+
+
+
+<p>As the needs and purpose of the TC change, these policies and procedures changes are approved by an electronic vote of the Voting Members of OGC TC or by recommendation of the OGC Planning Committee (PC). These policies and procedures may be augmented or clarified by Policy Directives issued and approved by the TC or the PC. Such directives are databased and hyperlinked to/from the appropriate portion of this document.</p>
+
+<p>The OGC Technical Committee provides an open, collaborative forum for professional discussion related to the consensus development and/or evaluation, approval, and revision of OGC international standards. The primary use of approved OGC standards is to provide the ability to build and deploy interoperable geospatial solutions in the larger Information Technology (IT) domain.</p>
+
+<p>The OGC Principles of Conduct (<eref type="inline" bibitemid="OGCPOC" citeas="OGC&#xA0;Principles&#xA0;of&#xA0;Conduct"/>) govern personal and public interactions in any TC activity.</p>
+</abstract>
   <status>
     <stage>approved</stage>
   </status>
@@ -87,6 +88,7 @@ Technical Committee
   </copyright>
   <ext>
     <doctype>policy</doctype>
+    <flavor>ogc</flavor>
   </ext>
 </bibdata></relation>
 </relaton-collection>
