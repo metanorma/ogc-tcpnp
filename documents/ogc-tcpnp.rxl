@@ -1,10 +1,14 @@
 <bibdata type="standard">
-<title language="en" format="text/plain">Technical Committee Policies and Procedures</title>
-<uri>http://docs.opengeospatial.org/pol/05-020r26/05-020r26.html</uri><uri type="xml">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.xml</uri><uri type="pdf">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.pdf</uri><uri type="doc">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.doc</uri><docidentifier type="ogc-external">http://www.opengis.net/doc/pol/tcpnp/26.0</docidentifier><docidentifier type="ogc-internal">05-020r26</docidentifier><docnumber>05-020r26</docnumber><date type="published"><on>2018-07-24</on></date><date type="issued"><on>2018-06-05</on></date><date type="received"><on>2018-02-14</on></date><contributor><role type="editor"/><person>
+<title language="en" type="main">Technical Committee Policies and Procedures</title>
+<uri>http://docs.opengeospatial.org/pol/05-020r26/05-020r26.html</uri><uri type="xml">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.xml</uri><uri type="pdf">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.pdf</uri><uri type="doc">https://riboseinc.github.io/ogc-tcpnp/ogc-tcpnp.doc</uri><docidentifier type="ogc-internal" primary="true">05-020r26</docidentifier><docidentifier type="ogc-external">http://www.opengis.net/doc/pol/tcpnp/26.0</docidentifier><docnumber>05-020r26</docnumber><date type="published"><on>2018-07-24</on></date><date type="issued"><on>2018-06-05</on></date><date type="received"><on>2018-02-14</on></date><contributor><role type="editor"/><person>
 <name><completename>Scott Simmons</completename></name>
-</person></contributor><contributor><role type="publisher"/><organization>
+</person></contributor><contributor><role type="author"><description>committee</description></role><organization>
 <name>Open Geospatial Consortium</name>
-</organization></contributor><edition>26.0</edition><language>en</language><script>Latn</script><abstract><p>The <eref type="inline" bibitemid="OGC" citeas="OGC"/> provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. "International standards" (as defined in <eref type="inline" bibitemid="ISODIR2" citeas="ISO/IEC DIR 2"/>) are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:</p>
+<subdivision type="Committee">
+<name>Technical Committee</name>
+</subdivision><abbreviation>OGC</abbreviation></organization></contributor><contributor><role type="publisher"/><organization>
+<name>Open Geospatial Consortium</name>
+<abbreviation>OGC</abbreviation></organization></contributor><edition>26.0</edition><language>en</language><script>Latn</script><abstract><p>The <eref type="inline" bibitemid="OGC" citeas="OGC"/> provides a collaborative, consensus process for developing and approving open, international standards for the geospatial domain. &#x201C;International standards&#x201D; (as defined in <eref type="inline" bibitemid="ISODIR2" citeas="ISO/IEC&#xA0;DIR&#xA0;2"/>) are those adopted by an international standardizing/standards organization and made available to the public. Specifically, an OGC standard is:</p>
 
 <p>A document, established by consensus and approved by the OGC Membership, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context.</p>
 
@@ -20,7 +24,7 @@
 </li>
 <li><p>Documents the processes and procedures for submitting, reviewing, and approving a new standard using the Request for Comment procedures; and</p>
 </li>
-<li><p>Documents the process for revisions to adopted OGC® standards.</p>
+<li><p>Documents the process for revisions to adopted OGC&#xAE; standards.</p>
 </li>
 </ul>
 
@@ -28,7 +32,7 @@
 
 <p>The OGC Technical Committee provides an open, collaborative forum for professional discussion related to the consensus development and/or evaluation, approval, and revision of OGC international standards. The primary use of approved OGC standards is to provide the ability to build and deploy interoperable geospatial solutions in the larger Information Technology (IT) domain.</p>
 
-<p>The OGC Principles of Conduct (<eref type="inline" bibitemid="OGCPOC" citeas="OGC Principles of Conduct"/>) govern personal and public interactions in any TC activity.</p>
+<p>The OGC Principles of Conduct (<eref type="inline" bibitemid="OGCPOC" citeas="OGC&#xA0;Principles&#xA0;of&#xA0;Conduct"/>) govern personal and public interactions in any TC activity.</p>
 </abstract><status><stage>approved</stage></status><copyright><from>2018</from><owner><organization>
 <name>Open Geospatial Consortium</name>
-</organization></owner></copyright><ext><doctype>policy</doctype><editorialgroup><committee>Technical Committee</committee></editorialgroup></ext></bibdata>
+<abbreviation>OGC</abbreviation></organization></owner></copyright><ext><doctype>policy</doctype><flavor>ogc</flavor><stage>approved</stage></ext></bibdata>
