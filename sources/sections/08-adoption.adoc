@@ -331,7 +331,7 @@ There are two categories of potentially unacceptable Abstract Specification chan
 
 A new AS Topic Volume or a revision to an existing AS Topic volume may be proposed by the OGC members for the case in which the document was created in an Authoritative SDO activity or a joint OGC and Authoritative SDO-developed activity. There are the two cases: A document entirely developed in the Authoritative SDO and then recommended by OGC members to be an Abstract Specification and a document jointly developed by the OGC and Authoritative SDO memberships. Each case is now described.
 
-NOTE: Please refer to the <<ISOOGCTOR>> for details of the working relationship between the OGC and ISO TC 211 - Geomatics.
+NOTE: Please refer to the <<ISOOGCTOR,ISO-OGC Terms of Reference>> for details of the working relationship between the OGC and ISO TC 211 - Geomatics.
 
 
 [[authoritative-sdo-standard-as-an-ogc-abstract-specification-topic-volume]]
