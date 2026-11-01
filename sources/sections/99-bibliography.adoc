@@ -10,7 +10,7 @@
 
 * [[[ISO19106,ISO 19106]]], _Geographic information -- Profile_
 
-* [[[ISOOGCTOR,ISO-OGC Terms of Reference]]], _ISO-OGC Terms of Reference_, https://portal.opengeospatial.org/files/?artifact_id=69074
+* [[[ISOOGCTOR]]], _ISO-OGC Terms of Reference_, https://portal.opengeospatial.org/files/?artifact_id=69074
 
 * [[[OGC,OGC]]], _OGC Homepage_, http://www.opengeospatial.org/
 
